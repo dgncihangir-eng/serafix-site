@@ -1,0 +1,71 @@
+{
+ "slug": "shading-screen-pinion-clamp",
+ "order": 21,
+ "id": 62,
+ "cat": "gol",
+ "img": "4102f9525709.webp",
+ "codes": [
+  "KLP129",
+  "KLP205"
+ ],
+ "name": {
+  "tr": "Gölgeleme Perdesi Pinyon Kelepçesi",
+  "en": "Shading Screen Pinion Clamp",
+  "ru": "Хомут шестерни затеняющего экрана",
+  "ar": "مشبك ترس ستارة التظليل"
+ },
+ "desc": {
+  "tr": "Gölgeleme perdesi mekanizmasının montajında kullanılır. Kalınlık 2mm.",
+  "en": "Used in the assembly of the shading screen mechanism. Thickness 2mm.",
+  "ru": "Применяется при монтаже механизма затеняющего экрана. Толщина 2 мм.",
+  "ar": "يُستخدم في تركيب آلية ستارة التظليل. السماكة 2 مم."
+ },
+ "vars": [
+  {
+   "code": "KLP129",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "Gölgeleme perdesi mekanizmasının montajında kullanılır. Kalınlık 2mm.",
+    "en": "Used in the assembly of the shading screen mechanism. Thickness 2mm."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP205",
+   "size": {
+    "en": "Fits 115x100mm profile",
+    "ru": "Для профиля 115x100mm",
+    "ar": "يناسب بروفيل 115x100mm",
+    "tr": "115x100mm profil uyar"
+   },
+   "rest": {
+    "tr": "Gölgeleme perdesi mekanizmasının montajında kullanılan gölgeleme perdesi pinyon (mekanizma) kelepçesi. Kalınlık 2mm, A115mm, B100mm. [Kataloktaki ayrı görsel henüz…",
+    "en": "Shading screen pinion (mechanism) clamp used in the assembly of the shading screen mechanism. Thickness 2mm, A115mm, B100mm. [Kataloktaki ayrı görsel henüz eklenmedi,…"
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

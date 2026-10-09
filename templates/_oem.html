@@ -1,0 +1,108 @@
+<div>
+<section style="background: #0F3B2A; color: #FFFFFF">
+<div style="max-width: 1280px; margin: 0 auto; padding: 72px 24px; display: flex; flex-wrap: wrap; gap: 40px; align-items: center">
+<div style="flex: 1.3 1 480px; display: flex; flex-direction: column; gap: 20px">
+<span class="up" style="align-self: flex-start; font-size: 13px; font-weight: 700; color: #9FD9A9; letter-spacing: 0.08em; text-transform: uppercase">{{t.oem.tag}}</span>
+<h1 class="fh" style="margin: 0; font-size: 46px; line-height: 1.1; letter-spacing: -0.02em">{{t.oem.title}}</h1>
+<p style="margin: 0; font-size: 18px; line-height: 1.7; color: #CFE3D5; max-width: 640px">{{t.oem.lead}}</p>
+<a href="#oem-form" style="align-self: flex-start; display: inline-flex; align-items: center; height: 54px; padding: 0 26px; border-radius: 999px; background: #FFFFFF; color: #0F3B2A; font-weight: 700; text-decoration: none">{{t.oem.btn}}</a>
+</div>
+<div style="flex: 1 1 380px; min-height: 300px; border-radius: 2px; background: #164A35; border: 1px solid #245C45; display: flex; align-items: center; justify-content: center; color: #8FC59E; font-weight: 600; text-align: center; padding: 20px">{{t.oem.photo}}</div>
+</div>
+</section>
+
+<section style="max-width: 1280px; margin: 0 auto; padding: 72px 24px 0">
+<h2 class="fh" style="margin: 0 0 28px; font-size: 32px; letter-spacing: -0.02em">{{t.oem.stepsTitle}}</h2>
+<ol style="list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 16px">
+{% for s in oemSteps %}
+<li style="background: #FFFFFF; border: 1px solid #E3E8E4; border-radius: 2px; padding: 22px; display: flex; flex-direction: column; gap: 10px">
+<span class="fh" style="width: 40px; height: 40px; border-radius: 50%; background: #1F7A47; color: #FFFFFF; display: flex; align-items: center; justify-content: center; font-weight: 700">{{s.n}}</span>
+<strong style="font-size: 17px">{{s.t}}</strong>
+<span style="font-size: 14px; line-height: 1.6; color: #5B6660">{{s.d}}</span>
+</li>
+{% endfor %}
+</ol>
+</section>
+
+<section style="max-width: 1280px; margin: 0 auto; padding: 72px 24px 0">
+<h2 class="fh" style="margin: 0 0 28px; font-size: 32px; letter-spacing: -0.02em">{{t.oem.capsTitle}}</h2>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px">
+{% for c in t.oem.caps %}
+<div style="background: #FFFFFF; border: 1px solid #E3E8E4; border-radius: 2px; overflow: hidden; display: flex; flex-direction: column">
+{% set ci = capImgs[loop.index0] if loop.index0 < capImgs|length else "" %}{% if ci %}<img src="/assets/img/{{ ci }}" alt="{{ c.t }} — SERAFIX" width="600" height="338" loading="lazy" decoding="async" style="display: block; width: 100%; height: 190px; object-fit: cover">{% else %}<div style="height: 190px; background: #EDF3EF; color: #6B8C77; display: flex; align-items: center; justify-content: center; font-size: 13px; font-weight: 600">{{t.oem.capPhoto}}</div>{% endif %}
+<div style="padding: 20px; display: flex; flex-direction: column; gap: 8px">
+<strong style="font-size: 17px">{{c.t}}</strong>
+<span style="font-size: 14px; line-height: 1.6; color: #5B6660">{{c.d}}</span>
+</div>
+</div>
+{% endfor %}
+</div>
+</section>
+
+<section id="kaliplar" style="max-width: 1280px; margin: 0 auto; padding: 72px 24px 0">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 32px 48px; align-items: center; margin-bottom: 32px">
+<div style="display: flex; flex-direction: column; gap: 18px; min-width: 0">
+<div>
+<span class="up" style="display: block; font-size: 12px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: #1F7A47; margin-bottom: 10px">{{ t.toolTag }}</span>
+<h2 class="fh" style="margin: 0 0 10px; font-size: 32px; letter-spacing: -0.02em">{{ t.toolTitle }}</h2>
+<p style="margin: 0; font-size: 17px; line-height: 1.7; color: #3F4D42">{{ t.toolLead }}</p>
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px">{% for k, v in t.toolProc.items() %}<span style="font-size: 13px; font-weight: 600; color: #0F3B2A; background: #E8F3EB; padding: 6px 12px; border-radius: 999px">{{ v }}</span>{% endfor %}</div>
+</div>
+<figure style="margin: 0; min-width: 0">
+<img src="/assets/img/tooling/tool-room-wire-edm.webp" alt="{{ t.toolPhoto }}" width="1280" height="720" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover">
+<figcaption style="font-size: 13px; color: #5B6660; padding-top: 10px">{{ t.toolPhoto }}</figcaption>
+</figure>
+</div>
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px">
+{% for d in tooling %}
+<a href="{{ d.img }}" target="_blank" rel="noopener" class="bl gcard" style="display: flex; flex-direction: column; background: #FFFFFF; border: 1px solid #E3E8E4; color: #11261C">
+<span style="height: 220px; background: #FFFFFF; display: flex; align-items: center; justify-content: center; padding: 14px; border-bottom: 1px solid #ECEFE8"><img src="{{ d.img }}" alt="{{ d.title }} — SERAFIX OEM" width="400" height="300" loading="lazy" decoding="async" style="max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain"></span>
+<span style="padding: 16px 18px 18px; display: flex; flex-direction: column; gap: 10px">
+<strong style="font-size: 16px; line-height: 1.35">{{ d.title }}</strong>
+<span style="display: flex; flex-wrap: wrap; gap: 6px">{% for p in d.proc %}<span style="font-size: 12px; font-weight: 600; color: #4F7A60; border: 1px solid #CFE3D5; padding: 3px 9px; border-radius: 999px">{{ p }}</span>{% endfor %}</span>
+</span>
+</a>
+{% endfor %}
+</div>
+<p style="margin: 20px 0 0; font-size: 14px; color: #5B6660">{{ t.toolNote }}</p>
+</section>
+
+<section id="oem-form" style="max-width: 1280px; margin: 0 auto; padding: 72px 24px 0">
+<div style="background: #FFFFFF; border: 1.5px solid #1F7A47; border-radius: 2px; padding: 40px; box-sizing: border-box">
+<h2 class="fh" style="margin: 0 0 6px; font-size: 30px; letter-spacing: -0.02em">{{t.oem.formTitle}}</h2>
+<p style="margin: 0 0 24px; color: #5B6660">{{t.oem.formText}}</p>
+<div role="status" class="sentbox" hidden style="background: #E3F0E6; border-radius: 2px; padding: 24px; display: flex; flex-direction: column; gap: 8px">
+<strong style="font-size: 18px; color: #0F3B2A">{{t.oem.sentTitle}}</strong>
+<span style="color: #3F4D42">{{t.oem.sentText}}</span>
+</div>
+<form class="lead" data-kind="oem" action="{{ formAction }}" method="post" enctype="multipart/form-data">
+<input type="hidden" name="_subject" value="OEM request — SERAFIX ({{ lang }})">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px">
+<label style="display: flex; flex-direction: column; gap: 6px; font-weight: 600; font-size: 14px">{{t.f.name}}
+<input name="name" required type="text" style="height: 48px; padding: 0 14px; border: 1.5px solid #C7D3CC; border-radius: 2px; font: inherit; font-weight: 400">
+</label>
+<label style="display: flex; flex-direction: column; gap: 6px; font-weight: 600; font-size: 14px">{{t.f.email}}
+<input name="email" required type="email" dir="ltr" style="height: 48px; padding: 0 14px; border: 1.5px solid #C7D3CC; border-radius: 2px; font: inherit; font-weight: 400">
+</label>
+<label style="display: flex; flex-direction: column; gap: 6px; font-weight: 600; font-size: 14px">{{t.oem.qty}}
+<input name="quantity" type="text" style="height: 48px; padding: 0 14px; border: 1.5px solid #C7D3CC; border-radius: 2px; font: inherit; font-weight: 400">
+</label>
+<label style="display: flex; flex-direction: column; gap: 6px; font-weight: 600; font-size: 14px">{{t.oem.material}}
+<input name="material" type="text" style="height: 48px; padding: 0 14px; border: 1.5px solid #C7D3CC; border-radius: 2px; font: inherit; font-weight: 400">
+</label>
+</div>
+<label style="display: flex; flex-direction: column; gap: 6px; font-weight: 600; font-size: 14px; margin-top: 16px">{{t.oem.file}}
+<span style="height: 96px; border: 1.5px dashed #9FC2AC; border-radius: 2px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 4px; color: #5B6660; font-weight: 500; text-align: center; padding: 8px">
+<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 16V4"></path><path d="m7 9 5-5 5 5"></path><path d="M4 20h16"></path></svg>
+{{t.oem.filePh}}</span>
+<input name="attachment" type="file" multiple class="sr">
+</label>
+<label style="display: flex; flex-direction: column; gap: 6px; font-weight: 600; font-size: 14px; margin-top: 16px">{{t.oem.note}}
+<textarea name="note" rows="4" style="padding: 12px 14px; border: 1.5px solid #C7D3CC; border-radius: 2px; font: inherit; font-weight: 400; resize: vertical"></textarea>
+</label>
+<button type="submit" style="margin-top: 20px; height: 52px; padding: 0 28px; border: none; border-radius: 2px; background: #1F7A47; color: #FFFFFF; font: inherit; font-weight: 700; font-size: 16px; cursor: pointer">{{t.oem.submit}}</button>
+</form>
+</div>
+</section>
+</div>

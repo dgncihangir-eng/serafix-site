@@ -1,0 +1,56 @@
+{
+ "slug": "column-head-cross-left",
+ "order": 42,
+ "id": 82,
+ "cat": "kel",
+ "img": "3f8d9413a009.webp",
+ "codes": [
+  "KLP190"
+ ],
+ "name": {
+  "tr": "Kolon Baş Çaprazı Sol",
+  "en": "Column Head Cross Left",
+  "ru": "Крестовина оголовка колонны, левая",
+  "ar": "صليب رأس العمود أيسر"
+ },
+ "desc": {
+  "tr": "60x60 profil uyar. Kolon baş çaprazı, sol. Kalınlık 3mm, bağlantı 60x60.",
+  "en": "Fits 60x60 profile. Column head cross, left. Thickness 3mm, connection 60x60.",
+  "ru": "Для профиля 60x60. Крестовина оголовка колонны, левая. Толщина 3 мм.",
+  "ar": "يناسب بروفيل 60x60. صليب رأس العمود، أيسر. السماكة 3 مم."
+ },
+ "vars": [
+  {
+   "code": "KLP190",
+   "size": {
+    "en": "Fits 60x60 profile",
+    "ru": "Для профиля 60x60",
+    "ar": "يناسب بروفيل 60x60",
+    "tr": "60x60 profil uyar"
+   },
+   "rest": {
+    "tr": "Kolon baş çaprazı, sol. Kalınlık 3mm, bağlantı 60x60.",
+    "en": "Column head cross, left. Thickness 3mm, connection 60x60."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "3",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

@@ -1,0 +1,56 @@
+{
+ "slug": "greenhouse-nylon-clip",
+ "order": 84,
+ "id": 89,
+ "cat": "nay",
+ "img": "782840e59e52.webp",
+ "codes": [
+  "KLP202"
+ ],
+ "name": {
+  "tr": "Sera Naylon Klipsi",
+  "en": "Greenhouse Nylon Clip",
+  "ru": "Клипса для тепличной плёнки",
+  "ar": "مشبك نايلون البيوت المحمية"
+ },
+ "desc": {
+  "tr": "20' ölçüsüne uyar. Sera naylon montajında kullanılan klips. Kalınlık 2mm, 20' ölçü.",
+  "en": "Fits 20' size. Clip used in greenhouse nylon assembly. Thickness 2mm, 20' size.",
+  "ru": "Размер 20'. Клипса для монтажа тепличной плёнки. Толщина 2 мм.",
+  "ar": "المقاس 20'. مشبك لتركيب نايلون البيوت المحمية. السماكة 2 مم."
+ },
+ "vars": [
+  {
+   "code": "KLP202",
+   "size": {
+    "en": "Size 20'",
+    "ru": "Размер 20'",
+    "ar": "المقاس 20'",
+    "tr": "20' ölçüsüne uyar"
+   },
+   "rest": {
+    "tr": "Sera naylon montajında kullanılan klips. Kalınlık 2mm, 20' ölçü.",
+    "en": "Clip used in greenhouse nylon assembly. Thickness 2mm, 20' size."
+   },
+   "net": "0.46"
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "0.46",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

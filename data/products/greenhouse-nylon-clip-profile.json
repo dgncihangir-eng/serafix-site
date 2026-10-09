@@ -1,0 +1,56 @@
+{
+ "slug": "greenhouse-nylon-clip-profile",
+ "order": 83,
+ "id": 88,
+ "cat": "nay",
+ "img": "921e7a12bf82.webp",
+ "codes": [
+  "KLP201"
+ ],
+ "name": {
+  "tr": "Sera Naylon Klips Profili",
+  "en": "Greenhouse Nylon Clip Profile",
+  "ru": "Клипс-профиль для тепличной плёнки",
+  "ar": "بروفيل مشابك نايلون البيوت المحمية"
+ },
+ "desc": {
+  "tr": "20' ölçüsüne uyar. Sera naylon montajında kullanılan profil. Kalınlık 2mm, 20' ölçü.",
+  "en": "Fits 20' size. Profile used in greenhouse nylon assembly. Thickness 2mm, 20' size.",
+  "ru": "Размер 20'. Профиль для монтажа тепличной плёнки. Толщина 2 мм.",
+  "ar": "المقاس 20'. بروفيل لتركيب نايلون البيوت المحمية. السماكة 2 مم."
+ },
+ "vars": [
+  {
+   "code": "KLP201",
+   "size": {
+    "en": "Size 20'",
+    "ru": "Размер 20'",
+    "ar": "المقاس 20'",
+    "tr": "20' ölçüsüne uyar"
+   },
+   "rest": {
+    "tr": "Sera naylon montajında kullanılan profil. Kalınlık 2mm, 20' ölçü.",
+    "en": "Profile used in greenhouse nylon assembly. Thickness 2mm, 20' size."
+   },
+   "net": "0.46"
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "0.46",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

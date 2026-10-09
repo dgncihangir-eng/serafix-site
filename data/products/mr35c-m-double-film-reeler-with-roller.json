@@ -1,0 +1,56 @@
+{
+ "slug": "mr35c-m-double-film-reeler-with-roller",
+ "order": 90,
+ "id": 103,
+ "cat": "mot",
+ "img": "b9969cbc1dd0.webp",
+ "codes": [
+  "RED014"
+ ],
+ "name": {
+  "tr": "MR35C-M Makaralı Çift Naylon Sarma Aparatı",
+  "en": "MR35C-M Double Film Reeler with Roller",
+  "ru": "Двойной плёнкосворачиватель MR35C-M с роликом",
+  "ar": "لفّافة نايلون مزدوجة MR35C-M ببكرة"
+ },
+ "desc": {
+  "tr": "Ø25 mile uyar. Seralarda yan naylonların açılıp kapanması için manuel redüktör. Sac kenarlı ve makaralı olarak yeniden tasarlanmıştır. Çıkış 1/8 RPM, tork 150, mil Ø25, ağırlık…",
+  "en": "Fits Ø25 shaft. Manual gearbox for opening/closing of side nylons in greenhouses. Redesigned with sheet metal edges and roller. Output 1/8 RPM, torque 150, shaft Ø25,…",
+  "ru": "Для вала Ø25. Ручной редуктор для боковой плёнки с металлическими бортами и роликом. Выход 1/8, момент 150.",
+  "ar": "يناسب عمود Ø25. علبة تروس يدوية للنايلون الجانبي بحواف معدنية وبكرة. الخرج 1/8، العزم 150."
+ },
+ "vars": [
+  {
+   "code": "RED014",
+   "size": {
+    "en": "Fits Ø25 shaft",
+    "ru": "Для вала Ø25",
+    "ar": "يناسب عمود Ø25",
+    "tr": "Ø25 mile uyar"
+   },
+   "rest": {
+    "tr": "Seralarda yan naylonların açılıp kapanması için manuel redüktör. Sac kenarlı ve makaralı olarak yeniden tasarlanmıştır. Çıkış 1/8 RPM, tork 150, mil Ø25, ağırlık 2.5kg.",
+    "en": "Manual gearbox for opening/closing of side nylons in greenhouses. Redesigned with sheet metal edges and roller. Output 1/8 RPM, torque 150, shaft Ø25, weight 2.5kg."
+   },
+   "net": "2"
+  }
+ ],
+ "hs": [
+  "8483.40.51.9022"
+ ],
+ "thick": "",
+ "net": "2",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

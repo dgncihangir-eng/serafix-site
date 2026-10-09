@@ -1,0 +1,56 @@
+{
+ "slug": "circulation-fan",
+ "order": 101,
+ "id": 1,
+ "cat": "fan",
+ "img": "5dd9f3931150.webp",
+ "codes": [
+  "FAN001"
+ ],
+ "name": {
+  "tr": "Sirkülasyon Fanı",
+  "en": "Circulation Fan",
+  "ru": "Циркуляционный вентилятор",
+  "ar": "مروحة تدوير الهواء"
+ },
+ "desc": {
+  "tr": "Homojen iklim dağılımı için sera içindeki havayı sirküle eder. 0.37kW elektrik motoru, Türk bakır sargılı motorlar. Seçenekler: 5890/7400/8900 m3/h, 380V, 1400 RPM.",
+  "en": "Circulates air inside the greenhouse for homogeneous climate distribution. 0.37kW electric motor, Turkish copper-wound motors. Options: 5890/7400/8900 m3/h, 380V,…",
+  "ru": "Перемешивает воздух в теплице для равномерного микроклимата. Двигатель 0,37 кВт. Варианты 5890/7400/8900 м³/ч, 380 В.",
+  "ar": "تدوّر الهواء داخل البيت المحمي لتوزيع مناخ متجانس. محرك 0.37 كيلوواط. خيارات 5890/7400/8900 م³/ساعة، 380 فولت."
+ },
+ "vars": [
+  {
+   "code": "FAN001",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "Homojen iklim dağılımı için sera içindeki havayı sirküle eder. 0.37kW elektrik motoru, Türk bakır sargılı motorlar. Seçenekler: 5890/7400/8900 m3/h, 380V, 1400 RPM.",
+    "en": "Circulates air inside the greenhouse for homogeneous climate distribution. 0.37kW electric motor, Turkish copper-wound motors. Options: 5890/7400/8900 m3/h, 380V,…"
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "8414.51.00.9000"
+ ],
+ "thick": "",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

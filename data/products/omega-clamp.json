@@ -1,0 +1,116 @@
+{
+ "slug": "omega-clamp",
+ "order": 49,
+ "id": 48,
+ "cat": "kel",
+ "img": "e38e9fbe0099.webp",
+ "codes": [
+  "KLP078",
+  "KLP079",
+  "KLP080",
+  "KLP081",
+  "KLP082"
+ ],
+ "name": {
+  "tr": "Omega Kelepçe",
+  "en": "Omega Clamp",
+  "ru": "Омега-хомут",
+  "ar": "مشبك أوميغا"
+ },
+ "desc": {
+  "tr": "Seralarda kullanılan çelik konstrüksiyon bağlantı kelepçesi. Kalınlık 2mm. Birden fazla ölçü seçeneği: Ø42/48/60/76/50-60.",
+  "en": "Steel construction connection clamp used in greenhouses. Thickness 2mm. Multiple size variants: Ø42/48/60/76/50-60.",
+  "ru": "Стальной соединительный хомут для теплиц. Толщина 2 мм. Размеры Ø42/48/60/76/50-60.",
+  "ar": "مشبك وصل فولاذي للبيوت المحمية. السماكة 2 مم. المقاسات Ø42/48/60/76/50-60."
+ },
+ "vars": [
+  {
+   "code": "KLP078",
+   "size": {
+    "en": "Size Ø42",
+    "ru": "Размер Ø42",
+    "ar": "المقاس Ø42",
+    "tr": "Ölçü Ø42"
+   },
+   "rest": {
+    "tr": "Seralarda kullanılan çelik konstrüksiyon bağlantı kelepçesi. Kalınlık 2mm. Birden fazla ölçü seçeneği: Ø42/48/60/76/50-60.",
+    "en": "Steel construction connection clamp used in greenhouses. Thickness 2mm. Multiple size variants: Ø42/48/60/76/50-60."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP079",
+   "size": {
+    "en": "Fits Ø48 pipe",
+    "ru": "Для трубы Ø48",
+    "ar": "يناسب أنبوب Ø48",
+    "tr": "Ø48 boruya uyar"
+   },
+   "rest": {
+    "tr": "Seralarda çelik konstrüksiyon bağlantı kelepçesi olarak kullanılan omega kelepçe. Kalınlık 2mm, A44mm, bağlantı Ø 48.",
+    "en": "Omega clamp used as steel construction connection clamp in greenhouses. Thickness 2mm, A44mm, connection Ø 48."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP080",
+   "size": {
+    "en": "Fits Ø60 pipe",
+    "ru": "Для трубы Ø60",
+    "ar": "يناسب أنبوب Ø60",
+    "tr": "Ø60 boruya uyar"
+   },
+   "rest": {
+    "tr": "Seralarda çelik konstrüksiyon bağlantı kelepçesi olarak kullanılan omega kelepçe. Kalınlık 2mm, A56mm, bağlantı Ø 60.",
+    "en": "Omega clamp used as steel construction connection clamp in greenhouses. Thickness 2mm, A56mm, connection Ø 60."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP081",
+   "size": {
+    "en": "Fits Ø76 pipe",
+    "ru": "Для трубы Ø76",
+    "ar": "يناسب أنبوب Ø76",
+    "tr": "Ø76 boruya uyar"
+   },
+   "rest": {
+    "tr": "Seralarda çelik konstrüksiyon bağlantı kelepçesi olarak kullanılan omega kelepçe. Kalınlık 2mm, A72mm, bağlantı Ø 76.",
+    "en": "Omega clamp used as steel construction connection clamp in greenhouses. Thickness 2mm, A72mm, connection Ø 76."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP082",
+   "size": {
+    "en": "Fits Ø50-60 pipe",
+    "ru": "Для трубы Ø50-60",
+    "ar": "يناسب أنبوب Ø50-60",
+    "tr": "Ø50-60 boruya uyar"
+   },
+   "rest": {
+    "tr": "Seralarda çelik konstrüksiyon bağlantı kelepçesi olarak kullanılan omega kelepçe. Kalınlık 2mm, A56mm, bağlantı Ø 50-60.",
+    "en": "Omega clamp used as steel construction connection clamp in greenhouses. Thickness 2mm, A56mm, connection Ø 50-60."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

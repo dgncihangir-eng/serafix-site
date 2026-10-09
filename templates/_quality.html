@@ -1,0 +1,64 @@
+<div>
+<section style="max-width: 1280px; margin: 0 auto; padding: 56px 24px 0">
+<div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center">
+<div style="flex: 1.2 1 460px; display: flex; flex-direction: column; gap: 18px">
+<span class="up" style="align-self: flex-start; font-size: 13px; font-weight: 700; color: #1F7A47; letter-spacing: 0.08em; text-transform: uppercase">{{t.qual.tag}}</span>
+<h1 class="fh" style="margin: 0; font-size: 44px; line-height: 1.12; letter-spacing: -0.02em">{{t.qual.title}}</h1>
+<p style="margin: 0; font-size: 18px; line-height: 1.7; color: #3F4D42">{{t.qual.lead}}</p>
+</div>
+<div style="flex: 1 1 400px; min-height: 320px; border-radius: 2px; background: #E3F0E6; color: #4F7A60; display: flex; align-items: center; justify-content: center; font-weight: 600; text-align: center; padding: 20px">{{t.qual.photo}}</div>
+</div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 14px; margin-top: 40px">
+{% for st in t.qual.stats %}
+<div style="background: #FFFFFF; border: 1px solid #E3E8E4; border-radius: 2px; padding: 24px">
+<span class="fh" style="display: block; font-size: 32px; font-weight: 700; color: #1F7A47">{{st.v}}</span>
+<span style="font-size: 14px; color: #5B6660; font-weight: 600">{{st.l}}</span>
+</div>
+{% endfor %}
+</div>
+</section>
+
+<section style="max-width: 1280px; margin: 0 auto; padding: 72px 24px 0">
+<h2 class="fh" style="margin: 0 0 28px; font-size: 32px; letter-spacing: -0.02em">{{t.qual.qcTitle}}</h2>
+<ol style="list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 16px">
+{% for s in qcSteps %}
+<li style="background: #FFFFFF; border: 1px solid #E3E8E4; border-radius: 2px; padding: 22px; display: flex; flex-direction: column; gap: 10px">
+<span class="fh" style="font-size: 14px; font-weight: 700; color: #1F7A47">{{s.n}}</span>
+<strong style="font-size: 17px">{{s.t}}</strong>
+<span style="font-size: 14px; line-height: 1.6; color: #5B6660">{{s.d}}</span>
+</li>
+{% endfor %}
+</ol>
+</section>
+
+<section style="max-width: 1280px; margin: 0 auto; padding: 72px 24px 0">
+<h2 class="fh" style="margin: 0 0 8px; font-size: 32px; letter-spacing: -0.02em">{{t.qual.certTitle}}</h2>
+<p style="margin: 0 0 24px; color: #5B6660">{{t.qual.certText}}</p>
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 16px">
+{% for c in t.qual.certs %}
+<div style="background: #FFFFFF; border: 1px solid #E3E8E4; border-radius: 2px; padding: 22px; display: flex; gap: 14px; align-items: center">
+<span style="flex: none; width: 56px; height: 56px; border-radius: 50%; border: 2px solid #1F7A47; color: #1F7A47; display: flex; align-items: center; justify-content: center"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="9" r="6"></circle><path d="m8.5 14-1.5 7 5-3 5 3-1.5-7"></path></svg></span>
+<span><strong style="display: block">{{c.t}}</strong><span style="font-size: 14px; color: #5B6660">{{c.d}}</span></span>
+</div>
+{% endfor %}
+</div>
+</section>
+
+<section style="max-width: 1280px; margin: 0 auto; padding: 72px 24px 0">
+<div style="background: #0F3B2A; color: #FFFFFF; border-radius: 2px; padding: 44px; display: flex; flex-wrap: wrap; gap: 32px">
+<div style="flex: 1 1 360px; display: flex; flex-direction: column; gap: 14px">
+<h2 class="fh" style="margin: 0; font-size: 30px; letter-spacing: -0.02em">{{t.qual.expTitle}}</h2>
+<p style="margin: 0; color: #CFE3D5; line-height: 1.7">{{t.qual.expText}}</p>
+<div style="min-height: 180px; border-radius: 2px; background: #164A35; border: 1px solid #245C45; display: flex; align-items: center; justify-content: center; color: #8FC59E; font-weight: 600; padding: 16px; text-align: center">{{t.qual.map}}</div>
+</div>
+<div style="flex: 1 1 360px; display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; align-content: start">
+{% for e in t.qual.exp %}
+<div style="background: #164A35; border: 1px solid #245C45; border-radius: 2px; padding: 18px">
+<span style="display: block; font-size: 13px; color: #B5D3BF; font-weight: 600; margin-bottom: 4px">{{e.t}}</span>
+<strong style="font-size: 17px">{{e.v}}</strong>
+</div>
+{% endfor %}
+</div>
+</div>
+</section>
+</div>

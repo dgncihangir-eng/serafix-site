@@ -1,0 +1,56 @@
+{
+ "slug": "shutter-ventilation-exhaust-fan",
+ "order": 99,
+ "id": 4,
+ "cat": "fan",
+ "img": "b3a75b3753c2.webp",
+ "codes": [
+  "FAN005"
+ ],
+ "name": {
+  "tr": "Jaluzili Egzoz Fanı",
+  "en": "Shutter Ventilation (Exhaust) Fan",
+  "ru": "Вытяжной вентилятор с жалюзи",
+  "ar": "مروحة شفط بشفرات أوتوماتيكية"
+ },
+ "desc": {
+  "tr": "Galvanizli çelik gövde ve kanatlar; otomatik jaluziler çalışmaya başlayınca açılır, durunca kapanır. Sera, kümes ve hayvan barınağı havalandırmasında kullanılır. Seçenekler:…",
+  "en": "Galvanized steel body and wings; automatic shutters open on start and close on stop. Used for greenhouse, poultry and livestock ventilation. Options: 100x100 (0.75kW,…",
+  "ru": "Оцинкованный корпус и лопасти; жалюзи открываются при пуске и закрываются при остановке. Для теплиц, птичников и ферм.",
+  "ar": "هيكل وشفرات من الفولاذ المجلفن؛ تنفتح الشفرات عند التشغيل وتنغلق عند الإيقاف. للبيوت المحمية ومزارع الدواجن والمواشي."
+ },
+ "vars": [
+  {
+   "code": "FAN005",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "Galvanizli çelik gövde ve kanatlar; otomatik jaluziler çalışmaya başlayınca açılır, durunca kapanır. Sera, kümes ve hayvan barınağı havalandırmasında kullanılır.…",
+    "en": "Galvanized steel body and wings; automatic shutters open on start and close on stop. Used for greenhouse, poultry and livestock ventilation. Options: 100x100 (0.75kW,…"
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "8414.51.00.9000"
+ ],
+ "thick": "",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

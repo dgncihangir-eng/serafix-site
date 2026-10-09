@@ -1,0 +1,1566 @@
+{
+ "tr": {
+  "navLabel": "Ana menü",
+  "langLabel": "Dil seçimi",
+  "crumbLabel": "Konum",
+  "nav": {
+   "home": "Ana Sayfa",
+   "products": "Ürünler",
+   "guide": "Seracılık Rehberi",
+   "about": "Hakkımızda",
+   "contact": "İletişim"
+  },
+  "ctaQuote": "Teklif İsteyin",
+  "heroTag": "Sera ekipmanları ve aksesuarları",
+  "heroTitle": "Seranızın havalandırmasından gölgelemesine, tüm bağlantı parçaları.",
+  "heroText": "Kremayer ve pinyon sistemleri, gölgeleme perdesi aksesuarları, kelepçeler, menteşeler, motor redüktörler ve fanlar.",
+  "heroBtn1": "Ürün Kataloğu",
+  "heroBtn2": "Bize Ulaşın",
+  "groupsTitle": "Ürün Grupları",
+  "groupsText": "İhtiyacınız olan grubu seçin, ilgili ürünleri listeleyelim.",
+  "cat": {
+   "hav": "Havalandırma Sistemleri",
+   "gol": "Gölgeleme Sistemleri",
+   "kel": "Sera Kelepçeleri",
+   "pro": "Profil Kelepçeleri",
+   "men": "Menteşeler",
+   "olu": "Gutter Aksesuarları",
+   "prf": "Oluk ve Sera Profilleri",
+   "nay": "Naylon & Klips",
+   "mot": "Motor & Redüktörler",
+   "fan": "Fanlar"
+  },
+  "ourProducts": "Ürünlerimiz",
+  "count": "{n} ürün · Fiyat ve stok bilgisi için bize ulaşın.",
+  "allProducts": "Tüm ürünler",
+  "search": "Ürün adı veya kodu",
+  "loading": "Ürünler yükleniyor…",
+  "noResult": "Aramanızla eşleşen ürün bulunamadı.",
+  "sizes": "{n} ölçü",
+  "view": "İncele →",
+  "more": "Daha fazla göster ({n} ürün daha)",
+  "aboutPhoto": "[Firma / üretim / ekip fotoğrafı]",
+  "aboutTitle": "Seranın her bağlantı noktasında güvenilir parça.",
+  "aboutText": "[FİRMA HİKAYESİ — kuruluşunuz, üretim kapasiteniz, hizmet verdiğiniz ülkeler ve sizi farklı kılan yaklaşım burada yer alacak.]",
+  "values": [
+   {
+    "title": "Geniş ölçü yelpazesi",
+    "text": "Boru ve profil ölçülerine uygun seçenekler"
+   },
+   {
+    "title": "Teknik destek",
+    "text": "Doğru parçayı birlikte belirleyelim"
+   },
+   {
+    "title": "Toptan ve ihracat",
+    "text": "Bayi ve proje bazlı teklifler"
+   }
+  ],
+  "guideText": "Üreticiler için pratik bilgiler ve sezon ipuçları",
+  "allPosts": "Tüm yazılar",
+  "postImage": "Yazı görseli",
+  "readMore": "Devamını oku →",
+  "articles": [
+   {
+    "tag": "Havalandırma",
+    "title": "Kremayer mi pinyon mu? Doğru havalandırma sistemi seçimi",
+    "summary": "Sera tipine ve pencere uzunluğuna göre mekanizma seçerken dikkat edilecekler."
+   },
+   {
+    "tag": "Gölgeleme",
+    "title": "Gölgeleme perdesi sistemlerinde bakım ipuçları",
+    "summary": "Makara, klips ve halat gerdirme parçalarının ömrünü uzatmak için öneriler."
+   },
+   {
+    "tag": "Konstrüksiyon",
+    "title": "Kolon ve mahya ölçüsüne göre Y kelepçe seçimi",
+    "summary": "Boru ve profil ölçülerine uygun kelepçeyi kolayca belirleyin."
+   }
+  ],
+  "askPrice": "Fiyat Teklifi İste",
+  "askWa": "WhatsApp’tan Sor",
+  "datasheet": "Teknik Föy",
+  "variantsTitle": "Ölçü ve kod seçenekleri",
+  "variantCount": "{n} seçenek",
+  "services": [
+   {
+    "title": "Teknik danışmanlık",
+    "text": "Doğru ölçüyü birlikte seçelim"
+   },
+   {
+    "title": "Toptan ve proje siparişi",
+    "text": "Miktara göre özel teklif"
+   },
+   {
+    "title": "Yurt içi ve ihracat",
+    "text": "[Teslimat koşullarınız]"
+   }
+  ],
+  "related": "Benzer Ürünler",
+  "formTitle": "Teklif ve bilgi talebi",
+  "formText": "İlgilendiğiniz ürünü ve ihtiyacınızı yazın, size en kısa sürede dönelim.",
+  "sentTitle": "Talebiniz alındı, teşekkürler!",
+  "sentText": "Ekibimiz sizinle en kısa sürede iletişime geçecek.",
+  "newRequest": "Yeni talep gönder",
+  "f": {
+   "name": "Ad Soyad / Firma",
+   "phone": "Telefon",
+   "email": "E-posta",
+   "country": "Ülke / Şehir",
+   "product": "İlgilendiğiniz ürün",
+   "productPh": "Ürün adı veya kodu",
+   "message": "Mesajınız",
+   "messagePh": "Ölçü, adet, teslimat yeri vb.",
+   "consent": "KVKK Aydınlatma Metni’ni okudum, bilgilerimin bu talep için kullanılmasını onaylıyorum.",
+   "submit": "Talebi Gönder"
+  },
+  "contactInfo": "İletişim Bilgileri",
+  "address": "Adres",
+  "hours": "Çalışma saatleri",
+  "map": "[Harita]",
+  "footerText": "Sera havalandırma, gölgeleme ve bağlantı sistemlerinde güvenilir çözüm ortağınız.",
+  "corporate": "Kurumsal",
+  "dealer": "Bayilik",
+  "rights": "Tüm hakları saklıdır.",
+  "privacy": "KVKK",
+  "cookies": "Çerez Politikası",
+  "admin": "Yönetici Girişi",
+  "label": {
+   "products": "Ürünler",
+   "references": "Referanslar",
+   "support": "Destek"
+  },
+  "hero2": {
+   "title": "Sera havalandırma, gölgeleme ve konstrüksiyon parçalarında güvenilir üretici.",
+   "text": "Sera kurucuları, distribütörler ve büyük üreticiler için kremayer-pinyon sistemleri, gölgeleme aksesuarları, kelepçeler, motor redüktörler ve fanlar. Standart katalog ve çiziminize özel üretim.",
+   "cta1": "Ürün kataloğunu keşfedin",
+   "cta2": "OEM / özel üretim",
+   "photo": "[Sera içi video veya fotoğraf]"
+  },
+  "quote": {
+   "text": "[Müşteri görüşü — örneğin: “Projelerimizde yıllardır aynı kaliteyi ve zamanında teslimatı alıyoruz.”]",
+   "who": "[Ad Soyad, Firma, Ülke]",
+   "photo": "[Müşteri projesi fotoğrafı]"
+  },
+  "refs2": {
+   "title": "Ürünlerimizin kullanıldığı projeler",
+   "all": "Tüm referanslar ›",
+   "photo": "[Proje fotoğrafı]",
+   "items": [
+    {
+     "cap": "Domates seraları – [Ülke]"
+    },
+    {
+     "cap": "Çilek ve meyve – [Ülke]"
+    },
+    {
+     "cap": "Fide üretimi – [Ülke]"
+    }
+   ]
+  },
+  "stmt": {
+   "title": "[XX] yıldır, [XX] ülkede seracıların yanındayız.",
+   "sub": "Kendi kalıplarımızla ürettiğimiz parçaları dünyanın dört bir yanındaki sera projelerine ulaştırıyoruz.",
+   "cta": "Üretim ve kalite",
+   "badge": "Türkiye’de üretildi",
+   "photo": "[Fabrika havadan çekim]"
+  },
+  "follow": "Bizi takip edin",
+  "fairs": {
+   "title": "Fuar takvimi",
+   "all": "Tüm tarihler ›",
+   "logo": "[Fuar]",
+   "items": [
+    {
+     "t": "[Fuar adı, şehir, tarih]",
+     "d": "[Stand numarası ve kısa not]"
+    },
+    {
+     "t": "[Fuar adı, şehir, tarih]",
+     "d": "[Stand numarası ve kısa not]"
+    }
+   ]
+  },
+  "nav2": {
+   "oem": "OEM / Özel Üretim",
+   "quality": "Kalite & Üretim",
+   "downloads": "İndirme Merkezi"
+  },
+  "spec": {
+   "title": "Teknik Özellikler",
+   "group": "Ürün grubu",
+   "codes": "Ürün kodları",
+   "hs": "GTİP / HS kodu",
+   "thick": "Sac kalınlığı",
+   "net": "Net ağırlık (adet)",
+   "unit": "Satış birimi",
+   "unitVal": "Adet",
+   "origin": "Menşe",
+   "originVal": "Türkiye",
+   "material": "Malzeme / kaplama",
+   "materialVal": "[Malzeme ve kaplama bilginiz]",
+   "pack": "Paketleme",
+   "packVal": "[Koli içi adet, koli ölçüsü]",
+   "moq": "Minimum sipariş",
+   "moqVal": "[MOQ bilginiz]",
+   "drawings": "Teknik çizim ve CAD",
+   "drawNote": "Teknik çizim önizlemesi",
+   "drawPdf": "Teknik çizimi indir",
+   "cad": "3D CAD dosyası"
+  },
+  "b2b": {
+   "tag": "Sera kurucuları ve distribütörler için",
+   "title": "Projelerinize güvenilir bir tedarik ortağı.",
+   "text": "Sera konstrüksiyon firmaları, distribütörler ve büyük üreticiler için standart katalog ürünlerinin yanı sıra çiziminize göre özel parça üretimi. Sabit kalite, izlenebilir üretim ve ihracata hazır paketleme.",
+   "btn1": "OEM / Özel Üretim",
+   "btn2": "Kalite & Üretim"
+  },
+  "refs": {
+   "title": "Birlikte çalıştığımız firmalar",
+   "text": "Farklı ülkelerdeki sera projelerinde ürünlerimiz kullanılıyor.",
+   "logo": "[Referans logosu]"
+  },
+  "oem": {
+   "tag": "OEM · Özel üretim",
+   "title": "Çiziminizi gönderin, size özel üretelim.",
+   "lead": "Standart ürünlerimizin dışında, sera konstrüksiyonunuza özel kelepçe, bağlantı parçası ve mekanizmaları kendi kalıp atölyemizde tasarlayıp seri üretime alıyoruz. Kendi markanızla paketleme seçeneği de sunuyoruz.",
+   "btn": "Proje talebi gönder",
+   "photo": "[Kalıp atölyesi / pres hattı fotoğrafı]",
+   "stepsTitle": "Nasıl çalışıyoruz?",
+   "steps": [
+    {
+     "t": "Çizim veya numune",
+     "d": "Teknik çizim, 3D model ya da numune parçanızı paylaşın."
+    },
+    {
+     "t": "Mühendislik değerlendirmesi",
+     "d": "Ölçü, malzeme ve üretilebilirlik analizi; teklif ve termin."
+    },
+    {
+     "t": "Kalıp tasarımı ve üretimi",
+     "d": "Parçaya özel kalıbın tasarlanması ve imalatı."
+    },
+    {
+     "t": "Numune onayı",
+     "d": "İlk numunelerin ölçü ve fonksiyon kontrolü, onayınıza sunulması."
+    },
+    {
+     "t": "Seri üretim ve sevkiyat",
+     "d": "Onaylı numuneye göre seri üretim, paketleme ve sevkiyat."
+    }
+   ],
+   "capsTitle": "Üretim yetkinliklerimiz",
+   "caps": [
+    {
+     "t": "Kalıp tasarımı ve imalatı",
+     "d": "Kesme, delme ve şekillendirme kalıplarının kendi bünyemizde tasarımı ve üretimi."
+    },
+    {
+     "t": "Sac şekillendirme",
+     "d": "Pres hatlarında kesme, delme, bükme ve form verme."
+    },
+    {
+     "t": "Yüzey koruma",
+     "d": "[Galvaniz / kaplama yönteminiz ve standardı]"
+    },
+    {
+     "t": "Özel markalı paketleme",
+     "d": "Müşteri markası, barkod ve etiketle ihracata uygun paketleme."
+    }
+   ],
+   "capPhoto": "[Üretim fotoğrafı]",
+   "formTitle": "OEM proje talebi",
+   "formText": "Çizimlerinizi ve yaklaşık adetleri paylaşın; mühendislik ekibimiz değerlendirip size dönsün.",
+   "qty": "Yıllık / sipariş başı adet",
+   "material": "Malzeme ve kaplama beklentisi",
+   "file": "Çizim / model dosyaları",
+   "filePh": "PDF, DWG, DXF, STEP dosyalarını seçin veya sürükleyin",
+   "note": "Proje notları",
+   "submit": "Proje talebini gönder",
+   "sentTitle": "Proje talebiniz alındı.",
+   "sentText": "Mühendislik ekibimiz dosyalarınızı inceleyip size dönecek."
+  },
+  "qual": {
+   "tag": "Kalite · Üretim · İhracat",
+   "title": "Her partide aynı ölçü, aynı kalite.",
+   "lead": "Hammaddeden sevkiyata kadar her aşamada kontrol edilen bir üretim süreciyle çalışıyoruz. Bu sayede büyük projelerde de parçalar sahada sorunsuz montaj sağlıyor.",
+   "photo": "[Fabrika / üretim alanı fotoğrafı]",
+   "stats": [
+    {
+     "v": "[XX.XXX m²]",
+     "l": "Üretim alanı"
+    },
+    {
+     "v": "[XXX ton]",
+     "l": "Aylık üretim kapasitesi"
+    },
+    {
+     "v": "[XX+]",
+     "l": "İhracat yapılan ülke"
+    },
+    {
+     "v": "[XX yıl]",
+     "l": "Sektör deneyimi"
+    }
+   ],
+   "qcTitle": "Kalite kontrol süreci",
+   "qc": [
+    {
+     "t": "Hammadde girişi",
+     "d": "Sac ve boru hammaddesinin kalınlık ve malzeme kontrolü."
+    },
+    {
+     "t": "Üretim içi kontrol",
+     "d": "Kalıp çıkışlarında ölçü ve tolerans kontrolü."
+    },
+    {
+     "t": "Yüzey ve kaplama kontrolü",
+     "d": "Kaplama kalınlığı ve görsel kontrol."
+    },
+    {
+     "t": "Sevkiyat öncesi kontrol",
+     "d": "Adet, etiket ve paketleme kontrolü, izlenebilirlik kaydı."
+    }
+   ],
+   "certTitle": "Sertifikalar ve belgeler",
+   "certText": "Belgelerin tamamını İndirme Merkezi’nden indirebilirsiniz.",
+   "certs": [
+    {
+     "t": "[ISO 9001]",
+     "d": "[Kalite yönetim sistemi — varsa]"
+    },
+    {
+     "t": "[CE / uygunluk beyanı]",
+     "d": "[Motorlu ürünler için — varsa]"
+    },
+    {
+     "t": "[Malzeme sertifikaları]",
+     "d": "[Hammadde test raporları]"
+    }
+   ],
+   "expTitle": "İhracat ve lojistik",
+   "expText": "Konteyner bazında yükleme planı, ihracat evrakları ve gümrük için GTİP bilgileriyle sevkiyat yapıyoruz.",
+   "map": "[İhracat yapılan ülkeler haritası]",
+   "exp": [
+    {
+     "t": "Teslim şekilleri",
+     "v": "[EXW · FOB · CIF]"
+    },
+    {
+     "t": "Termin süresi",
+     "v": "[X–Y hafta]"
+    },
+    {
+     "t": "Minimum sipariş",
+     "v": "[MOQ]"
+    },
+    {
+     "t": "Yükleme",
+     "v": "[20’ / 40’ konteyner, palet]"
+    }
+   ]
+  },
+  "dl": {
+   "tag": "İndirme Merkezi",
+   "title": "Kataloglar, teknik çizimler ve belgeler",
+   "lead": "Ürün kataloglarımızı, teknik çizimleri, CAD dosyalarını ve sertifikalarımızı tek yerden indirin. Mühendislik ekipleriniz için parça ölçülerini projelerinize doğrudan aktarabilirsiniz.",
+   "catTitle": "Genel ürün kataloğu",
+   "general": "Genel katalog",
+   "meta": "PDF · 103 ürün",
+   "groupTitle": "Ürün grubu dokümanları",
+   "groupText": "Her ürün grubu için katalog sayfaları, teknik çizimler ve 3D CAD dosyaları.",
+   "count": "{n} ürün",
+   "pdf": "Katalog (PDF)",
+   "drawings": "Çizimler",
+   "cad": "CAD (STEP)",
+   "docsTitle": "Firma belgeleri",
+   "docs": [
+    {
+     "t": "Firma tanıtım dosyası",
+     "d": "[Kurumsal sunum — PDF]"
+    },
+    {
+     "t": "Sertifikalar",
+     "d": "[ISO, CE ve diğer belgeler]"
+    },
+    {
+     "t": "Tedarikçi bilgi formu",
+     "d": "[Vergi, banka ve firma bilgileri]"
+    }
+   ]
+  }
+ },
+ "en": {
+  "navLabel": "Main menu",
+  "langLabel": "Language",
+  "crumbLabel": "Breadcrumb",
+  "nav": {
+   "home": "Home",
+   "products": "Products",
+   "guide": "Greenhouse Guide",
+   "about": "About Us",
+   "contact": "Contact"
+  },
+  "ctaQuote": "Request a Quote",
+  "heroTag": "Greenhouse equipment & accessories",
+  "heroTitle": "Every connection part for your greenhouse, from ventilation to shading.",
+  "heroText": "Rack and pinion systems, shading screen accessories, clamps, hinges, motor reducers and fans.",
+  "heroBtn1": "Product Catalogue",
+  "heroBtn2": "Contact Us",
+  "groupsTitle": "Product Groups",
+  "groupsText": "Choose a group to see the related products.",
+  "cat": {
+   "hav": "Ventilation Systems",
+   "gol": "Shading Systems",
+   "kel": "Greenhouse Clamps",
+   "pro": "Profile Clamps",
+   "men": "Hinges",
+   "olu": "Growing Gutter Accessories",
+   "prf": "Gutters & Greenhouse Profiles",
+   "nay": "Film & Clips",
+   "mot": "Motors & Reducers",
+   "fan": "Fans"
+  },
+  "ourProducts": "Our Products",
+  "count": "{n} products · Contact us for prices and availability.",
+  "allProducts": "All products",
+  "search": "Product name or code",
+  "loading": "Loading products…",
+  "noResult": "No products match your search.",
+  "sizes": "{n} sizes",
+  "view": "View details →",
+  "more": "Show more ({n} more products)",
+  "aboutPhoto": "[Company / production / team photo]",
+  "aboutTitle": "Reliable parts at every joint of the greenhouse.",
+  "aboutText": "[COMPANY STORY — your founding, production capacity, the countries you serve and what sets you apart.]",
+  "values": [
+   {
+    "title": "Wide size range",
+    "text": "Options for every pipe and profile size"
+   },
+   {
+    "title": "Technical support",
+    "text": "We help you choose the right part"
+   },
+   {
+    "title": "Wholesale & export",
+    "text": "Dealer and project-based quotes"
+   }
+  ],
+  "guideText": "Practical knowledge and seasonal tips for growers",
+  "allPosts": "All articles",
+  "postImage": "Article image",
+  "readMore": "Read more →",
+  "articles": [
+   {
+    "tag": "Ventilation",
+    "title": "Rack or pinion? Choosing the right ventilation system",
+    "summary": "What to consider by greenhouse type and window length."
+   },
+   {
+    "tag": "Shading",
+    "title": "Maintenance tips for shading screen systems",
+    "summary": "Extend the life of pulleys, clips and cable tensioners."
+   },
+   {
+    "tag": "Structure",
+    "title": "Choosing Y clamps by column and arch size",
+    "summary": "Find the right clamp for your pipe and profile sizes."
+   }
+  ],
+  "askPrice": "Request a Price Quote",
+  "askWa": "Ask on WhatsApp",
+  "datasheet": "Datasheet",
+  "variantsTitle": "Sizes and product codes",
+  "variantCount": "{n} options",
+  "services": [
+   {
+    "title": "Technical advice",
+    "text": "We help you pick the right size"
+   },
+   {
+    "title": "Wholesale & project orders",
+    "text": "Custom quotes by quantity"
+   },
+   {
+    "title": "Domestic & export",
+    "text": "[Your delivery terms]"
+   }
+  ],
+  "related": "Related Products",
+  "formTitle": "Quote and information request",
+  "formText": "Tell us the product and your needs; we will get back to you shortly.",
+  "sentTitle": "Thank you, we received your request!",
+  "sentText": "Our team will contact you shortly.",
+  "newRequest": "Send another request",
+  "f": {
+   "name": "Name / Company",
+   "phone": "Phone",
+   "email": "Email",
+   "country": "Country / City",
+   "product": "Product of interest",
+   "productPh": "Product name or code",
+   "message": "Message",
+   "messagePh": "Size, quantity, delivery location, etc.",
+   "consent": "I have read the privacy notice and agree that my details are used for this request.",
+   "submit": "Send Request"
+  },
+  "contactInfo": "Contact Details",
+  "address": "Address",
+  "hours": "Working hours",
+  "map": "[Map]",
+  "footerText": "Your reliable partner for greenhouse ventilation, shading and connection systems.",
+  "corporate": "Company",
+  "dealer": "Become a dealer",
+  "rights": "All rights reserved.",
+  "privacy": "Privacy",
+  "cookies": "Cookie Policy",
+  "admin": "Admin Login",
+  "label": {
+   "products": "Products",
+   "references": "References",
+   "support": "Support"
+  },
+  "hero2": {
+   "title": "A trusted manufacturer of greenhouse ventilation, shading and structure parts.",
+   "text": "Rack-and-pinion systems, shading accessories, clamps, motor reducers and fans for greenhouse builders, distributors and large growers. A standard catalogue plus parts made to your drawings.",
+   "cta1": "Explore the catalogue",
+   "cta2": "OEM / custom parts",
+   "photo": "[Greenhouse interior video or photo]"
+  },
+  "quote": {
+   "text": "[Customer testimonial — e.g. “For years we have received the same quality and on-time delivery on every project.”]",
+   "who": "[Name, Company, Country]",
+   "photo": "[Customer project photo]"
+  },
+  "refs2": {
+   "title": "Projects using our components",
+   "all": "All references ›",
+   "photo": "[Project photo]",
+   "items": [
+    {
+     "cap": "Tomato greenhouses – [Country]"
+    },
+    {
+     "cap": "Strawberries & berries – [Country]"
+    },
+    {
+     "cap": "Young plants – [Country]"
+    }
+   ]
+  },
+  "stmt": {
+   "title": "For [XX] years, at growers’ side in [XX] countries.",
+   "sub": "Parts made with our own tooling, delivered to greenhouse projects around the world.",
+   "cta": "Production & quality",
+   "badge": "Made in Türkiye",
+   "photo": "[Aerial view of the factory]"
+  },
+  "follow": "Follow us",
+  "fairs": {
+   "title": "Trade fairs",
+   "all": "All dates ›",
+   "logo": "[Fair]",
+   "items": [
+    {
+     "t": "[Fair name, city, date]",
+     "d": "[Stand number and a short note]"
+    },
+    {
+     "t": "[Fair name, city, date]",
+     "d": "[Stand number and a short note]"
+    }
+   ]
+  },
+  "nav2": {
+   "oem": "OEM / Custom Parts",
+   "quality": "Quality & Production",
+   "downloads": "Downloads"
+  },
+  "spec": {
+   "title": "Technical Specifications",
+   "group": "Product group",
+   "codes": "Product codes",
+   "hs": "HS code",
+   "thick": "Sheet thickness",
+   "net": "Net weight (per piece)",
+   "unit": "Sales unit",
+   "unitVal": "Piece",
+   "origin": "Origin",
+   "originVal": "Türkiye",
+   "material": "Material / coating",
+   "materialVal": "[Your material and coating details]",
+   "pack": "Packaging",
+   "packVal": "[Pieces per box, box size]",
+   "moq": "Minimum order",
+   "moqVal": "[Your MOQ]",
+   "drawings": "Drawings & CAD",
+   "drawNote": "Technical drawing preview",
+   "drawPdf": "Download technical drawing",
+   "cad": "3D CAD file"
+  },
+  "b2b": {
+   "tag": "For greenhouse builders and distributors",
+   "title": "A reliable supply partner for your projects.",
+   "text": "Standard catalogue parts plus custom components made to your drawings — for greenhouse construction companies, distributors and large growers. Consistent quality, traceable production and export-ready packaging.",
+   "btn1": "OEM / Custom Parts",
+   "btn2": "Quality & Production"
+  },
+  "refs": {
+   "title": "Companies we work with",
+   "text": "Our parts are used in greenhouse projects in many countries.",
+   "logo": "[Reference logo]"
+  },
+  "oem": {
+   "tag": "OEM · Custom manufacturing",
+   "title": "Send your drawing — we manufacture it for you.",
+   "lead": "Beyond our standard range, we design and mass-produce clamps, connectors and mechanisms tailored to your greenhouse structure in our own tooling workshop. Private-label packaging is available.",
+   "btn": "Submit a project",
+   "photo": "[Tooling workshop / press line photo]",
+   "stepsTitle": "How we work",
+   "steps": [
+    {
+     "t": "Drawing or sample",
+     "d": "Share your technical drawing, 3D model or a sample part."
+    },
+    {
+     "t": "Engineering review",
+     "d": "Dimension, material and manufacturability review; quote and lead time."
+    },
+    {
+     "t": "Tool design & build",
+     "d": "Design and manufacture of the dedicated die for your part."
+    },
+    {
+     "t": "Sample approval",
+     "d": "First samples checked for dimensions and function, sent for your approval."
+    },
+    {
+     "t": "Production & shipment",
+     "d": "Series production to the approved sample, packaging and shipping."
+    }
+   ],
+   "capsTitle": "Manufacturing capabilities",
+   "caps": [
+    {
+     "t": "Tool design & manufacturing",
+     "d": "In-house design and production of cutting, punching and forming dies."
+    },
+    {
+     "t": "Sheet metal forming",
+     "d": "Cutting, punching, bending and forming on press lines."
+    },
+    {
+     "t": "Surface protection",
+     "d": "[Your galvanizing / coating method and standard]"
+    },
+    {
+     "t": "Private-label packaging",
+     "d": "Export packaging with your brand, barcode and labels."
+    }
+   ],
+   "capPhoto": "[Production photo]",
+   "formTitle": "OEM project request",
+   "formText": "Share your drawings and estimated quantities; our engineering team will review and get back to you.",
+   "qty": "Annual / per-order quantity",
+   "material": "Material and coating requirements",
+   "file": "Drawing / model files",
+   "filePh": "Select or drop PDF, DWG, DXF, STEP files",
+   "note": "Project notes",
+   "submit": "Submit project request",
+   "sentTitle": "Your project request has been received.",
+   "sentText": "Our engineering team will review your files and contact you."
+  },
+  "qual": {
+   "tag": "Quality · Production · Export",
+   "title": "The same dimensions and quality in every batch.",
+   "lead": "Every stage, from raw material to shipment, is checked — so parts fit on site without trouble, even on large projects.",
+   "photo": "[Factory / production floor photo]",
+   "stats": [
+    {
+     "v": "[XX,XXX m²]",
+     "l": "Production area"
+    },
+    {
+     "v": "[XXX t]",
+     "l": "Monthly capacity"
+    },
+    {
+     "v": "[XX+]",
+     "l": "Export countries"
+    },
+    {
+     "v": "[XX yrs]",
+     "l": "Industry experience"
+    }
+   ],
+   "qcTitle": "Quality control process",
+   "qc": [
+    {
+     "t": "Incoming material",
+     "d": "Thickness and grade checks on sheet and tube stock."
+    },
+    {
+     "t": "In-process inspection",
+     "d": "Dimension and tolerance checks at the press."
+    },
+    {
+     "t": "Surface & coating check",
+     "d": "Coating thickness and visual inspection."
+    },
+    {
+     "t": "Pre-shipment inspection",
+     "d": "Quantity, labelling and packaging checks with traceability records."
+    }
+   ],
+   "certTitle": "Certificates and documents",
+   "certText": "All documents are available in the Download Center.",
+   "certs": [
+    {
+     "t": "[ISO 9001]",
+     "d": "[Quality management system — if any]"
+    },
+    {
+     "t": "[CE / declaration of conformity]",
+     "d": "[For motorized products — if any]"
+    },
+    {
+     "t": "[Material certificates]",
+     "d": "[Raw material test reports]"
+    }
+   ],
+   "expTitle": "Export & logistics",
+   "expText": "We ship with container loading plans, full export documents and HS codes for customs clearance.",
+   "map": "[Map of export countries]",
+   "exp": [
+    {
+     "t": "Incoterms",
+     "v": "[EXW · FOB · CIF]"
+    },
+    {
+     "t": "Lead time",
+     "v": "[X–Y weeks]"
+    },
+    {
+     "t": "Minimum order",
+     "v": "[MOQ]"
+    },
+    {
+     "t": "Loading",
+     "v": "[20’ / 40’ container, pallet]"
+    }
+   ]
+  },
+  "dl": {
+   "tag": "Download Center",
+   "title": "Catalogues, technical drawings and documents",
+   "lead": "Download our catalogues, technical drawings, CAD files and certificates in one place. Your engineers can bring part dimensions straight into their projects.",
+   "catTitle": "General product catalogue",
+   "general": "General catalogue",
+   "meta": "PDF · 103 products",
+   "groupTitle": "Product group documents",
+   "groupText": "Catalogue pages, technical drawings and 3D CAD files for each product group.",
+   "count": "{n} products",
+   "pdf": "Catalogue (PDF)",
+   "drawings": "Drawings",
+   "cad": "CAD (STEP)",
+   "docsTitle": "Company documents",
+   "docs": [
+    {
+     "t": "Company profile",
+     "d": "[Corporate presentation — PDF]"
+    },
+    {
+     "t": "Certificates",
+     "d": "[ISO, CE and other documents]"
+    },
+    {
+     "t": "Supplier information form",
+     "d": "[Tax, bank and company details]"
+    }
+   ]
+  }
+ },
+ "ru": {
+  "navLabel": "Главное меню",
+  "langLabel": "Язык",
+  "crumbLabel": "Навигация",
+  "nav": {
+   "home": "Главная",
+   "products": "Продукция",
+   "guide": "Тепличный гид",
+   "about": "О компании",
+   "contact": "Контакты"
+  },
+  "ctaQuote": "Запросить цену",
+  "heroTag": "Оборудование и комплектующие для теплиц",
+  "heroTitle": "Все соединительные детали для теплицы — от проветривания до затенения.",
+  "heroText": "Системы рейка-шестерня, комплектующие затеняющих экранов, хомуты, петли, мотор-редукторы и вентиляторы.",
+  "heroBtn1": "Каталог продукции",
+  "heroBtn2": "Связаться с нами",
+  "groupsTitle": "Группы продукции",
+  "groupsText": "Выберите группу, чтобы увидеть соответствующие товары.",
+  "cat": {
+   "hav": "Системы проветривания",
+   "gol": "Системы затенения",
+   "kel": "Тепличные хомуты",
+   "pro": "Профильные хомуты",
+   "men": "Петли",
+   "olu": "Комплектующие лотков выращивания",
+   "prf": "Желоба и тепличные профили",
+   "nay": "Плёнка и клипсы",
+   "mot": "Моторы и редукторы",
+   "fan": "Вентиляторы"
+  },
+  "ourProducts": "Наша продукция",
+  "count": "Товаров: {n} · Цены и наличие — по запросу.",
+  "allProducts": "Все товары",
+  "search": "Название или код товара",
+  "loading": "Загрузка товаров…",
+  "noResult": "По вашему запросу ничего не найдено.",
+  "sizes": "Размеров: {n}",
+  "view": "Подробнее →",
+  "more": "Показать ещё (осталось {n})",
+  "aboutPhoto": "[Фото компании / производства / команды]",
+  "aboutTitle": "Надёжные детали для каждого узла теплицы.",
+  "aboutText": "[ИСТОРИЯ КОМПАНИИ — год основания, производственные мощности, страны поставок и ваши преимущества.]",
+  "values": [
+   {
+    "title": "Широкий выбор размеров",
+    "text": "Варианты под любые трубы и профили"
+   },
+   {
+    "title": "Техническая поддержка",
+    "text": "Поможем подобрать нужную деталь"
+   },
+   {
+    "title": "Опт и экспорт",
+    "text": "Предложения для дилеров и проектов"
+   }
+  ],
+  "guideText": "Практические советы для производителей",
+  "allPosts": "Все статьи",
+  "postImage": "Изображение статьи",
+  "readMore": "Читать далее →",
+  "articles": [
+   {
+    "tag": "Проветривание",
+    "title": "Рейка или шестерня? Выбор системы проветривания",
+    "summary": "На что обратить внимание в зависимости от типа теплицы и длины окна."
+   },
+   {
+    "tag": "Затенение",
+    "title": "Советы по обслуживанию систем затенения",
+    "summary": "Как продлить срок службы роликов, клипс и натяжителей троса."
+   },
+   {
+    "tag": "Конструкция",
+    "title": "Выбор Y-хомута по размеру колонны и арки",
+    "summary": "Подберите хомут под размеры ваших труб и профилей."
+   }
+  ],
+  "askPrice": "Запросить цену",
+  "askWa": "Спросить в WhatsApp",
+  "datasheet": "Техлист",
+  "variantsTitle": "Размеры и коды товара",
+  "variantCount": "Вариантов: {n}",
+  "services": [
+   {
+    "title": "Техническая консультация",
+    "text": "Поможем выбрать нужный размер"
+   },
+   {
+    "title": "Оптовые и проектные заказы",
+    "text": "Индивидуальная цена по объёму"
+   },
+   {
+    "title": "Поставки и экспорт",
+    "text": "[Ваши условия поставки]"
+   }
+  ],
+  "related": "Похожие товары",
+  "formTitle": "Запрос цены и информации",
+  "formText": "Укажите товар и ваши потребности — мы свяжемся с вами в ближайшее время.",
+  "sentTitle": "Спасибо, ваш запрос получен!",
+  "sentText": "Наша команда скоро свяжется с вами.",
+  "newRequest": "Отправить новый запрос",
+  "f": {
+   "name": "Имя / Компания",
+   "phone": "Телефон",
+   "email": "Эл. почта",
+   "country": "Страна / Город",
+   "product": "Интересующий товар",
+   "productPh": "Название или код товара",
+   "message": "Сообщение",
+   "messagePh": "Размер, количество, место доставки и т. д.",
+   "consent": "Я ознакомился с политикой конфиденциальности и согласен на обработку данных для этого запроса.",
+   "submit": "Отправить запрос"
+  },
+  "contactInfo": "Контактная информация",
+  "address": "Адрес",
+  "hours": "Часы работы",
+  "map": "[Карта]",
+  "footerText": "Надёжный партнёр в системах проветривания, затенения и соединения теплиц.",
+  "corporate": "Компания",
+  "dealer": "Стать дилером",
+  "rights": "Все права защищены.",
+  "privacy": "Конфиденциальность",
+  "cookies": "Политика cookie",
+  "admin": "Вход для администратора",
+  "label": {
+   "products": "Продукция",
+   "references": "Референции",
+   "support": "Поддержка"
+  },
+  "hero2": {
+   "title": "Надёжный производитель деталей для проветривания, затенения и конструкции теплиц.",
+   "text": "Системы рейка-шестерня, комплектующие затенения, хомуты, мотор-редукторы и вентиляторы для строителей теплиц, дистрибьюторов и крупных хозяйств. Стандартный каталог и детали по вашим чертежам.",
+   "cta1": "Смотреть каталог",
+   "cta2": "OEM / производство на заказ",
+   "photo": "[Видео или фото теплицы]"
+  },
+  "quote": {
+   "text": "[Отзыв клиента — например: «Годами получаем стабильное качество и поставки точно в срок».]",
+   "who": "[Имя, компания, страна]",
+   "photo": "[Фото проекта клиента]"
+  },
+  "refs2": {
+   "title": "Проекты с нашими комплектующими",
+   "all": "Все референции ›",
+   "photo": "[Фото проекта]",
+   "items": [
+    {
+     "cap": "Томатные теплицы – [Страна]"
+    },
+    {
+     "cap": "Клубника и ягоды – [Страна]"
+    },
+    {
+     "cap": "Рассада – [Страна]"
+    }
+   ]
+  },
+  "stmt": {
+   "title": "[XX] лет рядом с тепличными хозяйствами в [XX] странах.",
+   "sub": "Детали, изготовленные на собственной оснастке, поставляются на тепличные проекты по всему миру.",
+   "cta": "Производство и качество",
+   "badge": "Сделано в Турции",
+   "photo": "[Аэросъёмка завода]"
+  },
+  "follow": "Мы в соцсетях",
+  "fairs": {
+   "title": "Выставки",
+   "all": "Все даты ›",
+   "logo": "[Выставка]",
+   "items": [
+    {
+     "t": "[Название, город, дата]",
+     "d": "[Номер стенда и краткое примечание]"
+    },
+    {
+     "t": "[Название, город, дата]",
+     "d": "[Номер стенда и краткое примечание]"
+    }
+   ]
+  },
+  "nav2": {
+   "oem": "OEM / Производство",
+   "quality": "Качество и производство",
+   "downloads": "Загрузки"
+  },
+  "spec": {
+   "title": "Технические характеристики",
+   "group": "Группа товаров",
+   "codes": "Коды товара",
+   "hs": "Код ТН ВЭД (HS)",
+   "thick": "Толщина металла",
+   "net": "Вес нетто (шт.)",
+   "unit": "Единица продажи",
+   "unitVal": "Штука",
+   "origin": "Страна происхождения",
+   "originVal": "Турция",
+   "material": "Материал / покрытие",
+   "materialVal": "[Ваши данные о материале и покрытии]",
+   "pack": "Упаковка",
+   "packVal": "[Шт. в коробке, размер коробки]",
+   "moq": "Минимальный заказ",
+   "moqVal": "[Ваш MOQ]",
+   "drawings": "Чертежи и CAD",
+   "drawNote": "Предпросмотр чертежа",
+   "drawPdf": "Скачать чертёж",
+   "cad": "3D CAD-файл"
+  },
+  "b2b": {
+   "tag": "Для строителей теплиц и дистрибьюторов",
+   "title": "Надёжный партнёр по поставкам для ваших проектов.",
+   "text": "Стандартные позиции каталога и детали по вашим чертежам — для компаний по строительству теплиц, дистрибьюторов и крупных производителей. Стабильное качество, прослеживаемость и экспортная упаковка.",
+   "btn1": "OEM / Производство",
+   "btn2": "Качество и производство"
+  },
+  "refs": {
+   "title": "Компании, с которыми мы работаем",
+   "text": "Наши детали используются в тепличных проектах во многих странах.",
+   "logo": "[Логотип клиента]"
+  },
+  "oem": {
+   "tag": "OEM · Производство на заказ",
+   "title": "Пришлите чертёж — мы изготовим деталь для вас.",
+   "lead": "Помимо стандартного ассортимента, мы проектируем и серийно выпускаем хомуты, соединители и механизмы под вашу конструкцию теплицы в собственном инструментальном цехе. Возможна упаковка под вашей маркой.",
+   "btn": "Отправить проект",
+   "photo": "[Фото инструментального цеха / прессовой линии]",
+   "stepsTitle": "Как мы работаем",
+   "steps": [
+    {
+     "t": "Чертёж или образец",
+     "d": "Пришлите чертёж, 3D-модель или образец детали."
+    },
+    {
+     "t": "Инженерный анализ",
+     "d": "Анализ размеров, материала и технологичности; цена и сроки."
+    },
+    {
+     "t": "Проектирование и изготовление штампа",
+     "d": "Разработка и изготовление оснастки под вашу деталь."
+    },
+    {
+     "t": "Утверждение образцов",
+     "d": "Проверка первых образцов по размерам и функции, отправка на утверждение."
+    },
+    {
+     "t": "Серийное производство и отгрузка",
+     "d": "Серия по утверждённому образцу, упаковка и отгрузка."
+    }
+   ],
+   "capsTitle": "Производственные возможности",
+   "caps": [
+    {
+     "t": "Проектирование и изготовление штампов",
+     "d": "Собственная разработка и производство вырубных, пробивных и гибочных штампов."
+    },
+    {
+     "t": "Листовая штамповка",
+     "d": "Резка, пробивка, гибка и формовка на прессовых линиях."
+    },
+    {
+     "t": "Защита поверхности",
+     "d": "[Ваш метод цинкования / покрытия и стандарт]"
+    },
+    {
+     "t": "Упаковка под вашей маркой",
+     "d": "Экспортная упаковка с вашим брендом, штрихкодом и этикетками."
+    }
+   ],
+   "capPhoto": "[Фото производства]",
+   "formTitle": "Запрос OEM-проекта",
+   "formText": "Пришлите чертежи и ориентировочные объёмы — наши инженеры изучат их и свяжутся с вами.",
+   "qty": "Годовой объём / объём заказа",
+   "material": "Требования к материалу и покрытию",
+   "file": "Файлы чертежей / моделей",
+   "filePh": "Выберите или перетащите файлы PDF, DWG, DXF, STEP",
+   "note": "Примечания к проекту",
+   "submit": "Отправить запрос",
+   "sentTitle": "Ваш запрос получен.",
+   "sentText": "Наши инженеры изучат файлы и свяжутся с вами."
+  },
+  "qual": {
+   "tag": "Качество · Производство · Экспорт",
+   "title": "Одинаковые размеры и качество в каждой партии.",
+   "lead": "Каждый этап — от сырья до отгрузки — проходит контроль, поэтому детали без проблем монтируются даже на крупных объектах.",
+   "photo": "[Фото завода / производственного цеха]",
+   "stats": [
+    {
+     "v": "[XX XXX м²]",
+     "l": "Производственная площадь"
+    },
+    {
+     "v": "[XXX т]",
+     "l": "Мощность в месяц"
+    },
+    {
+     "v": "[XX+]",
+     "l": "Стран экспорта"
+    },
+    {
+     "v": "[XX лет]",
+     "l": "Опыт в отрасли"
+    }
+   ],
+   "qcTitle": "Процесс контроля качества",
+   "qc": [
+    {
+     "t": "Входной контроль",
+     "d": "Проверка толщины и марки листа и трубы."
+    },
+    {
+     "t": "Операционный контроль",
+     "d": "Контроль размеров и допусков на прессе."
+    },
+    {
+     "t": "Контроль покрытия",
+     "d": "Толщина покрытия и визуальный осмотр."
+    },
+    {
+     "t": "Контроль перед отгрузкой",
+     "d": "Количество, маркировка, упаковка и записи прослеживаемости."
+    }
+   ],
+   "certTitle": "Сертификаты и документы",
+   "certText": "Все документы доступны в разделе «Загрузки».",
+   "certs": [
+    {
+     "t": "[ISO 9001]",
+     "d": "[Система менеджмента качества — при наличии]"
+    },
+    {
+     "t": "[CE / декларация соответствия]",
+     "d": "[Для моторизованной продукции — при наличии]"
+    },
+    {
+     "t": "[Сертификаты на материал]",
+     "d": "[Протоколы испытаний сырья]"
+    }
+   ],
+   "expTitle": "Экспорт и логистика",
+   "expText": "Отгружаем с планом загрузки контейнера, полным пакетом экспортных документов и кодами ТН ВЭД.",
+   "map": "[Карта стран экспорта]",
+   "exp": [
+    {
+     "t": "Условия поставки",
+     "v": "[EXW · FOB · CIF]"
+    },
+    {
+     "t": "Срок изготовления",
+     "v": "[X–Y недель]"
+    },
+    {
+     "t": "Минимальный заказ",
+     "v": "[MOQ]"
+    },
+    {
+     "t": "Загрузка",
+     "v": "[Контейнер 20’ / 40’, паллеты]"
+    }
+   ]
+  },
+  "dl": {
+   "tag": "Загрузки",
+   "title": "Каталоги, чертежи и документы",
+   "lead": "Скачайте каталоги, технические чертежи, CAD-файлы и сертификаты в одном месте. Ваши инженеры смогут сразу перенести размеры деталей в свои проекты.",
+   "catTitle": "Общий каталог продукции",
+   "general": "Общий каталог",
+   "meta": "PDF · 103 товара",
+   "groupTitle": "Документы по группам товаров",
+   "groupText": "Страницы каталога, технические чертежи и 3D CAD-файлы для каждой группы.",
+   "count": "Товаров: {n}",
+   "pdf": "Каталог (PDF)",
+   "drawings": "Чертежи",
+   "cad": "CAD (STEP)",
+   "docsTitle": "Документы компании",
+   "docs": [
+    {
+     "t": "Презентация компании",
+     "d": "[Корпоративная презентация — PDF]"
+    },
+    {
+     "t": "Сертификаты",
+     "d": "[ISO, CE и другие документы]"
+    },
+    {
+     "t": "Анкета поставщика",
+     "d": "[Налоговые, банковские и регистрационные данные]"
+    }
+   ]
+  }
+ },
+ "ar": {
+  "navLabel": "القائمة الرئيسية",
+  "langLabel": "اللغة",
+  "crumbLabel": "مسار التنقل",
+  "nav": {
+   "home": "الرئيسية",
+   "products": "المنتجات",
+   "guide": "دليل البيوت المحمية",
+   "about": "من نحن",
+   "contact": "اتصل بنا"
+  },
+  "ctaQuote": "اطلب عرض سعر",
+  "heroTag": "معدات وملحقات البيوت المحمية",
+  "heroTitle": "جميع قطع الوصل لبيتك المحمي، من التهوية إلى التظليل.",
+  "heroText": "أنظمة الجريدة المسننة والترس، ملحقات ستائر التظليل، المشابك، المفصلات، المحركات المخفضة والمراوح.",
+  "heroBtn1": "كتالوج المنتجات",
+  "heroBtn2": "تواصل معنا",
+  "groupsTitle": "مجموعات المنتجات",
+  "groupsText": "اختر المجموعة لعرض المنتجات المرتبطة بها.",
+  "cat": {
+   "hav": "أنظمة التهوية",
+   "gol": "أنظمة التظليل",
+   "kel": "مشابك البيوت المحمية",
+   "pro": "مشابك البروفيل",
+   "men": "المفصلات",
+   "olu": "ملحقات قنوات الزراعة",
+   "prf": "المزاريب وبروفيلات البيوت المحمية",
+   "nay": "النايلون والمشابك",
+   "mot": "المحركات والمخفضات",
+   "fan": "المراوح"
+  },
+  "ourProducts": "منتجاتنا",
+  "count": "{n} منتج · تواصل معنا لمعرفة الأسعار والتوفر.",
+  "allProducts": "كل المنتجات",
+  "search": "اسم المنتج أو رمزه",
+  "loading": "جارٍ تحميل المنتجات…",
+  "noResult": "لا توجد منتجات تطابق بحثك.",
+  "sizes": "{n} مقاسات",
+  "view": "عرض التفاصيل ←",
+  "more": "عرض المزيد ({n} منتج آخر)",
+  "aboutPhoto": "[صورة الشركة / الإنتاج / الفريق]",
+  "aboutTitle": "قطع موثوقة لكل نقطة وصل في البيت المحمي.",
+  "aboutText": "[قصة الشركة — تاريخ التأسيس، الطاقة الإنتاجية، الدول التي تخدمونها وما يميزكم.]",
+  "values": [
+   {
+    "title": "تشكيلة واسعة من المقاسات",
+    "text": "خيارات لجميع مقاسات الأنابيب والبروفيلات"
+   },
+   {
+    "title": "دعم فني",
+    "text": "نساعدك في اختيار القطعة المناسبة"
+   },
+   {
+    "title": "الجملة والتصدير",
+    "text": "عروض للموزعين والمشاريع"
+   }
+  ],
+  "guideText": "معلومات عملية ونصائح موسمية للمزارعين",
+  "allPosts": "كل المقالات",
+  "postImage": "صورة المقال",
+  "readMore": "اقرأ المزيد ←",
+  "articles": [
+   {
+    "tag": "التهوية",
+    "title": "الجريدة المسننة أم الترس؟ اختيار نظام التهوية المناسب",
+    "summary": "ما يجب مراعاته حسب نوع البيت المحمي وطول النافذة."
+   },
+   {
+    "tag": "التظليل",
+    "title": "نصائح صيانة أنظمة ستائر التظليل",
+    "summary": "لإطالة عمر البكرات والمشابك وقطع شدّ الكابلات."
+   },
+   {
+    "tag": "الهيكل",
+    "title": "اختيار مشبك Y حسب مقاس العمود والقوس",
+    "summary": "حدّد المشبك المناسب لمقاسات الأنابيب والبروفيلات لديك."
+   }
+  ],
+  "askPrice": "اطلب عرض سعر",
+  "askWa": "اسأل عبر واتساب",
+  "datasheet": "النشرة الفنية",
+  "variantsTitle": "المقاسات ورموز المنتج",
+  "variantCount": "{n} خيارات",
+  "services": [
+   {
+    "title": "استشارة فنية",
+    "text": "نساعدك في اختيار المقاس الصحيح"
+   },
+   {
+    "title": "طلبات الجملة والمشاريع",
+    "text": "عرض خاص حسب الكمية"
+   },
+   {
+    "title": "محلي وتصدير",
+    "text": "[شروط التسليم لديكم]"
+   }
+  ],
+  "related": "منتجات مشابهة",
+  "formTitle": "طلب عرض سعر ومعلومات",
+  "formText": "اكتب المنتج الذي يهمك واحتياجاتك، وسنعود إليك قريبًا.",
+  "sentTitle": "شكرًا، تم استلام طلبك!",
+  "sentText": "سيتواصل معك فريقنا قريبًا.",
+  "newRequest": "إرسال طلب جديد",
+  "f": {
+   "name": "الاسم / الشركة",
+   "phone": "الهاتف",
+   "email": "البريد الإلكتروني",
+   "country": "الدولة / المدينة",
+   "product": "المنتج المطلوب",
+   "productPh": "اسم المنتج أو رمزه",
+   "message": "رسالتك",
+   "messagePh": "المقاس، الكمية، مكان التسليم وغير ذلك",
+   "consent": "قرأت إشعار الخصوصية وأوافق على استخدام بياناتي لهذا الطلب.",
+   "submit": "إرسال الطلب"
+  },
+  "contactInfo": "معلومات الاتصال",
+  "address": "العنوان",
+  "hours": "ساعات العمل",
+  "map": "[الخريطة]",
+  "footerText": "شريكك الموثوق في أنظمة التهوية والتظليل والوصل للبيوت المحمية.",
+  "corporate": "الشركة",
+  "dealer": "كن موزعًا",
+  "rights": "جميع الحقوق محفوظة.",
+  "privacy": "الخصوصية",
+  "cookies": "سياسة ملفات تعريف الارتباط",
+  "admin": "دخول المسؤول",
+  "label": {
+   "products": "المنتجات",
+   "references": "المراجع",
+   "support": "الدعم"
+  },
+  "hero2": {
+   "title": "مصنّع موثوق لقطع التهوية والتظليل وهياكل البيوت المحمية.",
+   "text": "أنظمة الجريدة المسننة والترس، ملحقات التظليل، المشابك، المحركات المخفضة والمراوح لمنفذي البيوت المحمية والموزعين وكبار المنتجين. كتالوج قياسي وقطع حسب رسوماتكم.",
+   "cta1": "استكشف الكتالوج",
+   "cta2": "OEM / تصنيع خاص",
+   "photo": "[فيديو أو صورة من داخل البيت المحمي]"
+  },
+  "quote": {
+   "text": "[رأي عميل — مثال: «نحصل منذ سنوات على الجودة نفسها والتسليم في الموعد في كل مشروع».]",
+   "who": "[الاسم، الشركة، الدولة]",
+   "photo": "[صورة مشروع العميل]"
+  },
+  "refs2": {
+   "title": "مشاريع تستخدم قطعنا",
+   "all": "كل المراجع ‹",
+   "photo": "[صورة المشروع]",
+   "items": [
+    {
+     "cap": "بيوت الطماطم – [الدولة]"
+    },
+    {
+     "cap": "الفراولة والتوت – [الدولة]"
+    },
+    {
+     "cap": "إنتاج الشتلات – [الدولة]"
+    }
+   ]
+  },
+  "stmt": {
+   "title": "منذ [XX] عامًا إلى جانب المزارعين في [XX] دولة.",
+   "sub": "قطع نصنعها بقوالبنا الخاصة ونوصلها إلى مشاريع البيوت المحمية حول العالم.",
+   "cta": "الإنتاج والجودة",
+   "badge": "صُنع في تركيا",
+   "photo": "[صورة جوية للمصنع]"
+  },
+  "follow": "تابعونا",
+  "fairs": {
+   "title": "المعارض",
+   "all": "كل المواعيد ‹",
+   "logo": "[معرض]",
+   "items": [
+    {
+     "t": "[اسم المعرض، المدينة، التاريخ]",
+     "d": "[رقم الجناح وملاحظة قصيرة]"
+    },
+    {
+     "t": "[اسم المعرض، المدينة، التاريخ]",
+     "d": "[رقم الجناح وملاحظة قصيرة]"
+    }
+   ]
+  },
+  "nav2": {
+   "oem": "OEM / تصنيع خاص",
+   "quality": "الجودة والإنتاج",
+   "downloads": "مركز التنزيلات"
+  },
+  "spec": {
+   "title": "المواصفات الفنية",
+   "group": "مجموعة المنتج",
+   "codes": "رموز المنتج",
+   "hs": "رمز النظام المنسق (HS)",
+   "thick": "سماكة الصفيح",
+   "net": "الوزن الصافي (للقطعة)",
+   "unit": "وحدة البيع",
+   "unitVal": "قطعة",
+   "origin": "بلد المنشأ",
+   "originVal": "تركيا",
+   "material": "المادة / الطلاء",
+   "materialVal": "[بيانات المادة والطلاء لديكم]",
+   "pack": "التعبئة",
+   "packVal": "[عدد القطع في الكرتونة، مقاس الكرتونة]",
+   "moq": "الحد الأدنى للطلب",
+   "moqVal": "[الحد الأدنى لديكم]",
+   "drawings": "الرسومات الفنية وملفات CAD",
+   "drawNote": "معاينة الرسم الفني",
+   "drawPdf": "تنزيل الرسم الفني",
+   "cad": "ملف CAD ثلاثي الأبعاد"
+  },
+  "b2b": {
+   "tag": "لمنفذي البيوت المحمية والموزعين",
+   "title": "شريك توريد موثوق لمشاريعكم.",
+   "text": "منتجات الكتالوج القياسية إلى جانب قطع مصنّعة حسب رسوماتكم — لشركات إنشاء البيوت المحمية والموزعين وكبار المنتجين. جودة ثابتة، إنتاج قابل للتتبع وتعبئة جاهزة للتصدير.",
+   "btn1": "OEM / تصنيع خاص",
+   "btn2": "الجودة والإنتاج"
+  },
+  "refs": {
+   "title": "شركات نعمل معها",
+   "text": "تُستخدم قطعنا في مشاريع البيوت المحمية في دول عديدة.",
+   "logo": "[شعار العميل]"
+  },
+  "oem": {
+   "tag": "OEM · تصنيع حسب الطلب",
+   "title": "أرسل رسمك الفني، ونصنّعه لك.",
+   "lead": "إلى جانب منتجاتنا القياسية، نصمم وننتج بكميات كبيرة مشابك وقطع وصل وآليات مخصصة لهيكل بيتك المحمي في ورشة القوالب الخاصة بنا، مع إمكانية التعبئة باسم علامتك التجارية.",
+   "btn": "أرسل مشروعك",
+   "photo": "[صورة ورشة القوالب / خط المكابس]",
+   "stepsTitle": "كيف نعمل",
+   "steps": [
+    {
+     "t": "رسم فني أو عينة",
+     "d": "شارك الرسم الفني أو النموذج ثلاثي الأبعاد أو عينة القطعة."
+    },
+    {
+     "t": "تقييم هندسي",
+     "d": "دراسة المقاسات والمادة وقابلية التصنيع؛ عرض السعر ومدة التسليم."
+    },
+    {
+     "t": "تصميم القالب وتصنيعه",
+     "d": "تصميم وتصنيع القالب الخاص بقطعتك."
+    },
+    {
+     "t": "اعتماد العينة",
+     "d": "فحص العينات الأولى من حيث المقاسات والوظيفة وإرسالها لاعتمادكم."
+    },
+    {
+     "t": "الإنتاج والشحن",
+     "d": "إنتاج متسلسل وفق العينة المعتمدة، ثم التعبئة والشحن."
+    }
+   ],
+   "capsTitle": "قدراتنا الإنتاجية",
+   "caps": [
+    {
+     "t": "تصميم القوالب وتصنيعها",
+     "d": "تصميم وإنتاج قوالب القص والتثقيب والتشكيل داخل منشأتنا."
+    },
+    {
+     "t": "تشكيل الصفائح المعدنية",
+     "d": "القص والتثقيب والثني والتشكيل على خطوط المكابس."
+    },
+    {
+     "t": "حماية السطح",
+     "d": "[طريقة الجلفنة / الطلاء والمعيار المتّبع]"
+    },
+    {
+     "t": "تعبئة بعلامتك التجارية",
+     "d": "تعبئة مناسبة للتصدير مع علامتك والباركود والملصقات."
+    }
+   ],
+   "capPhoto": "[صورة من الإنتاج]",
+   "formTitle": "طلب مشروع OEM",
+   "formText": "شارك رسوماتك والكميات التقريبية، وسيقوم فريقنا الهندسي بدراستها والتواصل معك.",
+   "qty": "الكمية السنوية / لكل طلب",
+   "material": "متطلبات المادة والطلاء",
+   "file": "ملفات الرسومات / النماذج",
+   "filePh": "اختر أو اسحب ملفات PDF أو DWG أو DXF أو STEP",
+   "note": "ملاحظات المشروع",
+   "submit": "إرسال طلب المشروع",
+   "sentTitle": "تم استلام طلب مشروعك.",
+   "sentText": "سيقوم فريقنا الهندسي بدراسة ملفاتك والتواصل معك."
+  },
+  "qual": {
+   "tag": "الجودة · الإنتاج · التصدير",
+   "title": "المقاسات والجودة نفسها في كل دفعة.",
+   "lead": "نفحص كل مرحلة من المادة الخام حتى الشحن، لتُركَّب القطع في الموقع دون مشكلات حتى في المشاريع الكبيرة.",
+   "photo": "[صورة المصنع / صالة الإنتاج]",
+   "stats": [
+    {
+     "v": "[XX,XXX م²]",
+     "l": "مساحة الإنتاج"
+    },
+    {
+     "v": "[XXX طن]",
+     "l": "الطاقة الإنتاجية الشهرية"
+    },
+    {
+     "v": "[+XX]",
+     "l": "دولة نصدّر إليها"
+    },
+    {
+     "v": "[XX سنة]",
+     "l": "خبرة في القطاع"
+    }
+   ],
+   "qcTitle": "مراحل مراقبة الجودة",
+   "qc": [
+    {
+     "t": "فحص المواد الواردة",
+     "d": "فحص سماكة ونوع الصفائح والأنابيب."
+    },
+    {
+     "t": "الفحص أثناء الإنتاج",
+     "d": "فحص المقاسات والتفاوتات عند المكابس."
+    },
+    {
+     "t": "فحص السطح والطلاء",
+     "d": "قياس سماكة الطلاء والفحص البصري."
+    },
+    {
+     "t": "الفحص قبل الشحن",
+     "d": "فحص الكميات والملصقات والتعبئة مع سجلات التتبع."
+    }
+   ],
+   "certTitle": "الشهادات والوثائق",
+   "certText": "جميع الوثائق متاحة في مركز التنزيلات.",
+   "certs": [
+    {
+     "t": "[ISO 9001]",
+     "d": "[نظام إدارة الجودة — إن وجد]"
+    },
+    {
+     "t": "[CE / إعلان المطابقة]",
+     "d": "[للمنتجات الآلية — إن وجد]"
+    },
+    {
+     "t": "[شهادات المواد]",
+     "d": "[تقارير اختبار المواد الخام]"
+    }
+   ],
+   "expTitle": "التصدير والخدمات اللوجستية",
+   "expText": "نشحن مع خطة تحميل الحاويات ووثائق التصدير الكاملة ورموز HS للتخليص الجمركي.",
+   "map": "[خريطة دول التصدير]",
+   "exp": [
+    {
+     "t": "شروط التسليم",
+     "v": "[EXW · FOB · CIF]"
+    },
+    {
+     "t": "مدة التسليم",
+     "v": "[X–Y أسابيع]"
+    },
+    {
+     "t": "الحد الأدنى للطلب",
+     "v": "[MOQ]"
+    },
+    {
+     "t": "التحميل",
+     "v": "[حاوية 20’ / 40’، منصات]"
+    }
+   ]
+  },
+  "dl": {
+   "tag": "مركز التنزيلات",
+   "title": "الكتالوجات والرسومات الفنية والوثائق",
+   "lead": "نزّل كتالوجاتنا والرسومات الفنية وملفات CAD والشهادات من مكان واحد، ليتمكن مهندسوكم من نقل مقاسات القطع مباشرة إلى مشاريعهم.",
+   "catTitle": "الكتالوج العام للمنتجات",
+   "general": "الكتالوج العام",
+   "meta": "PDF · 103 منتجات",
+   "groupTitle": "وثائق مجموعات المنتجات",
+   "groupText": "صفحات الكتالوج والرسومات الفنية وملفات CAD ثلاثية الأبعاد لكل مجموعة.",
+   "count": "{n} منتج",
+   "pdf": "الكتالوج (PDF)",
+   "drawings": "الرسومات",
+   "cad": "CAD (STEP)",
+   "docsTitle": "وثائق الشركة",
+   "docs": [
+    {
+     "t": "ملف تعريف الشركة",
+     "d": "[عرض تقديمي للشركة — PDF]"
+    },
+    {
+     "t": "الشهادات",
+     "d": "[ISO و CE ووثائق أخرى]"
+    },
+    {
+     "t": "نموذج معلومات المورد",
+     "d": "[البيانات الضريبية والمصرفية وبيانات الشركة]"
+    }
+   ]
+  }
+ }
+}

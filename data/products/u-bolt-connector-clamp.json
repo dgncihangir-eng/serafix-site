@@ -1,0 +1,101 @@
+{
+ "slug": "u-bolt-connector-clamp",
+ "order": 55,
+ "id": 59,
+ "cat": "kel",
+ "img": "59aafbf2bae1.webp",
+ "codes": [
+  "KLP122",
+  "KLP123",
+  "KLP124",
+  "KLP125"
+ ],
+ "name": {
+  "tr": "U Cıvatalı Bağlantı Kelepçesi",
+  "en": "U Bolt Connector Clamp",
+  "ru": "Соединительный хомут с U-болтом",
+  "ar": "مشبك وصل بمسمار U"
+ },
+ "desc": {
+  "tr": "Seralarda boru/profiller için çelik konstrüksiyon bağlantı elemanı. Birden fazla ölçü seçeneği: M10x160/170/178/230, Ø34/42/48/60.",
+  "en": "Steel construction connector for pipes/profiles in greenhouses. Multiple size variants: M10x160/170/178/230, Ø34/42/48/60.",
+  "ru": "Стальной соединитель для труб и профилей в теплицах. Размеры M10x160/170/178/230, Ø34/42/48/60.",
+  "ar": "وصلة فولاذية للأنابيب والبروفيلات في البيوت المحمية. المقاسات M10x160/170/178/230، Ø34/42/48/60."
+ },
+ "vars": [
+  {
+   "code": "KLP122",
+   "size": {
+    "en": "Size Ø34",
+    "ru": "Размер Ø34",
+    "ar": "المقاس Ø34",
+    "tr": "Ölçü Ø34"
+   },
+   "rest": {
+    "tr": "Seralarda boru/profiller için çelik konstrüksiyon bağlantı elemanı. Birden fazla ölçü seçeneği: M10x160/170/178/230, Ø34/42/48/60.",
+    "en": "Steel construction connector for pipes/profiles in greenhouses. Multiple size variants: M10x160/170/178/230, Ø34/42/48/60."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP123",
+   "size": {
+    "en": "Fits Ø42 pipe",
+    "ru": "Для трубы Ø42",
+    "ar": "يناسب أنبوب Ø42",
+    "tr": "Ø42 boruya uyar"
+   },
+   "rest": {
+    "tr": "Seralarda boru veya profiller için çelik konstrüksiyon bağlantı kelepçesi olarak kullanılır. Kalınlık 2mm, özellik M10X170, bağlantı Ø 42.",
+    "en": "Used as steel construction connection clamp for pipes or profiles in greenhouses. Thickness 2mm, specification M10X170, connection Ø 42."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP124",
+   "size": {
+    "en": "Fits Ø48 pipe",
+    "ru": "Для трубы Ø48",
+    "ar": "يناسب أنبوب Ø48",
+    "tr": "Ø48 boruya uyar"
+   },
+   "rest": {
+    "tr": "Seralarda boru veya profiller için çelik konstrüksiyon bağlantı kelepçesi olarak kullanılır. Kalınlık 2mm, özellik M10X178, bağlantı Ø 48.",
+    "en": "Used as steel construction connection clamp for pipes or profiles in greenhouses. Thickness 2mm, specification M10X178, connection Ø 48."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP125",
+   "size": {
+    "en": "Fits Ø60 pipe",
+    "ru": "Для трубы Ø60",
+    "ar": "يناسب أنبوب Ø60",
+    "tr": "Ø60 boruya uyar"
+   },
+   "rest": {
+    "tr": "Seralarda boru veya profiller için çelik konstrüksiyon bağlantı kelepçesi olarak kullanılır. Kalınlık 2mm, özellik M10X230, bağlantı Ø 60.",
+    "en": "Used as steel construction connection clamp for pipes or profiles in greenhouses. Thickness 2mm, specification M10X230, connection Ø 60."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

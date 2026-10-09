@@ -1,0 +1,56 @@
+{
+ "slug": "80x140-column-head-cross",
+ "order": 33,
+ "id": 80,
+ "cat": "kel",
+ "img": "3f8d9413a009.webp",
+ "codes": [
+  "KLP188"
+ ],
+ "name": {
+  "tr": "80x140 Kolon Baş Çaprazı",
+  "en": "80x140 Column Head Cross",
+  "ru": "Крестовина оголовка колонны 80x140",
+  "ar": "صليب رأس العمود 80x140"
+ },
+ "desc": {
+  "tr": "80x140mm profil uyar. 80x140 profil için kolon baş bağlantı çaprazı. Kalınlık 3mm.",
+  "en": "Fits 80x140mm profile. Column head connection cross for 80x140 profile. Thickness 3mm.",
+  "ru": "Для профиля 80x140 мм. Соединительная крестовина оголовка колонны. Толщина 3 мм.",
+  "ar": "يناسب بروفيل 80x140 مم. صليب وصل لرأس العمود. السماكة 3 مم."
+ },
+ "vars": [
+  {
+   "code": "KLP188",
+   "size": {
+    "en": "Fits 80x140mm profile",
+    "ru": "Для профиля 80x140mm",
+    "ar": "يناسب بروفيل 80x140mm",
+    "tr": "80x140mm profil uyar"
+   },
+   "rest": {
+    "tr": "80x140 profil için kolon baş bağlantı çaprazı. Kalınlık 3mm.",
+    "en": "Column head connection cross for 80x140 profile. Thickness 3mm."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "3",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

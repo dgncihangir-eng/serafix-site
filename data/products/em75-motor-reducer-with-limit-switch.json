@@ -1,0 +1,56 @@
+{
+ "slug": "em75-motor-reducer-with-limit-switch",
+ "order": 87,
+ "id": 94,
+ "cat": "mot",
+ "img": "2c686c854609.webp",
+ "codes": [
+  "RED004"
+ ],
+ "name": {
+  "tr": "EM75 Limit Switchli Motoredüktör",
+  "en": "EM75 Motor Reducer with Limit Switch",
+  "ru": "Мотор-редуктор EM75 с концевым выключателем",
+  "ar": "محرك مخفض EM75 مع مفتاح حدّ"
+ },
+ "desc": {
+  "tr": "Ø25 mile uyar. Sera havalandırması, hayvan barınakları ve ürün depolama tesisi havalandırmasında kullanılır. 3.75 RPM, 0.55kW, 380V, mil Ø25, ağırlık 20kg.",
+  "en": "Fits Ø25 shaft. Used in greenhouse ventilation, livestock buildings and product storage facility ventilation. 3.75 RPM, 0.55kW, 380V, shaft Ø25, weight 20kg.",
+  "ru": "Для вала Ø25. Проветривание теплиц, животноводческих помещений и складов. 3,75 об/мин, 0,55 кВт, 380 В, вес 20 кг.",
+  "ar": "يناسب عمود Ø25. لتهوية البيوت المحمية وحظائر المواشي والمستودعات. 3.75 دورة/دقيقة، 0.55 كيلوواط، 380 فولت، الوزن 20 كغ."
+ },
+ "vars": [
+  {
+   "code": "RED004",
+   "size": {
+    "en": "Fits Ø25 shaft",
+    "ru": "Для вала Ø25",
+    "ar": "يناسب عمود Ø25",
+    "tr": "Ø25 mile uyar"
+   },
+   "rest": {
+    "tr": "Sera havalandırması, hayvan barınakları ve ürün depolama tesisi havalandırmasında kullanılır. 3.75 RPM, 0.55kW, 380V, mil Ø25, ağırlık 20kg.",
+    "en": "Used in greenhouse ventilation, livestock buildings and product storage facility ventilation. 3.75 RPM, 0.55kW, 380V, shaft Ø25, weight 20kg."
+   },
+   "net": "23"
+  }
+ ],
+ "hs": [
+  "8483.40.51.9022"
+ ],
+ "thick": "",
+ "net": "23",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

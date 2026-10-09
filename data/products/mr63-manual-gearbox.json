@@ -1,0 +1,56 @@
+{
+ "slug": "mr63-manual-gearbox",
+ "order": 93,
+ "id": 99,
+ "cat": "mot",
+ "img": "39ab28ad3e7f.webp",
+ "codes": [
+  "RED010"
+ ],
+ "name": {
+  "tr": "MR63 Manuel Redüktör",
+  "en": "MR63 Manual Gearbox",
+  "ru": "Ручной редуктор MR63",
+  "ar": "علبة تروس يدوية MR63"
+ },
+ "desc": {
+  "tr": "Ø25 mile uyar. Seraların üst havalandırma sistemlerinde kullanılır. Çıkış 1/28, tork 500, mil Ø25, ağırlık 10kg. İki kuplaj ve bir kasnakla birlikte satılır; zincir dahil değildir.",
+  "en": "Fits Ø25 shaft. Used in top ventilation systems of greenhouses. Output 1/28, torque 500, shaft Ø25, weight 10kg. Sold with two couplings and one pulley; chain not…",
+  "ru": "Для вала Ø25. Для верхних систем проветривания теплиц. Выход 1/28, момент 500, вес 10 кг.",
+  "ar": "يناسب عمود Ø25. لأنظمة التهوية العلوية في البيوت المحمية. الخرج 1/28، العزم 500، الوزن 10 كغ."
+ },
+ "vars": [
+  {
+   "code": "RED010",
+   "size": {
+    "en": "Fits Ø25 shaft",
+    "ru": "Для вала Ø25",
+    "ar": "يناسب عمود Ø25",
+    "tr": "Ø25 mile uyar"
+   },
+   "rest": {
+    "tr": "Seraların üst havalandırma sistemlerinde kullanılır. Çıkış 1/28, tork 500, mil Ø25, ağırlık 10kg. İki kuplaj ve bir kasnakla birlikte satılır; zincir dahil değildir.",
+    "en": "Used in top ventilation systems of greenhouses. Output 1/28, torque 500, shaft Ø25, weight 10kg. Sold with two couplings and one pulley; chain not included."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "8483.40.51.9022"
+ ],
+ "thick": "",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

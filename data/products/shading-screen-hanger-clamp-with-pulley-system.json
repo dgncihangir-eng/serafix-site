@@ -1,0 +1,56 @@
+{
+ "slug": "shading-screen-hanger-clamp-with-pulley-system",
+ "order": 26,
+ "id": 65,
+ "cat": "gol",
+ "img": "ed4e0297b55b.webp",
+ "codes": [
+  "KLP133"
+ ],
+ "name": {
+  "tr": "Makaralı Gölgeleme Perdesi Askı Kelepçesi",
+  "en": "Shading Screen Hanger Clamp with Pulley System",
+  "ru": "Подвесной хомут затеняющего экрана с роликовой системой",
+  "ar": "مشبك تعليق ستارة التظليل بنظام البكرات"
+ },
+ "desc": {
+  "tr": "Gölgeleme perdesi kremayerini uzatmak için kullanılan boruları taşımak amacıyla kullanılır.",
+  "en": "Used to transport the pipes used for extending the shading screen rack.",
+  "ru": "Используется для удержания труб, удлиняющих рейку затеняющего экрана.",
+  "ar": "يُستخدم لحمل الأنابيب التي تمدّد الجريدة المسننة لستارة التظليل."
+ },
+ "vars": [
+  {
+   "code": "KLP133",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "Gölgeleme perdesi kremayerini uzatmak için kullanılan boruları taşımak amacıyla kullanılır.",
+    "en": "Used to transport the pipes used for extending the shading screen rack."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

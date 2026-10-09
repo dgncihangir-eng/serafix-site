@@ -1,0 +1,86 @@
+{
+ "slug": "tc-series-eco-single-rack",
+ "order": 10,
+ "id": 7,
+ "cat": "hav",
+ "img": "e11f1fb9c310.webp",
+ "codes": [
+  "HAV0012",
+  "HAV0013",
+  "HAV0014"
+ ],
+ "name": {
+  "tr": "TC Serisi Ekonomik Tekli Kremayer",
+  "en": "TC Series Eco Single Rack",
+  "ru": "Одинарная рейка TC Eco",
+  "ar": "جريدة مسننة مفردة TC Eco"
+ },
+ "desc": {
+  "tr": "Ekonomik seralar için tekli kremayer. Kalınlık 2mm. Uzunluk: 1115mm.",
+  "en": "Single rack for economical greenhouses. Thickness 2mm. Length: 1115mm.",
+  "ru": "Одинарная рейка для экономичных теплиц. Толщина 2 мм. Длина 1115 мм.",
+  "ar": "جريدة مسننة مفردة للبيوت المحمية الاقتصادية. السماكة 2 مم. الطول 1115 مم."
+ },
+ "vars": [
+  {
+   "code": "HAV0012",
+   "size": {
+    "en": "Length 1115mm",
+    "ru": "Длина 1115mm",
+    "ar": "الطول 1115mm",
+    "tr": "Uzunluk 1115mm"
+   },
+   "rest": {
+    "tr": "Ekonomik seralar için tekli kremayer. Kalınlık 2mm. Uzunluk: 1115mm.",
+    "en": "Single rack for economical greenhouses. Thickness 2mm. Length: 1115mm."
+   },
+   "net": ""
+  },
+  {
+   "code": "HAV0013",
+   "size": {
+    "en": "Length 1375mm",
+    "ru": "Длина 1375mm",
+    "ar": "الطول 1375mm",
+    "tr": "Uzunluk 1375mm"
+   },
+   "rest": {
+    "tr": "Ekonomik seraların havalandırmasında motorlu veya motorsuz redüktörlerle birlikte kullanılan tekli kremayer-pinyon. Kalınlık 2mm. Uzunluk: 1375mm.",
+    "en": "Single rack and pinion, used together with motorized or non-motorized reducers in the ventilation of economical greenhouses. Thickness 2mm. Length: 1375mm."
+   },
+   "net": ""
+  },
+  {
+   "code": "HAV0014",
+   "size": {
+    "en": "Length 1500 mm",
+    "ru": "Длина 1500 mm",
+    "ar": "الطول 1500 mm",
+    "tr": "Uzunluk 1500 mm"
+   },
+   "rest": {
+    "tr": "Ekonomik seraların havalandırmasında motorlu veya motorsuz redüktörlerle birlikte kullanılan tekli kremayer-pinyon. Kalınlık 2mm. Uzunluk: 1500mm.",
+    "en": "Single rack and pinion, used together with motorized or non-motorized reducers in the ventilation of economical greenhouses. Thickness 2mm. Length: 1500mm."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

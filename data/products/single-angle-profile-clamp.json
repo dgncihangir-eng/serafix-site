@@ -1,0 +1,116 @@
+{
+ "slug": "single-angle-profile-clamp",
+ "order": 70,
+ "id": 72,
+ "cat": "pro",
+ "img": "afe2ceee6242.webp",
+ "codes": [
+  "KLP156",
+  "KLP157",
+  "KLP158",
+  "KLP159",
+  "KLP160"
+ ],
+ "name": {
+  "tr": "Tek Açılı Profil Kelepçesi",
+  "en": "Single Angle Profile Clamp",
+  "ru": "Одноугловой профильный хомут",
+  "ar": "مشبك بروفيل بزاوية مفردة"
+ },
+ "desc": {
+  "tr": "Seralar için çelik konstrüksiyon bağlantı kelepçesi. Kalınlık 2mm.",
+  "en": "Steel construction connection clamp for greenhouses. Thickness 2mm.",
+  "ru": "Стальной соединительный хомут для теплиц. Толщина 2 мм.",
+  "ar": "مشبك وصل فولاذي للبيوت المحمية. السماكة 2 مم."
+ },
+ "vars": [
+  {
+   "code": "KLP156",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "Seralar için çelik konstrüksiyon bağlantı kelepçesi. Kalınlık 2mm.",
+    "en": "Steel construction connection clamp for greenhouses. Thickness 2mm."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP157",
+   "size": {
+    "en": "Fits 60x60mm profile",
+    "ru": "Для профиля 60x60mm",
+    "ar": "يناسب بروفيل 60x60mm",
+    "tr": "60x60mm profil uyar"
+   },
+   "rest": {
+    "tr": "Seralarda kullanılan çelik konstrüksiyon bağlantı kelepçesi. Kalınlık 2mm, A60mm, B60mm.",
+    "en": "Steel construction connection clamp used in greenhouses. Thickness 2mm, A60mm, B60mm."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP158",
+   "size": {
+    "en": "Fits 60x80mm profile",
+    "ru": "Для профиля 60x80mm",
+    "ar": "يناسب بروفيل 60x80mm",
+    "tr": "60x80mm profil uyar"
+   },
+   "rest": {
+    "tr": "Seralarda kullanılan çelik konstrüksiyon bağlantı kelepçesi. Kalınlık 2mm, A60mm, B80mm.",
+    "en": "Steel construction connection clamp used in greenhouses. Thickness 2mm, A60mm, B80mm."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP159",
+   "size": {
+    "en": "Fits 80x40mm profile",
+    "ru": "Для профиля 80x40mm",
+    "ar": "يناسب بروفيل 80x40mm",
+    "tr": "80x40mm profil uyar"
+   },
+   "rest": {
+    "tr": "Seralarda kullanılan çelik konstrüksiyon bağlantı kelepçesi. Kalınlık 2mm, A80mm, B40mm.",
+    "en": "Steel construction connection clamp used in greenhouses. Thickness 2mm, A80mm, B40mm."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP160",
+   "size": {
+    "en": "Fits 80x80mm profile",
+    "ru": "Для профиля 80x80mm",
+    "ar": "يناسب بروفيل 80x80mm",
+    "tr": "80x80mm profil uyar"
+   },
+   "rest": {
+    "tr": "Seralarda kullanılan çelik konstrüksiyon bağlantı kelepçesi. Kalınlık 2mm, A80mm, B80mm.",
+    "en": "Steel construction connection clamp used in greenhouses. Thickness 2mm, A80mm, B80mm."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

@@ -1,0 +1,45 @@
+<section id="urunler" style="max-width: 1360px; margin: 0 auto; padding: {{ gridPad }}">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-end; gap: 20px; margin-bottom: 32px; border-bottom: 1px solid #E3E8E4; padding-bottom: 24px">
+<div>
+<span class="up" style="display: block; font-size: 12px; font-weight: 600; letter-spacing: 0.18em; text-transform: uppercase; color: #1F7A47; margin-bottom: 10px">{{t.label.products}}</span>
+{% if gridH1 %}<h1 class="fh" style="margin: 0 0 8px; font-size: 38px; font-weight: 300; letter-spacing: -0.01em">{{listTitle}}</h1>{% else %}<h2 class="fh" style="margin: 0 0 8px; font-size: 38px; font-weight: 300; letter-spacing: -0.01em">{{listTitle}}</h2>{% endif %}
+{% if listIntro %}<p style="margin: 0 0 10px; max-width: 760px; font-size: 17px; line-height: 1.7; color: #3F4A44">{{ listIntro }}</p>{% endif %}
+<p style="margin: 0; color: #5B6660">{{totalLabel}}</p>
+</div>
+<div style="display: flex; gap: 12px; flex-wrap: wrap; align-items: center">
+{% if isFiltered %}<a href="{{ u.products }}" class="bl" style="display:inline-flex;align-items:center;height: 44px; padding: 0 18px; border: 1px solid #C9D2CC; border-radius: 999px; background: #FFFFFF; font-weight: 600; color: #11261C">{{t.allProducts}}</a>{% endif %}
+<form action="{{ u.products }}" method="get" role="search" style="display: flex; align-items: center; gap: 8px; height: 44px; padding: 0 16px; border: 1px solid #C9D2CC; background: #FFFFFF; min-width: 260px; margin: 0">
+<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#5B6660" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></svg>
+<label for="ara" class="sr">{{t.search}}</label>
+<input id="ara" name="q" type="search" placeholder="{{t.search}}" autocomplete="off" style="flex: 1; min-width: 0; border: none; font: inherit; background: transparent; outline-offset: 4px">
+</form>
+</div>
+</div>
+<div id="grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1px; background: #E3E8E4; border: 1px solid #E3E8E4">
+{% for p in products %}
+<div class="cardw" data-s="{{ p.search }}" style="position: relative; background: #FFFFFF; display: flex">
+<a href="{{ p.url }}" class="bl pcard" style="flex: 1; text-align: start; font: inherit; color: inherit; cursor: pointer; padding: 0; background: #FFFFFF; border: none; display: flex; flex-direction: column">
+<span style="position: relative; height: 230px; width: 100%; background: #F5F7F5; display: flex; align-items: center; justify-content: center; padding: 26px; box-sizing: border-box">
+<img src="{{p.img}}" alt="{{p.alt}}" width="300" height="300" loading="lazy" decoding="async" style="max-width: 100%; max-height: 100%; object-fit: contain; display: block">
+{% if p.multi %}
+<span style="position: absolute; top: 14px; inset-inline-start: 14px; color: #1F7A47; font-size: 12px; font-weight: 700">{{p.badge}}</span>
+{% endif %}
+</span>
+<span style="padding: 18px 20px 22px; display: flex; flex-direction: column; gap: 8px; flex: 1; width: 100%; box-sizing: border-box">
+<span class="up" style="font-size: 11px; color: #5B6660; font-weight: 600; text-transform: uppercase; letter-spacing: 0.12em">{{p.cat}}</span>
+<span class="up" style="font-size: 15px; line-height: 1.4; font-weight: 700; color: #11261C; text-transform: uppercase; letter-spacing: 0.02em">{{p.name}}</span>
+<span style="margin-top: auto; padding-top: 10px; font-size: 14px; font-weight: 600; color: #1F7A47">{{t.view}}</span>
+</span>
+</a>
+{% if p.multi %}<a href="{{ p.url }}#sizes" class="addq-card" aria-label="{{ t.qPick }}: {{ p.name }}" title="{{ t.qPick }}"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg></a>{% else %}<button type="button" class="addq addq-card" data-q="{{ p.q }}" aria-label="{{ t.qAdd }}: {{ p.name }}" title="{{ t.qAdd }}"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg></button>{% endif %}
+</div>
+{% endfor %}
+</div>
+{% if not products %}<div style="padding: 48px 32px; text-align: center; background: #F3F7F4; border: 1px solid #E3E8E4; display: flex; flex-direction: column; align-items: center; gap: 16px"><strong class="fh" style="font-size: 22px; font-weight: 600">{{ t.emptyTitle }}</strong><span style="max-width: 560px; color: #3F4A44; line-height: 1.6">{{ t.emptyText }}</span><a href="#iletisim" data-product="{{ listTitle }}" style="display: inline-flex; align-items: center; height: 48px; padding: 0 24px; border-radius: 999px; background: #1F7A47; color: #FFFFFF; font-weight: 700; text-decoration: none">{{ t.ctaQuote }}</a></div>{% endif %}
+<div id="noresult" hidden style="padding: 48px; text-align: center; color: #5B6660; background: #FFFFFF; border: 1px solid #E3E8E4">{{t.noResult}}</div>
+{% if hasMore %}
+<div style="display: flex; justify-content: center; margin-top: 36px">
+<a href="{{ u.products }}" class="bl" style="display:inline-flex;align-items:center;height: 50px; padding: 0 30px; border: 1.5px solid #1F7A47; border-radius: 999px; background: #FFFFFF; color: #1F7A47; font: inherit; font-weight: 700; cursor: pointer">{{moreLabel}}</a>
+</div>
+{% endif %}
+</section>

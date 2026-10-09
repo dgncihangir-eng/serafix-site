@@ -1,0 +1,146 @@
+{
+ "slug": "full-clamp",
+ "order": 53,
+ "id": 49,
+ "cat": "kel",
+ "img": "2cbda5328748.webp",
+ "codes": [
+  "KLP084",
+  "KLP085",
+  "KLP086",
+  "KLP087",
+  "KLP088",
+  "KLP089",
+  "KLP090"
+ ],
+ "name": {
+  "tr": "Tam Kelepçe",
+  "en": "Full Clamp",
+  "ru": "Полный хомут",
+  "ar": "مشبك كامل"
+ },
+ "desc": {
+  "tr": "Genel amaçlı kelepçe. Kalınlık 2mm. Birden fazla ölçü seçeneği: Ø27/34/42/48/60/76/50-60.",
+  "en": "General purpose clamp. Thickness 2mm. Multiple size variants: Ø27/34/42/48/60/76/50-60.",
+  "ru": "Универсальный хомут. Толщина 2 мм. Размеры Ø27/34/42/48/60/76/50-60.",
+  "ar": "مشبك متعدد الاستخدامات. السماكة 2 مم. المقاسات Ø27/34/42/48/60/76/50-60."
+ },
+ "vars": [
+  {
+   "code": "KLP084",
+   "size": {
+    "en": "Size Ø27",
+    "ru": "Размер Ø27",
+    "ar": "المقاس Ø27",
+    "tr": "Ölçü Ø27"
+   },
+   "rest": {
+    "tr": "Genel amaçlı kelepçe. Kalınlık 2mm. Birden fazla ölçü seçeneği: Ø27/34/42/48/60/76/50-60.",
+    "en": "General purpose clamp. Thickness 2mm. Multiple size variants: Ø27/34/42/48/60/76/50-60."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP085",
+   "size": {
+    "en": "Fits Ø34 pipe",
+    "ru": "Для трубы Ø34",
+    "ar": "يناسب أنبوب Ø34",
+    "tr": "Ø34 boruya uyar"
+   },
+   "rest": {
+    "tr": "Tam kelepçe. Kalınlık 2mm, bağlantı çapı Ø 34.",
+    "en": "Full clamp. Thickness 2mm, connection diameter Ø 34."
+   },
+   "net": "0.20"
+  },
+  {
+   "code": "KLP086",
+   "size": {
+    "en": "Fits Ø42 pipe",
+    "ru": "Для трубы Ø42",
+    "ar": "يناسب أنبوب Ø42",
+    "tr": "Ø42 boruya uyar"
+   },
+   "rest": {
+    "tr": "Tam kelepçe. Kalınlık 2mm, bağlantı çapı Ø 42.",
+    "en": "Full clamp. Thickness 2mm, connection diameter Ø 42."
+   },
+   "net": "0.150"
+  },
+  {
+   "code": "KLP087",
+   "size": {
+    "en": "Fits Ø48 pipe",
+    "ru": "Для трубы Ø48",
+    "ar": "يناسب أنبوب Ø48",
+    "tr": "Ø48 boruya uyar"
+   },
+   "rest": {
+    "tr": "Tam kelepçe. Kalınlık 2mm, bağlantı çapı Ø 48.",
+    "en": "Full clamp. Thickness 2mm, connection diameter Ø 48."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP088",
+   "size": {
+    "en": "Fits Ø60 pipe",
+    "ru": "Для трубы Ø60",
+    "ar": "يناسب أنبوب Ø60",
+    "tr": "Ø60 boruya uyar"
+   },
+   "rest": {
+    "tr": "Tam kelepçe. Kalınlık 2mm, bağlantı çapı Ø 60.",
+    "en": "Full clamp. Thickness 2mm, connection diameter Ø 60."
+   },
+   "net": "0.15"
+  },
+  {
+   "code": "KLP089",
+   "size": {
+    "en": "Fits Ø76 pipe",
+    "ru": "Для трубы Ø76",
+    "ar": "يناسب أنبوب Ø76",
+    "tr": "Ø76 boruya uyar"
+   },
+   "rest": {
+    "tr": "Tam kelepçe. Kalınlık 2mm, bağlantı çapı Ø 76.",
+    "en": "Full clamp. Thickness 2mm, connection diameter Ø 76."
+   },
+   "net": "0.20"
+  },
+  {
+   "code": "KLP090",
+   "size": {
+    "en": "Fits Ø50-60 pipe",
+    "ru": "Для трубы Ø50-60",
+    "ar": "يناسب أنبوب Ø50-60",
+    "tr": "Ø50-60 boruya uyar"
+   },
+   "rest": {
+    "tr": "Tam kelepçe. Kalınlık 2mm, bağlantı çapı Ø 50-60.",
+    "en": "Full clamp. Thickness 2mm, connection diameter Ø 50-60."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "0.15–0.2",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

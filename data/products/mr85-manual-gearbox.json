@@ -1,0 +1,56 @@
+{
+ "slug": "mr85-manual-gearbox",
+ "order": 94,
+ "id": 98,
+ "cat": "mot",
+ "img": "8cf77cfbc103.webp",
+ "codes": [
+  "RED009"
+ ],
+ "name": {
+  "tr": "MR85 Manuel Redüktör",
+  "en": "MR85 Manual Gearbox",
+  "ru": "Ручной редуктор MR85",
+  "ar": "علبة تروس يدوية MR85"
+ },
+ "desc": {
+  "tr": "Ø25 mile uyar. Seraların, hayvan barınaklarının ve ürün depolama tesislerinin üst havalandırma sistemlerinde kullanılır. Çıkış 1/35, tork 750, mil Ø25, ağırlık 14kg. İki kuplaj…",
+  "en": "Fits Ø25 shaft. Used in top ventilation systems of greenhouses, livestock buildings and product storage facilities. Output 1/35, torque 750, shaft Ø25, weight 14kg.…",
+  "ru": "Для вала Ø25. Для верхнего проветривания теплиц, животноводческих помещений и складов. Выход 1/35, момент 750, вес 14 кг.",
+  "ar": "يناسب عمود Ø25. للتهوية العلوية في البيوت المحمية وحظائر المواشي والمستودعات. الخرج 1/35، العزم 750، الوزن 14 كغ."
+ },
+ "vars": [
+  {
+   "code": "RED009",
+   "size": {
+    "en": "Fits Ø25 shaft",
+    "ru": "Для вала Ø25",
+    "ar": "يناسب عمود Ø25",
+    "tr": "Ø25 mile uyar"
+   },
+   "rest": {
+    "tr": "Seraların, hayvan barınaklarının ve ürün depolama tesislerinin üst havalandırma sistemlerinde kullanılır. Çıkış 1/35, tork 750, mil Ø25, ağırlık 14kg. İki kuplaj ve…",
+    "en": "Used in top ventilation systems of greenhouses, livestock buildings and product storage facilities. Output 1/35, torque 750, shaft Ø25, weight 14kg. Sold with two…"
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "8483.40.51.9022"
+ ],
+ "thick": "",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

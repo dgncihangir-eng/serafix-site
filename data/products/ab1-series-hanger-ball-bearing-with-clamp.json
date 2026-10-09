@@ -1,0 +1,131 @@
+{
+ "slug": "ab1-series-hanger-ball-bearing-with-clamp",
+ "order": 1,
+ "id": 12,
+ "cat": "hav",
+ "img": "04052b028171.webp",
+ "codes": [
+  "HAV015",
+  "HAV016",
+  "HAV017",
+  "HAV018",
+  "HAV019",
+  "HAV020"
+ ],
+ "name": {
+  "tr": "AB1 Serisi Kelepçeli Rulmanlı Askı",
+  "en": "AB1 Series Hanger Ball Bearing with Clamp",
+  "ru": "Подшипниковый подвес AB1 с хомутом",
+  "ar": "معلّق بمحمل كروي AB1 مع مشبك"
+ },
+ "desc": {
+  "tr": "Kremayeri taşıyan galvanizli boruları tutan kelepçeli çelik bilyeli rulman askı. Kalınlık 1.5mm.",
+  "en": "Steel ball bearing hanger with clamp holding the Ø27 galvanized pipes that run the rack. Thickness 1.5mm.",
+  "ru": "Стальной шарикоподшипниковый подвес с хомутом для оцинкованных труб Ø27, приводящих рейку. Толщина 1,5 мм.",
+  "ar": "معلّق فولاذي بمحمل كروي مع مشبك يحمل أنابيب مجلفنة Ø27 التي تحرّك الجريدة المسننة. السماكة 1.5 مم."
+ },
+ "vars": [
+  {
+   "code": "HAV015",
+   "size": {
+    "en": "Fits Ø27 pipe",
+    "ru": "Для трубы Ø27",
+    "ar": "يناسب أنبوب Ø27",
+    "tr": "Ø27 boruya uyar"
+   },
+   "rest": {
+    "tr": "Kremayeri taşıyan galvanizli boruları tutan kelepçeli çelik bilyeli rulman askı. Kalınlık 1.5mm.",
+    "en": "Steel ball bearing hanger with clamp holding the Ø27 galvanized pipes that run the rack. Thickness 1.5mm."
+   },
+   "net": "0.35"
+  },
+  {
+   "code": "HAV016",
+   "size": {
+    "en": "Fits Ø34 pipe",
+    "ru": "Для трубы Ø34",
+    "ar": "يناسب أنبوب Ø34",
+    "tr": "Ø34 boruya uyar"
+   },
+   "rest": {
+    "tr": "Kremayeri taşıyan galvanizli boruları tutan kelepçeli çelik bilyeli rulman askı. Kalınlık 1.5mm.",
+    "en": "Steel ball bearing hanger with clamp holding the Ø34 galvanized pipes that run the rack. Thickness 1.5mm."
+   },
+   "net": ""
+  },
+  {
+   "code": "HAV017",
+   "size": {
+    "en": "Fits Ø42 pipe",
+    "ru": "Для трубы Ø42",
+    "ar": "يناسب أنبوب Ø42",
+    "tr": "Ø42 boruya uyar"
+   },
+   "rest": {
+    "tr": "Kremayeri taşıyan galvanizli boruları tutan kelepçeli çelik bilyeli rulman askı. Kalınlık 1.5mm.",
+    "en": "Steel ball bearing hanger with clamp holding the Ø42 galvanized pipes that run the rack. Thickness 1.5mm."
+   },
+   "net": ""
+  },
+  {
+   "code": "HAV018",
+   "size": {
+    "en": "Fits Ø48 pipe",
+    "ru": "Для трубы Ø48",
+    "ar": "يناسب أنبوب Ø48",
+    "tr": "Ø48 boruya uyar"
+   },
+   "rest": {
+    "tr": "Kremayeri taşıyan galvanizli boruları tutan kelepçeli çelik bilyeli rulman askı. Kalınlık 1.5mm.",
+    "en": "Steel ball bearing hanger with clamp holding the Ø48 galvanized pipes that run the rack. Thickness 1.5mm."
+   },
+   "net": ""
+  },
+  {
+   "code": "HAV019",
+   "size": {
+    "en": "Fits Ø60 pipe",
+    "ru": "Для трубы Ø60",
+    "ar": "يناسب أنبوب Ø60",
+    "tr": "Ø60 boruya uyar"
+   },
+   "rest": {
+    "tr": "Kremayeri taşıyan galvanizli boruları tutan kelepçeli çelik bilyeli rulman askı. Kalınlık 1.5mm.",
+    "en": "Steel ball bearing hanger with clamp holding the Ø60 galvanized pipes that run the rack. Thickness 1.5mm."
+   },
+   "net": "0.35"
+  },
+  {
+   "code": "HAV020",
+   "size": {
+    "en": "Fits Ø50/60 pipe",
+    "ru": "Для трубы Ø50/60",
+    "ar": "يناسب أنبوب Ø50/60",
+    "tr": "Ø50/60 boruya uyar"
+   },
+   "rest": {
+    "tr": "Kalınlık 1.5mm.",
+    "en": "Steel ball bearing hanger with clamp holding the Ø50/60 oval galvanized pipes that run the rack. Thickness 1.5mm."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "1.5",
+ "net": "0.35",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

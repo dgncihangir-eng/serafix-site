@@ -1,0 +1,57 @@
+<section id="iletisim" style="max-width: 1280px; margin: 0 auto; padding: 80px 24px">
+<div style="display: flex; flex-wrap: wrap; gap: 24px">
+<div style="flex: 1.4 1 480px; background: #FFFFFF; border: 1px solid #E3E8E4; border-radius: 2px; padding: 40px; box-sizing: border-box">
+<h2 class="fh" style="margin: 0 0 6px; font-size: 30px; letter-spacing: -0.02em">{{t.formTitle}}</h2>
+<p style="margin: 0 0 24px; color: #5B6660">{{t.formText}}</p>
+<div role="status" class="sentbox" hidden style="background: #E3F0E6; border-radius: 2px; padding: 24px; display: flex; flex-direction: column; gap: 8px">
+<strong style="font-size: 18px; color: #0F3B2A">{{t.sentTitle}}</strong>
+<span style="color: #3F4D42">{{t.sentText}}</span>
+</div>
+<div id="qlist" hidden style="border: 1.5px solid #1F7A47; background: #F3F7F4; padding: 18px 20px; margin-bottom: 20px">
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-bottom: 10px"><strong style="font-size: 16px">{{ t.qTitle }}</strong><button type="button" data-qclear style="background: none; border: none; color: #5B6660; font: inherit; font-size: 13px; text-decoration: underline; cursor: pointer">{{ t.qClear }}</button></div>
+<ul data-qitems style="list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 8px"></ul>
+</div>
+<form class="lead" data-kind="contact" action="{{ formAction }}" method="post">
+<input type="hidden" name="_subject" value="Quote request — SERAFIX ({{ lang }})">
+<input type="hidden" name="page" value="{{ canonical }}">
+<input type="hidden" name="quote_list" value="">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px">
+<label style="display: flex; flex-direction: column; gap: 6px; font-weight: 600; font-size: 14px">{{t.f.name}}
+<input name="name" required type="text" style="height: 48px; padding: 0 14px; border: 1.5px solid #C7D3CC; border-radius: 2px; font: inherit; font-weight: 400">
+</label>
+<label style="display: flex; flex-direction: column; gap: 6px; font-weight: 600; font-size: 14px">{{t.f.phone}}
+<input name="phone" type="tel" dir="ltr" style="height: 48px; padding: 0 14px; border: 1.5px solid #C7D3CC; border-radius: 2px; font: inherit; font-weight: 400">
+</label>
+<label style="display: flex; flex-direction: column; gap: 6px; font-weight: 600; font-size: 14px">{{t.f.email}}
+<input name="email" required type="email" dir="ltr" style="height: 48px; padding: 0 14px; border: 1.5px solid #C7D3CC; border-radius: 2px; font: inherit; font-weight: 400">
+</label>
+<label style="display: flex; flex-direction: column; gap: 6px; font-weight: 600; font-size: 14px">{{t.f.country}}
+<input name="country" type="text" style="height: 48px; padding: 0 14px; border: 1.5px solid #C7D3CC; border-radius: 2px; font: inherit; font-weight: 400">
+</label>
+</div>
+<label style="display: flex; flex-direction: column; gap: 6px; font-weight: 600; font-size: 14px; margin-top: 16px">{{t.f.product}}
+<input id="f-product" name="product" type="text" placeholder="{{t.f.productPh}}" style="height: 48px; padding: 0 14px; border: 1.5px solid #C7D3CC; border-radius: 2px; font: inherit; font-weight: 400">
+</label>
+<label style="display: flex; flex-direction: column; gap: 6px; font-weight: 600; font-size: 14px; margin-top: 16px">{{t.f.message}}
+<textarea name="message" rows="4" placeholder="{{t.f.messagePh}}" style="padding: 12px 14px; border: 1.5px solid #C7D3CC; border-radius: 2px; font: inherit; font-weight: 400; resize: vertical"></textarea>
+</label>
+<label style="display: flex; gap: 10px; align-items: flex-start; margin-top: 14px; font-size: 14px; color: #3F4D42">
+<input type="checkbox" name="consent" required style="width: 20px; height: 20px; margin: 0; flex: none">
+<span>{{t.f.consent}}</span>
+</label>
+<button type="submit" style="margin-top: 20px; height: 52px; padding: 0 28px; border: none; border-radius: 2px; background: #1F7A47; color: #FFFFFF; font: inherit; font-weight: 700; font-size: 16px; cursor: pointer">{{t.f.submit}}</button>
+</form>
+</div>
+<div style="flex: 1 1 340px; display: flex; flex-direction: column; gap: 16px">
+<div style="background: #0F3B2A; color: #FFFFFF; border-radius: 2px; padding: 32px; display: flex; flex-direction: column; gap: 18px">
+<h3 class="fh" style="margin: 0; font-size: 22px">{{t.contactInfo}}</h3>
+<div><span style="display: block; font-size: 13px; color: #B5D3BF; font-weight: 600">{{t.f.phone}}</span><span dir="ltr" style="font-size: 17px; font-weight: 600">[TELEFON]</span></div>
+<div><span style="display: block; font-size: 13px; color: #B5D3BF; font-weight: 600">WhatsApp</span><span dir="ltr" style="font-size: 17px; font-weight: 600">[WHATSAPP]</span></div>
+<div><span style="display: block; font-size: 13px; color: #B5D3BF; font-weight: 600">{{t.f.email}}</span><span dir="ltr" style="font-size: 17px; font-weight: 600">[E-POSTA]</span></div>
+<div><span style="display: block; font-size: 13px; color: #B5D3BF; font-weight: 600">{{t.address}}</span><span style="font-size: 17px; font-weight: 600">[ADRES]</span></div>
+<div><span style="display: block; font-size: 13px; color: #B5D3BF; font-weight: 600">{{t.hours}}</span><span style="font-size: 17px; font-weight: 600">[ÇALIŞMA SAATLERİ]</span></div>
+</div>
+<div style="flex: 1; min-height: 200px; border-radius: 2px; background: #E3F0E6; color: #4F7A60; display: flex; align-items: center; justify-content: center; font-weight: 600">{{t.map}}</div>
+</div>
+</div>
+</section>

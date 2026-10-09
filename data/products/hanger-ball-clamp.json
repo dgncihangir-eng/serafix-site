@@ -1,0 +1,101 @@
+{
+ "slug": "hanger-ball-clamp",
+ "order": 4,
+ "id": 14,
+ "cat": "hav",
+ "img": "dafc4198f76b.webp",
+ "codes": [
+  "HAV022",
+  "HAV023",
+  "HAV024",
+  "HAV025"
+ ],
+ "name": {
+  "tr": "Askı Bilyeli Kelepçe",
+  "en": "Hanger Ball Clamp",
+  "ru": "Хомут для подшипникового подвеса",
+  "ar": "مشبك المعلّق ذي المحمل الكروي"
+ },
+ "desc": {
+  "tr": "Askı bilyeli rulman için kelepçe. Kalınlık 2mm.",
+  "en": "Clamp for the hanger ball bearing. Thickness 2mm.",
+  "ru": "Хомут для шарикоподшипникового подвеса. Толщина 2 мм.",
+  "ar": "مشبك للمعلّق ذي المحمل الكروي. السماكة 2 مم."
+ },
+ "vars": [
+  {
+   "code": "HAV022",
+   "size": {
+    "en": "Size Ø27",
+    "ru": "Размер Ø27",
+    "ar": "المقاس Ø27",
+    "tr": "Ölçü Ø27"
+   },
+   "rest": {
+    "tr": "Askı bilyeli rulman için kelepçe. Kalınlık 2mm.",
+    "en": "Clamp for the hanger ball bearing. Thickness 2mm."
+   },
+   "net": ""
+  },
+  {
+   "code": "HAV023",
+   "size": {
+    "en": "Size Ø34",
+    "ru": "Размер Ø34",
+    "ar": "المقاس Ø34",
+    "tr": "Ölçü Ø34"
+   },
+   "rest": {
+    "tr": "Askı bilyeli rulman kelepçesi. Kalınlık 2mm, A 80mm, B Ø34.",
+    "en": "Hanger ball bearing clamp. Thickness 2mm, A 80mm, B Ø34."
+   },
+   "net": ""
+  },
+  {
+   "code": "HAV024",
+   "size": {
+    "en": "Size Ø42",
+    "ru": "Размер Ø42",
+    "ar": "المقاس Ø42",
+    "tr": "Ölçü Ø42"
+   },
+   "rest": {
+    "tr": "Askı bilyeli rulman kelepçesi. Kalınlık 2mm, A 80mm, B Ø42.",
+    "en": "Hanger ball bearing clamp. Thickness 2mm, A 80mm, B Ø42."
+   },
+   "net": ""
+  },
+  {
+   "code": "HAV025",
+   "size": {
+    "en": "Size Ø48",
+    "ru": "Размер Ø48",
+    "ar": "المقاس Ø48",
+    "tr": "Ölçü Ø48"
+   },
+   "rest": {
+    "tr": "Askı bilyeli rulman kelepçesi. Kalınlık 2mm, A 80mm, B Ø48.",
+    "en": "Hanger ball bearing clamp. Thickness 2mm, A 80mm, B Ø48."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

@@ -1,0 +1,56 @@
+{
+ "slug": "shading-screen-small-routing-clamp",
+ "order": 18,
+ "id": 24,
+ "cat": "gol",
+ "img": "8c420fe81055.webp",
+ "codes": [
+  "ISI012"
+ ],
+ "name": {
+  "tr": "Gölgeleme Perdesi Küçük Yönlendirme Kelepçesi",
+  "en": "Shading Screen Small Routing Clamp",
+  "ru": "Малый направляющий хомут затеняющего экрана",
+  "ar": "مشبك توجيه صغير لستارة التظليل"
+ },
+ "desc": {
+  "tr": "Gölgeleme perdesi halatını yönlendirmek için kullanılan küçük yönlendirme kelepçesi.",
+  "en": "Small routing clamp used for directing the shading screen cable.",
+  "ru": "Малый хомут для направления троса затеняющего экрана.",
+  "ar": "مشبك توجيه صغير لتوجيه كابل ستارة التظليل."
+ },
+ "vars": [
+  {
+   "code": "ISI012",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "Gölgeleme perdesi halatını yönlendirmek için kullanılan küçük yönlendirme kelepçesi.",
+    "en": "Small routing clamp used for directing the shading screen cable."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "3926.90.37.9029"
+ ],
+ "thick": "",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

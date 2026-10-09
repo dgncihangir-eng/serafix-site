@@ -1,0 +1,56 @@
+{
+ "slug": "shading-screen-1-4-connection-coupling",
+ "order": 13,
+ "id": 20,
+ "cat": "gol",
+ "img": "a2792103360e.webp",
+ "codes": [
+  "ISI005"
+ ],
+ "name": {
+  "tr": "Gölgeleme Perdesi 1/4 Bağlantı Kuplajı",
+  "en": "Shading Screen 1/4 Connection Coupling",
+  "ru": "Соединительная муфта 1/4 для затеняющего экрана",
+  "ar": "وصلة ربط 1/4 لستارة التظليل"
+ },
+ "desc": {
+  "tr": "IPM serisi gölgeleme perdesi mekanizmasıyla kullanılan 1/4 inç gölgeleme perdesi bağlantı kuplajı.",
+  "en": "Shading screen 1/4 inch connection coupling used with the IPM series shading screen mechanism.",
+  "ru": "Соединительная муфта 1/4 дюйма для механизма затеняющего экрана серии IPM.",
+  "ar": "وصلة ربط 1/4 بوصة تُستخدم مع آلية ستارة التظليل من سلسلة IPM."
+ },
+ "vars": [
+  {
+   "code": "ISI005",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "IPM serisi gölgeleme perdesi mekanizmasıyla kullanılan 1/4 inç gölgeleme perdesi bağlantı kuplajı.",
+    "en": "Shading screen 1/4 inch connection coupling used with the IPM series shading screen mechanism."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

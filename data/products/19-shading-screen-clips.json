@@ -1,0 +1,56 @@
+{
+ "slug": "19-shading-screen-clips",
+ "order": 29,
+ "id": 28,
+ "cat": "gol",
+ "img": "acd42013a732.webp",
+ "codes": [
+  "ISI033"
+ ],
+ "name": {
+  "tr": "Ø19 Gölgeleme Perdesi Klipsi",
+  "en": "Ø19 Shading Screen Clips",
+  "ru": "Клипсы затеняющего экрана Ø19",
+  "ar": "مشابك ستارة التظليل Ø19"
+ },
+ "desc": {
+  "tr": "Ölçü Ø19. Gölgeleme perdesi için klipsler, Ø19.",
+  "en": "Size Ø19. Clips used for the shading screen curtain, Ø19.",
+  "ru": "Размер Ø19. Клипсы для полотна затеняющего экрана.",
+  "ar": "المقاس Ø19. مشابك لقماش ستارة التظليل."
+ },
+ "vars": [
+  {
+   "code": "ISI033",
+   "size": {
+    "en": "Size Ø19",
+    "ru": "Размер Ø19",
+    "ar": "المقاس Ø19",
+    "tr": "Ölçü Ø19"
+   },
+   "rest": {
+    "tr": "Gölgeleme perdesi için klipsler, Ø19.",
+    "en": "Clips used for the shading screen curtain, Ø19."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "3926.90.37.9029"
+ ],
+ "thick": "",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

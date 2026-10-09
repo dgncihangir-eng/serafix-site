@@ -1,0 +1,56 @@
+{
+ "slug": "ab2-series-hanger-ball-bearing-without-clamp-long",
+ "order": 3,
+ "id": 16,
+ "cat": "hav",
+ "img": "9a022b34f761.webp",
+ "codes": [
+  "HAV029"
+ ],
+ "name": {
+  "tr": "AB2 Serisi Kelepçesiz Rulmanlı Askı (Uzun)",
+  "en": "AB2 Series Hanger Ball Bearing without Clamp (Long)",
+  "ru": "Подшипниковый подвес AB2 без хомута (длинный)",
+  "ar": "معلّق بمحمل كروي AB2 بدون مشبك (طويل)"
+ },
+ "desc": {
+  "tr": "Ø34 boruya uyar. Kremayeri taşıyan galvanizli boruları tutan kelepçesiz çelik bilyeli rulman askı, uzun versiyon. Kalınlık 1.5mm, A80mm, B200mm.",
+  "en": "Fits Ø34 pipe. Steel ball bearing hanger without clamp holding the 34' galvanized pipes that run the rack, long version. Thickness 1.5mm, A80mm, B200mm.",
+  "ru": "Для трубы Ø34. Удлинённый стальной подвес без хомута для оцинкованных труб привода рейки. Толщина 1,5 мм, A80 мм, B200 мм.",
+  "ar": "يناسب أنبوب Ø34. نسخة طويلة من المعلّق الفولاذي بدون مشبك لأنابيب تحريك الجريدة المسننة. السماكة 1.5 مم، A80 مم، B200 مم."
+ },
+ "vars": [
+  {
+   "code": "HAV029",
+   "size": {
+    "en": "Fits Ø34 pipe",
+    "ru": "Для трубы Ø34",
+    "ar": "يناسب أنبوب Ø34",
+    "tr": "Ø34 boruya uyar"
+   },
+   "rest": {
+    "tr": "Kremayeri taşıyan galvanizli boruları tutan kelepçesiz çelik bilyeli rulman askı, uzun versiyon. Kalınlık 1.5mm, A80mm, B200mm.",
+    "en": "Steel ball bearing hanger without clamp holding the 34' galvanized pipes that run the rack, long version. Thickness 1.5mm, A80mm, B200mm."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "1.5",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

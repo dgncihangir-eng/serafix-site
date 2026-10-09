@@ -1,0 +1,56 @@
+{
+ "slug": "skp-washer",
+ "order": 51,
+ "id": 60,
+ "cat": "kel",
+ "img": "d7432da053da.webp",
+ "codes": [
+  "KLP126"
+ ],
+ "name": {
+  "tr": "SKP Pul",
+  "en": "SKP Washer",
+  "ru": "Шайба SKP",
+  "ar": "حلقة SKP"
+ },
+ "desc": {
+  "tr": "Birden fazla ölçü seçeneği mevcuttur - ölçü varyantlarına bakınız. Seralar için çelik konstrüksiyon bağlantı pulu.",
+  "en": "Available in multiple sizes - see size variants. Steel construction connector washer for greenhouses.",
+  "ru": "Разные размеры — см. варианты. Стальная соединительная шайба для теплиц.",
+  "ar": "مقاسات متعددة — راجع الخيارات. حلقة وصل فولاذية للبيوت المحمية."
+ },
+ "vars": [
+  {
+   "code": "KLP126",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "Birden fazla ölçü seçeneği mevcuttur - ölçü varyantlarına bakınız. Seralar için çelik konstrüksiyon bağlantı pulu.",
+    "en": "Available in multiple sizes - see size variants. Steel construction connector washer for greenhouses."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

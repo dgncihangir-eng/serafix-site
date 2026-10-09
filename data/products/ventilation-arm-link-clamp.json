@@ -1,0 +1,101 @@
+{
+ "slug": "ventilation-arm-link-clamp",
+ "order": 40,
+ "id": 53,
+ "cat": "kel",
+ "img": "82bb0c6b283e.webp",
+ "codes": [
+  "KLP104",
+  "KLP105",
+  "KLP106",
+  "KLP107"
+ ],
+ "name": {
+  "tr": "Havalandırma Kolu Bağlantı Kelepçesi",
+  "en": "Ventilation Arm Link Clamp",
+  "ru": "Хомут тяги проветривания",
+  "ar": "مشبك ذراع التهوية"
+ },
+ "desc": {
+  "tr": "Birden fazla profil ölçüsü mevcuttur - ölçü varyantlarına bakınız. Havalandırma penceresinde kullanılan profili bağlamak için kullanılır. Kalınlık 2mm.",
+  "en": "Available in multiple profile sizes - see size variants. Used for connecting the profile used in the ventilation window. Thickness 2mm.",
+  "ru": "Разные размеры профиля — см. варианты. Для соединения профиля окна проветривания. Толщина 2 мм.",
+  "ar": "مقاسات بروفيل متعددة — راجع الخيارات. لوصل بروفيل نافذة التهوية. السماكة 2 مم."
+ },
+ "vars": [
+  {
+   "code": "KLP104",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "Birden fazla profil ölçüsü mevcuttur - ölçü varyantlarına bakınız. Havalandırma penceresinde kullanılan profili bağlamak için kullanılır. Kalınlık 2mm.",
+    "en": "Available in multiple profile sizes - see size variants. Used for connecting the profile used in the ventilation window. Thickness 2mm."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP105",
+   "size": {
+    "en": "Fits Ø34 pipe",
+    "ru": "Для трубы Ø34",
+    "ar": "يناسب أنبوب Ø34",
+    "tr": "Ø34 boruya uyar"
+   },
+   "rest": {
+    "tr": "Havalandırma penceresinde kullanılan profili bağlamak için kullanılır. Kalınlık 2mm, bağlantı Ø 34.",
+    "en": "Used for connecting the profile used in the ventilation window. Thickness 2mm, connection Ø 34."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP106",
+   "size": {
+    "en": "Fits 30X30 profile",
+    "ru": "Для профиля 30X30",
+    "ar": "يناسب بروفيل 30X30",
+    "tr": "30X30 profil uyar"
+   },
+   "rest": {
+    "tr": "Havalandırma penceresinde kullanılan profili bağlamak için kullanılır. Kalınlık 2mm, bağlantı 30 X 30.",
+    "en": "Used for connecting the profile used in the ventilation window. Thickness 2mm, connection 30 X 30."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP107",
+   "size": {
+    "en": "Fits 30X40 profile",
+    "ru": "Для профиля 30X40",
+    "ar": "يناسب بروفيل 30X40",
+    "tr": "30X40 profil uyar"
+   },
+   "rest": {
+    "tr": "Havalandırma penceresinde kullanılan profili bağlamak için kullanılır. Kalınlık 2mm, bağlantı 30 X 40.",
+    "en": "Used for connecting the profile used in the ventilation window. Thickness 2mm, connection 30 X 40."
+   },
+   "net": "0.50"
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "0.5",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

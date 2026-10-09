@@ -1,0 +1,56 @@
+{
+ "slug": "single-capital",
+ "order": 54,
+ "id": 38,
+ "cat": "kel",
+ "img": "2c25c607411e.webp",
+ "codes": [
+  "KLP049"
+ ],
+ "name": {
+  "tr": "Tekli Başlık",
+  "en": "Single Capital",
+  "ru": "Одинарная капитель",
+  "ar": "تاج مفرد"
+ },
+ "desc": {
+  "tr": "Kolon Ø60, mahya Ø42 ile uyumludur. Modern seralarda kolon bağlantı borusunu/profilini mahya bağlantı borusuyla birleştirir. Kalınlık 2mm, kolon Ø60, mahya Ø42.",
+  "en": "Fits column Ø60, arch Ø42. Connects the column connection pipe/profile with the arch connection pipe in modern greenhouses. Thickness 2mm, column Ø60, arch Ø42.",
+  "ru": "Для колонны Ø60, арки Ø42. Соединяет колонну с арочной трубой в современных теплицах. Толщина 2 мм.",
+  "ar": "يناسب عمود Ø60 وقوس Ø42. يربط العمود بأنبوب القوس في البيوت المحمية الحديثة. السماكة 2 مم."
+ },
+ "vars": [
+  {
+   "code": "KLP049",
+   "size": {
+    "en": "Column Ø60, arch Ø42",
+    "ru": "Колонна Ø60, арка Ø42",
+    "ar": "عمود Ø60، قوس Ø42",
+    "tr": "Kolon Ø60, mahya Ø42 ile uyumludur"
+   },
+   "rest": {
+    "tr": "Modern seralarda kolon bağlantı borusunu/profilini mahya bağlantı borusuyla birleştirir. Kalınlık 2mm, kolon Ø60, mahya Ø42.",
+    "en": "Connects the column connection pipe/profile with the arch connection pipe in modern greenhouses. Thickness 2mm, column Ø60, arch Ø42."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

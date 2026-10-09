@@ -1,0 +1,56 @@
+{
+ "slug": "shading-screen-small-reel",
+ "order": 17,
+ "id": 22,
+ "cat": "gol",
+ "img": "3ce812aedf89.webp",
+ "codes": [
+  "ISI008"
+ ],
+ "name": {
+  "tr": "Gölgeleme Perdesi Küçük Makara",
+  "en": "Shading Screen Small Reel",
+  "ru": "Малая катушка затеняющего экрана",
+  "ar": "بكرة صغيرة لستارة التظليل"
+ },
+ "desc": {
+  "tr": "Termal perde küçük makarası.",
+  "en": "Thermal curtain small reel.",
+  "ru": "Малая катушка термоэкрана.",
+  "ar": "بكرة صغيرة للستارة الحرارية."
+ },
+ "vars": [
+  {
+   "code": "ISI008",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "Termal perde küçük makarası.",
+    "en": "Thermal curtain small reel."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

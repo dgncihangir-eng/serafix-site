@@ -1,0 +1,56 @@
+{
+ "slug": "em-series-eco-double-pinion",
+ "order": 9,
+ "id": 9,
+ "cat": "hav",
+ "img": "4701846ae946.webp",
+ "codes": [
+  "HAV008"
+ ],
+ "name": {
+  "tr": "EM Serisi Ekonomik Çift Pinyon",
+  "en": "EM Series Eco Double Pinion",
+  "ru": "Двойная шестерня EM Eco",
+  "ar": "ترس مزدوج EM Eco"
+ },
+ "desc": {
+  "tr": "Ø34 boruya uyar. Daha küçük/ekonomik seralar için yeniden tasarlanmış ekonomik çift kremayer-pinyon. Kalınlık 1.5mm, bağlantı boru Ø34.",
+  "en": "Fits Ø34 pipe. Economical double rack and pinion, redesigned for smaller/economical greenhouses. Thickness 1.5mm, connection pipe Ø34.",
+  "ru": "Для трубы Ø34. Экономичная двойная рейка с шестернёй для небольших теплиц. Толщина 1,5 мм, соединительная труба Ø34.",
+  "ar": "يناسب أنبوب Ø34. جريدة مسننة وترس مزدوج اقتصادي للبيوت المحمية الصغيرة. السماكة 1.5 مم، أنبوب الوصل Ø34."
+ },
+ "vars": [
+  {
+   "code": "HAV008",
+   "size": {
+    "en": "Fits Ø34 pipe",
+    "ru": "Для трубы Ø34",
+    "ar": "يناسب أنبوب Ø34",
+    "tr": "Ø34 boruya uyar"
+   },
+   "rest": {
+    "tr": "Daha küçük/ekonomik seralar için yeniden tasarlanmış ekonomik çift kremayer-pinyon. Kalınlık 1.5mm, bağlantı boru Ø34.",
+    "en": "Economical double rack and pinion, redesigned for smaller/economical greenhouses. Thickness 1.5mm, connection pipe Ø34."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "1.5",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

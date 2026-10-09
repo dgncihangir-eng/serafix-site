@@ -1,0 +1,56 @@
+{
+ "slug": "shading-screen-s-holder",
+ "order": 22,
+ "id": 19,
+ "cat": "gol",
+ "img": "3c2c3918f57a.webp",
+ "codes": [
+  "ISI004"
+ ],
+ "name": {
+  "tr": "Gölgeleme Perdesi S Tutucu",
+  "en": "Shading Screen S Holder",
+  "ru": "S-держатель затеняющего экрана",
+  "ar": "حامل S لستارة التظليل"
+ },
+ "desc": {
+  "tr": "Ø34 ölçüsüne uyar. IPM serisi gölgeleme perdesi mekanizmasıyla kullanılan gölgeleme perdesi S tutucu. Çap: Ø34.",
+  "en": "Fits Ø34. Shading screen S holder used with the IPM series shading screen mechanism. Diameter: Ø34.",
+  "ru": "Для Ø34. S-держатель для механизма затеняющего экрана серии IPM.",
+  "ar": "يناسب Ø34. حامل S يُستخدم مع آلية ستارة التظليل من سلسلة IPM."
+ },
+ "vars": [
+  {
+   "code": "ISI004",
+   "size": {
+    "en": "Size Ø34",
+    "ru": "Размер Ø34",
+    "ar": "المقاس Ø34",
+    "tr": "Ø34 ölçüsüne uyar"
+   },
+   "rest": {
+    "tr": "IPM serisi gölgeleme perdesi mekanizmasıyla kullanılan gölgeleme perdesi S tutucu. Çap: Ø34.",
+    "en": "Shading screen S holder used with the IPM series shading screen mechanism. Diameter: Ø34."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

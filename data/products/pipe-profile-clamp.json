@@ -1,0 +1,71 @@
+{
+ "slug": "pipe-profile-clamp",
+ "order": 62,
+ "id": 78,
+ "cat": "pro",
+ "img": "e2978a38eace.webp",
+ "codes": [
+  "KLP183",
+  "KLP184"
+ ],
+ "name": {
+  "tr": "Boru-Profil Kelepçesi",
+  "en": "Pipe-Profile Clamp",
+  "ru": "Хомут труба-профиль",
+  "ar": "مشبك أنبوب-بروفيل"
+ },
+ "desc": {
+  "tr": "Genel amaçlı çelik konstrüksiyon bağlantı kelepçesi. Kalınlık 2mm. Ölçü 80x80, Ø60.",
+  "en": "General steel construction connection clamp. Thickness 2mm. Size 80x80, Ø60.",
+  "ru": "Универсальный стальной соединительный хомут. Толщина 2 мм. Размер 80x80, Ø60.",
+  "ar": "مشبك وصل فولاذي عام. السماكة 2 مم. المقاس 80x80، Ø60."
+ },
+ "vars": [
+  {
+   "code": "KLP183",
+   "size": {
+    "en": "Fits 80x80 profile",
+    "ru": "Для профиля 80x80",
+    "ar": "يناسب بروفيل 80x80",
+    "tr": "80x80 profil uyar"
+   },
+   "rest": {
+    "tr": "Genel amaçlı çelik konstrüksiyon bağlantı kelepçesi. Kalınlık 2mm. Ölçü 80x80, Ø60.",
+    "en": "General steel construction connection clamp. Thickness 2mm. Size 80x80, Ø60."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP184",
+   "size": {
+    "en": "Size Ø60",
+    "ru": "Размер Ø60",
+    "ar": "المقاس Ø60",
+    "tr": "Ölçü Ø60"
+   },
+   "rest": {
+    "tr": "Seralarda kullanılan çelik konstrüksiyon bağlantı kelepçesi. Kalınlık 2mm, A80x80mm, B Ø60.",
+    "en": "Steel construction connection clamp used in greenhouses. Thickness 2mm, A80x80mm, B Ø60."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

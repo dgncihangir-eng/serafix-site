@@ -1,0 +1,56 @@
+{
+ "slug": "80x80-profile-clamping-clamp",
+ "order": 61,
+ "id": 91,
+ "cat": "pro",
+ "img": "c727f4ceae34.webp",
+ "codes": [
+  "KLP204"
+ ],
+ "name": {
+  "tr": "80x80 Profil Sıkıştırma Kelepçesi",
+  "en": "80x80 Profile Clamping Clamp",
+  "ru": "Зажимной хомут для профиля 80x80",
+  "ar": "مشبك ضغط لبروفيل 80x80"
+ },
+ "desc": {
+  "tr": "80x80 profil uyar. Profil kelepçesi, kalınlık 2mm, profil ölçüsü 80x80.",
+  "en": "Fits 80x80 profile. Profile clamp, thickness 2mm, profile size 80x80.",
+  "ru": "Для профиля 80x80. Профильный хомут, толщина 2 мм.",
+  "ar": "يناسب بروفيل 80x80. مشبك بروفيل، السماكة 2 مم."
+ },
+ "vars": [
+  {
+   "code": "KLP204",
+   "size": {
+    "en": "Fits 80x80 profile",
+    "ru": "Для профиля 80x80",
+    "ar": "يناسب بروفيل 80x80",
+    "tr": "80x80 profil uyar"
+   },
+   "rest": {
+    "tr": "Profil kelepçesi, kalınlık 2mm, profil ölçüsü 80x80.",
+    "en": "Profile clamp, thickness 2mm, profile size 80x80."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

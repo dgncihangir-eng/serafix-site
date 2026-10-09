@@ -1,0 +1,56 @@
+{
+ "slug": "small-gutter-drain",
+ "order": 77,
+ "id": 86,
+ "cat": "olu",
+ "img": "41446c826ee5.webp",
+ "codes": [
+  "KLP196"
+ ],
+ "name": {
+  "tr": "Küçük Gutter Gideri",
+  "en": "Small Growing Gutter Drain",
+  "ru": "Малый слив лотка выращивания",
+  "ar": "مصرف صغير لقناة الزراعة"
+ },
+ "desc": {
+  "tr": "Yetiştirme gutter'ları için plastik küçük gider. Topraksız tarımda drenaj suyunu gutter'dan toplama hattına aktarır.",
+  "en": "Small plastic drain for growing gutters. Carries drain water from the gutter to the collection line in soilless cultivation.",
+  "ru": "Малый пластиковый слив для лотков выращивания. Отводит дренажный раствор из лотка в сборную линию при беспочвенном выращивании.",
+  "ar": "مصرف بلاستيكي صغير لقنوات الزراعة. ينقل مياه الصرف من القناة إلى خط التجميع في الزراعة بدون تربة."
+ },
+ "vars": [
+  {
+   "code": "KLP196",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "",
+    "en": ""
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

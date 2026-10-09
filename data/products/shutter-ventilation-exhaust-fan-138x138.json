@@ -1,0 +1,56 @@
+{
+ "slug": "shutter-ventilation-exhaust-fan-138x138",
+ "order": 100,
+ "id": 5,
+ "cat": "fan",
+ "img": "b3a75b3753c2.webp",
+ "codes": [
+  "FAN006"
+ ],
+ "name": {
+  "tr": "Jaluzili Egzoz Fanı 138x138",
+  "en": "Shutter Ventilation (Exhaust) Fan 138x138",
+  "ru": "Вытяжной вентилятор с жалюзи 138x138",
+  "ar": "مروحة شفط بشفرات أوتوماتيكية 138x138"
+ },
+ "desc": {
+  "tr": "1380x400mm profil uyar. Jaluzili egzoz fanı, 380V, 1.10kW, 1440 RPM, debi 44.500 m3/h, ölçü 1380x400mm.",
+  "en": "Fits 1380x400mm profile. Shutter ventilation (exhaust) fan, 380V, 1.10kW, 1440 RPM, flow 44.500 m3/h, size 1380x400mm.",
+  "ru": "Для проёма 1380x400 мм. Вытяжной вентилятор с жалюзи, 380 В, 1,10 кВт, 1440 об/мин, производительность 44 500 м³/ч.",
+  "ar": "لفتحة 1380x400 مم. مروحة شفط بشفرات، 380 فولت، 1.10 كيلوواط، 1440 دورة/دقيقة، تدفق 44,500 م³/ساعة."
+ },
+ "vars": [
+  {
+   "code": "FAN006",
+   "size": {
+    "en": "Fits 1380x400mm profile",
+    "ru": "Для профиля 1380x400mm",
+    "ar": "يناسب بروفيل 1380x400mm",
+    "tr": "1380x400mm profil uyar"
+   },
+   "rest": {
+    "tr": "Jaluzili egzoz fanı, 380V, 1.10kW, 1440 RPM, debi 44.500 m3/h, ölçü 1380x400mm.",
+    "en": "Shutter ventilation (exhaust) fan, 380V, 1.10kW, 1440 RPM, flow 44.500 m3/h, size 1380x400mm."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "8414.51.00.9000"
+ ],
+ "thick": "",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

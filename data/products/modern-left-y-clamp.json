@@ -1,0 +1,161 @@
+{
+ "slug": "modern-left-y-clamp",
+ "order": 47,
+ "id": 34,
+ "cat": "kel",
+ "img": "ef1b665fd829.webp",
+ "codes": [
+  "KLP017",
+  "KLP018",
+  "KLP019",
+  "KLP020",
+  "KLP021",
+  "KLP022",
+  "KLP023",
+  "KLP024"
+ ],
+ "name": {
+  "tr": "Modern Sol Y Kelepçe",
+  "en": "Modern Left Y Clamp",
+  "ru": "Левый Y-хомут Modern",
+  "ar": "مشبك Y أيسر Modern"
+ },
+ "desc": {
+  "tr": "Birden fazla kolon/mahya borusu ölçüsü mevcuttur - ölçü varyantlarına bakınız. Modern seralarda kolon bağlantı borusunu/profilini mahya bağlantı borusuyla birleştirir ve oluğu…",
+  "en": "Available in multiple column/arch pipe sizes - see size variants. Connects the column connection pipe/profile with the arch connection pipe and bears the gutter, in…",
+  "ru": "Разные размеры колонн и арок — см. варианты. Соединяет колонну с арочной трубой и несёт желоб.",
+  "ar": "مقاسات متعددة للأعمدة والأقواس — راجع الخيارات. يربط العمود بأنبوب القوس ويحمل المزراب."
+ },
+ "vars": [
+  {
+   "code": "KLP017",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "Birden fazla kolon/mahya borusu ölçüsü mevcuttur - ölçü varyantlarına bakınız. Modern seralarda kolon bağlantı borusunu/profilini mahya bağlantı borusuyla birleştirir…",
+    "en": "Available in multiple column/arch pipe sizes - see size variants. Connects the column connection pipe/profile with the arch connection pipe and bears the gutter, in…"
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP018",
+   "size": {
+    "en": "Column 60x60, arch Ø42",
+    "ru": "Колонна 60x60, арка Ø42",
+    "ar": "عمود 60x60، قوس Ø42",
+    "tr": "Kolon 60x60, mahya Ø42 ile uyumludur"
+   },
+   "rest": {
+    "tr": "Modern seralarda kolon bağlantı borusunu/profilini mahya bağlantı borusuyla birleştirir ve oluğu taşır. Genellikle kelepçelerle set halinde satılır. Kalınlık 2mm,…",
+    "en": "Connects the column connection pipe or profiles with the arch connection pipe and bears the gutter, in modern greenhouses. Usually sold as a set with clamps.…"
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP019",
+   "size": {
+    "en": "Column 60x60, arch Ø48",
+    "ru": "Колонна 60x60, арка Ø48",
+    "ar": "عمود 60x60، قوس Ø48",
+    "tr": "Kolon 60x60, mahya Ø48 ile uyumludur"
+   },
+   "rest": {
+    "tr": "Modern seralarda kolon bağlantı borusunu/profilini mahya bağlantı borusuyla birleştirir ve oluğu taşır. Genellikle kelepçelerle set halinde satılır. Kalınlık 2mm,…",
+    "en": "Connects the column connection pipe or profiles with the arch connection pipe and bears the gutter, in modern greenhouses. Usually sold as a set with clamps.…"
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP020",
+   "size": {
+    "en": "Column 80x80, arch Ø42",
+    "ru": "Колонна 80x80, арка Ø42",
+    "ar": "عمود 80x80، قوس Ø42",
+    "tr": "Kolon 80x80, mahya Ø42 ile uyumludur"
+   },
+   "rest": {
+    "tr": "Modern seralarda kolon bağlantı borusunu/profilini mahya bağlantı borusuyla birleştirir ve oluğu taşır. Genellikle kelepçelerle set halinde satılır. Kalınlık 2mm,…",
+    "en": "Connects the column connection pipe or profiles with the arch connection pipe and bears the gutter, in modern greenhouses. Usually sold as a set with clamps.…"
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP021",
+   "size": {
+    "en": "Column 80x80, arch Ø48",
+    "ru": "Колонна 80x80, арка Ø48",
+    "ar": "عمود 80x80، قوس Ø48",
+    "tr": "Kolon 80x80, mahya Ø48 ile uyumludur"
+   },
+   "rest": {
+    "tr": "Modern seralarda kolon bağlantı borusunu/profilini mahya bağlantı borusuyla birleştirir ve oluğu taşır. Genellikle kelepçelerle set halinde satılır. Kalınlık 2mm,…",
+    "en": "Connects the column connection pipe or profiles with the arch connection pipe and bears the gutter, in modern greenhouses. Usually sold as a set with clamps.…"
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP022",
+   "size": {
+    "en": "Column 80x80, arch Ø60",
+    "ru": "Колонна 80x80, арка Ø60",
+    "ar": "عمود 80x80، قوس Ø60",
+    "tr": "Kolon 80x80, mahya Ø60 ile uyumludur"
+   },
+   "rest": {
+    "tr": "Modern seralarda kolon bağlantı borusunu/profilini mahya bağlantı borusuyla birleştirir ve oluğu taşır. Genellikle kelepçelerle set halinde satılır. Kalınlık 2mm,…",
+    "en": "Connects the column connection pipe or profiles with the arch connection pipe and bears the gutter, in modern greenhouses. Usually sold as a set with clamps.…"
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP023",
+   "size": {
+    "en": "Column 80x80, arch Ø50-60",
+    "ru": "Колонна 80x80, арка Ø50-60",
+    "ar": "عمود 80x80، قوس Ø50-60",
+    "tr": "Kolon 80x80, mahya Ø50-60 ile uyumludur"
+   },
+   "rest": {
+    "tr": "Modern seralarda kolon bağlantı borusunu/profilini mahya bağlantı borusuyla birleştirir ve oluğu taşır. Genellikle kelepçelerle set halinde satılır. Kalınlık 2mm,…",
+    "en": "Connects the column connection pipe or profiles with the arch connection pipe and bears the gutter, in modern greenhouses. Usually sold as a set with clamps.…"
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP024",
+   "size": {
+    "en": "Column Ø76, arch Ø42",
+    "ru": "Колонна Ø76, арка Ø42",
+    "ar": "عمود Ø76، قوس Ø42",
+    "tr": "Kolon Ø76, mahya Ø42 ile uyumludur"
+   },
+   "rest": {
+    "tr": "Modern seralarda kolon bağlantı borusunu/profilini mahya bağlantı borusuyla birleştirir ve oluğu taşır. Genellikle kelepçelerle set halinde satılır. Kalınlık 2mm,…",
+    "en": "Connects the column connection pipe or profiles with the arch connection pipe and bears the gutter, in modern greenhouses. Usually sold as a set with clamps.…"
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

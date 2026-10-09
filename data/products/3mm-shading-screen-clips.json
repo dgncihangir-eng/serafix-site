@@ -1,0 +1,56 @@
+{
+ "slug": "3mm-shading-screen-clips",
+ "order": 32,
+ "id": 21,
+ "cat": "gol",
+ "img": "bad7303a3310.webp",
+ "codes": [
+  "ISI007"
+ ],
+ "name": {
+  "tr": "Ø3mm Gölgeleme Perdesi Klipsi",
+  "en": "Ø3mm Shading Screen Clips",
+  "ru": "Клипсы затеняющего экрана Ø3 мм",
+  "ar": "مشابك ستارة التظليل Ø3 مم"
+ },
+ "desc": {
+  "tr": "Ölçü Ø3mm. Ø3mm gölgeleme perdesi için klips.",
+  "en": "Size Ø3mm. Ø3mm clips for the shading screen curtain.",
+  "ru": "Размер Ø3 мм. Клипсы для полотна затеняющего экрана.",
+  "ar": "المقاس Ø3 مم. مشابك لقماش ستارة التظليل."
+ },
+ "vars": [
+  {
+   "code": "ISI007",
+   "size": {
+    "en": "Size Ø3mm",
+    "ru": "Размер Ø3mm",
+    "ar": "المقاس Ø3mm",
+    "tr": "Ölçü Ø3mm"
+   },
+   "rest": {
+    "tr": "Ø3mm gölgeleme perdesi için klips.",
+    "en": "Ø3mm clips for the shading screen curtain."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "3926.90.37.9029"
+ ],
+ "thick": "",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

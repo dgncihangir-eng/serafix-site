@@ -1,0 +1,193 @@
+[
+ {
+  "order": 1,
+  "img": "tooling/shaft-pipe-piercing.webp",
+  "process": [
+   "pierce"
+  ],
+  "title": {
+   "tr": "Ø32 / Ø28 şaft borusu delme kalıbı",
+   "en": "Ø32 / Ø28 shaft pipe piercing die",
+   "ru": "Штамп пробивки вала-трубы Ø32 / Ø28",
+   "ar": "قالب ثقب أنبوب العمود Ø32 / Ø28"
+  }
+ },
+ {
+  "order": 2,
+  "img": "tooling/shaft-pipe-connection.webp",
+  "process": [
+   "pierce",
+   "form"
+  ],
+  "title": {
+   "tr": "Şaft boru bağlantı parçası kalıbı",
+   "en": "Shaft pipe connector die",
+   "ru": "Штамп соединителя вала-трубы",
+   "ar": "قالب وصلة أنبوب العمود"
+  }
+ },
+ {
+  "order": 3,
+  "img": "tooling/pipe-flatten-pierce.webp",
+  "process": [
+   "flatten",
+   "pierce"
+  ],
+  "title": {
+   "tr": "Boru ezme ve delme kalıbı (Ø27–Ø48)",
+   "en": "Pipe flattening & piercing die (Ø27–Ø48)",
+   "ru": "Штамп сплющивания и пробивки труб (Ø27–Ø48)",
+   "ar": "قالب سحق وثقب الأنابيب (Ø27–Ø48)"
+  }
+ },
+ {
+  "order": 4,
+  "img": "tooling/oval-pipe-piercing.webp",
+  "process": [
+   "pierce"
+  ],
+  "title": {
+   "tr": "50×64 oval boru delme kalıbı",
+   "en": "50×64 oval pipe piercing die",
+   "ru": "Штамп пробивки овальной трубы 50×64",
+   "ar": "قالب ثقب الأنبوب البيضاوي 50×64"
+  }
+ },
+ {
+  "order": 5,
+  "img": "tooling/oval-clamp-50x60.webp",
+  "process": [
+   "bend",
+   "form"
+  ],
+  "title": {
+   "tr": "50×60 oval kelepçe kalıbı",
+   "en": "50×60 oval clamp die",
+   "ru": "Штамп овального хомута 50×60",
+   "ar": "قالب المشبك البيضاوي 50×60"
+  }
+ },
+ {
+  "order": 6,
+  "img": "tooling/ridge-clamp-long.webp",
+  "process": [
+   "bend",
+   "form"
+  ],
+  "title": {
+   "tr": "50×63 tepe kelepçesi (uzun) kalıbı",
+   "en": "50×63 ridge clamp (long) die",
+   "ru": "Штамп конькового хомута 50×63 (длинный)",
+   "ar": "قالب مشبك القمة 50×63 (طويل)"
+  }
+ },
+ {
+  "order": 7,
+  "img": "tooling/eco-ridge-clamp.webp",
+  "process": [
+   "progressive"
+  ],
+  "title": {
+   "tr": "Eko tepe kelepçesi progresif kalıbı",
+   "en": "Eco ridge clamp progressive die",
+   "ru": "Последовательный штамп конькового хомута Eco",
+   "ar": "قالب تدريجي لمشبك القمة الاقتصادي"
+  }
+ },
+ {
+  "order": 8,
+  "img": "tooling/clamp-80x80-progressive.webp",
+  "process": [
+   "progressive"
+  ],
+  "title": {
+   "tr": "80×80 kelepçe progresif kalıbı",
+   "en": "80×80 clamp progressive die",
+   "ru": "Последовательный штамп хомута 80×80",
+   "ar": "قالب تدريجي لمشبك 80×80"
+  }
+ },
+ {
+  "order": 9,
+  "img": "tooling/profile-80x80-notching.webp",
+  "process": [
+   "pierce",
+   "cut"
+  ],
+  "title": {
+   "tr": "80×80 profil angajman kalıbı",
+   "en": "80×80 profile notching die",
+   "ru": "Штамп вырубки профиля 80×80",
+   "ar": "قالب تشكيل نهاية البروفيل 80×80"
+  }
+ },
+ {
+  "order": 10,
+  "img": "tooling/capital-left-right.webp",
+  "process": [
+   "cut",
+   "bend"
+  ],
+  "title": {
+   "tr": "Kapital sağ/sol kesme ve büküm kalıbı",
+   "en": "Column capital left/right trimming & bending die",
+   "ru": "Штамп обрезки и гибки капители (лев./прав.)",
+   "ar": "قالب قص وثني تاج العمود (يمين/يسار)"
+  }
+ },
+ {
+  "order": 11,
+  "img": "tooling/gutter-capital.webp",
+  "process": [
+   "bend"
+  ],
+  "title": {
+   "tr": "Oluk altı kapital kalıbı",
+   "en": "Under-gutter capital die",
+   "ru": "Штамп поджелобной капители",
+   "ar": "قالب تاج ما تحت المزراب"
+  }
+ },
+ {
+  "order": 12,
+  "img": "tooling/tower-bracket.webp",
+  "process": [
+   "progressive",
+   "bend"
+  ],
+  "title": {
+   "tr": "Kule parçası kalıbı",
+   "en": "Tower bracket die",
+   "ru": "Штамп кронштейна-стойки",
+   "ar": "قالب حامل البرج"
+  }
+ },
+ {
+  "order": 13,
+  "img": "tooling/hinge.webp",
+  "process": [
+   "cut",
+   "bend"
+  ],
+  "title": {
+   "tr": "Menteşe kalıbı",
+   "en": "Hinge die",
+   "ru": "Штамп петли",
+   "ar": "قالب المفصلة"
+  }
+ },
+ {
+  "order": 14,
+  "img": "tooling/pulley.webp",
+  "process": [
+   "cut",
+   "form"
+  ],
+  "title": {
+   "tr": "Makara parçası kalıbı",
+   "en": "Pulley part die",
+   "ru": "Штамп детали ролика",
+   "ar": "قالب قطعة البكرة"
+  }
+ }
+]

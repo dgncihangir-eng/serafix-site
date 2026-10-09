@@ -1,0 +1,101 @@
+{
+ "slug": "plastic-clip",
+ "order": 82,
+ "id": 87,
+ "cat": "nay",
+ "img": "3097e1cfb422.webp",
+ "codes": [
+  "KLP197",
+  "KLP198",
+  "KLP199",
+  "KLP200"
+ ],
+ "name": {
+  "tr": "Plastik Klips",
+  "en": "Plastic Clip",
+  "ru": "Пластиковая клипса",
+  "ar": "مشبك بلاستيكي"
+ },
+ "desc": {
+  "tr": "sera naylonu için plastik klips.",
+  "en": "Plastic clip for greenhouse nylon.",
+  "ru": "Пластиковая клипса для тепличной плёнки.",
+  "ar": "مشبك بلاستيكي لنايلون البيوت المحمية."
+ },
+ "vars": [
+  {
+   "code": "KLP197",
+   "size": {
+    "en": "Fits Ø21/27/34/42 pipe",
+    "ru": "Для трубы Ø21/27/34/42",
+    "ar": "يناسب أنبوب Ø21/27/34/42",
+    "tr": "Ø21/27/34/42 boruya uyar"
+   },
+   "rest": {
+    "tr": "sera naylonu için plastik klips.",
+    "en": "Plastic clip for greenhouse nylon."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP198",
+   "size": {
+    "en": "Fits Ø27 profile",
+    "ru": "Для профиля Ø27",
+    "ar": "يناسب بروفيل Ø27",
+    "tr": "Ø27 boru/profil uyar"
+   },
+   "rest": {
+    "tr": "plastik klips, 27'lik.",
+    "en": "Plastic clip, 27'lik."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP199",
+   "size": {
+    "en": "Fits Ø34 profile",
+    "ru": "Для профиля Ø34",
+    "ar": "يناسب بروفيل Ø34",
+    "tr": "Ø34 boru/profil uyar"
+   },
+   "rest": {
+    "tr": "plastik klips, 34'lük.",
+    "en": "Plastic clip, 34'lük."
+   },
+   "net": "0.026"
+  },
+  {
+   "code": "KLP200",
+   "size": {
+    "en": "Fits Ø42 profile",
+    "ru": "Для профиля Ø42",
+    "ar": "يناسب بروفيل Ø42",
+    "tr": "Ø42 boru/profil uyar"
+   },
+   "rest": {
+    "tr": "plastik klips, 42'lik.",
+    "en": "Plastic clip, 42'lik."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "3926.90.37.9029"
+ ],
+ "thick": "",
+ "net": "0.026",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

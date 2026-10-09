@@ -1,0 +1,56 @@
+{
+ "slug": "under-gutter-ring-joint-support-connection",
+ "order": 61,
+ "id": 39,
+ "cat": "kel",
+ "img": "0bbb11cc2885.webp",
+ "codes": [
+  "KLP050"
+ ],
+ "name": {
+  "tr": "Oluk Altı Halka Mafsalı & Destek Bağlantısı",
+  "en": "Under-Gutter Ring Joint & Support Connection",
+  "ru": "Кольцевой шарнир под желобом и опорное соединение",
+  "ar": "مفصل حلقي تحت المزراب ووصلة دعم"
+ },
+ "desc": {
+  "tr": "Kolon borularını/profillerini mahya bağlantı borusuyla birleştiren ve oluğu taşıyan kelepçeler. Kalınlık 3mm. İki halka mafsalı bir destek bağlantı elemanı ile birleşir.",
+  "en": "Clamps connecting column pipes/profiles with the arch connection pipe and bearing the gutter. Thickness 3mm. Two ring joints combine with one support connection element.",
+  "ru": "Соединяют колонны с арочной трубой и несут желоб. Толщина 3 мм. Два кольцевых шарнира с одним опорным элементом.",
+  "ar": "تربط أعمدة البيت المحمي بأنبوب القوس وتحمل المزراب. السماكة 3 مم. مفصلان حلقيان مع عنصر دعم واحد."
+ },
+ "vars": [
+  {
+   "code": "KLP050",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "Kolon borularını/profillerini mahya bağlantı borusuyla birleştiren ve oluğu taşıyan kelepçeler. Kalınlık 3mm. İki halka mafsalı bir destek bağlantı elemanı ile birleşir.",
+    "en": "Clamps connecting column pipes/profiles with the arch connection pipe and bearing the gutter. Thickness 3mm. Two ring joints combine with one support connection element."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "3",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

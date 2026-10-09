@@ -1,0 +1,71 @@
+{
+ "slug": "single-hinge",
+ "order": 73,
+ "id": 51,
+ "cat": "men",
+ "img": "cf9180a13feb.webp",
+ "codes": [
+  "KLP095",
+  "KLP096"
+ ],
+ "name": {
+  "tr": "Tek Menteşe",
+  "en": "Single Hinge",
+  "ru": "Одинарная петля",
+  "ar": "مفصلة مفردة"
+ },
+ "desc": {
+  "tr": "Tek kanatlı üst havalandırma penceresi profillerini bağlamak için kullanılır. Kalınlık 2mm.",
+  "en": "Used for connecting single-wing overhead ventilation window profiles. Thickness 2mm.",
+  "ru": "Для соединения профилей одностворчатой верхней форточки. Толщина 2 мм.",
+  "ar": "لوصل بروفيلات نافذة التهوية العلوية ذات الجناح الواحد. السماكة 2 مم."
+ },
+ "vars": [
+  {
+   "code": "KLP095",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "Tek kanatlı üst havalandırma penceresi profillerini bağlamak için kullanılır. Kalınlık 2mm.",
+    "en": "Used for connecting single-wing overhead ventilation window profiles. Thickness 2mm."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP096",
+   "size": {
+    "en": "Fits 35x45mm profile",
+    "ru": "Для профиля 35x45mm",
+    "ar": "يناسب بروفيل 35x45mm",
+    "tr": "35x45mm profil uyar"
+   },
+   "rest": {
+    "tr": "Tek kanatlı üst havalandırma penceresi profillerini bağlamak için kullanılan tek menteşe. Kalınlık 2mm, A35mm, B45mm.",
+    "en": "Single hinge used for connecting single-wing overhead ventilation window profiles. Thickness 2mm, A35mm, B45mm."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

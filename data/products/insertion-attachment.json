@@ -1,0 +1,101 @@
+{
+ "slug": "insertion-attachment",
+ "order": 36,
+ "id": 58,
+ "cat": "kel",
+ "img": "84d21341f1ac.webp",
+ "codes": [
+  "KLP118",
+  "KLP119",
+  "KLP120",
+  "KLP121"
+ ],
+ "name": {
+  "tr": "Ek Parça (Geçme Aparat)",
+  "en": "Insertion Attachment",
+  "ru": "Соединительная вставка",
+  "ar": "قطعة وصل تداخلية"
+ },
+ "desc": {
+  "tr": "C profillerde ek parça olarak kullanılır. Kalınlık 2mm.",
+  "en": "Thickness 2mm.",
+  "ru": "Толщина 2 мм.",
+  "ar": "السماكة 2 مم."
+ },
+ "vars": [
+  {
+   "code": "KLP118",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "C profillerde ek parça olarak kullanılır. Kalınlık 2mm.",
+    "en": "Used as an additional piece in C profiles. Thickness 2mm."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP119",
+   "size": {
+    "en": "Fits 35x150mm profile",
+    "ru": "Для профиля 35x150mm",
+    "ar": "يناسب بروفيل 35x150mm",
+    "tr": "35x150mm profil uyar"
+   },
+   "rest": {
+    "tr": "C profillerde ek parça olarak kullanılır. Kalınlık 2mm, A35mm, B150mm.",
+    "en": "Used as an additional piece in C profiles. Thickness 2mm, A35mm, B150mm."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP120",
+   "size": {
+    "en": "Fits 40x150mm profile",
+    "ru": "Для профиля 40x150mm",
+    "ar": "يناسب بروفيل 40x150mm",
+    "tr": "40x150mm profil uyar"
+   },
+   "rest": {
+    "tr": "C profillerde ek parça olarak kullanılır. Kalınlık 2mm, A40mm, B150mm.",
+    "en": "Used as an additional piece in C profiles. Thickness 2mm, A40mm, B150mm."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP121",
+   "size": {
+    "en": "Fits 45x150mm profile",
+    "ru": "Для профиля 45x150mm",
+    "ar": "يناسب بروفيل 45x150mm",
+    "tr": "45x150mm profil uyar"
+   },
+   "rest": {
+    "tr": "C profillerde ek parça olarak kullanılır. Kalınlık 2mm, A45mm, B150mm.",
+    "en": "Used as an additional piece in C profiles. Thickness 2mm, A45mm, B150mm."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

@@ -1,0 +1,56 @@
+{
+ "slug": "19-shading-screen-steel-guide-clamp",
+ "order": 30,
+ "id": 29,
+ "cat": "gol",
+ "img": "c22ae41ba248.webp",
+ "codes": [
+  "ISI034"
+ ],
+ "name": {
+  "tr": "Ø19 Gölgeleme Perdesi Çelik Yönlendirme Kelepçesi",
+  "en": "Ø19 Shading Screen Steel Guide Clamp",
+  "ru": "Стальной направляющий хомут затеняющего экрана Ø19",
+  "ar": "مشبك توجيه فولاذي Ø19 لستارة التظليل"
+ },
+ "desc": {
+  "tr": "Ölçü Ø19. Ø19 gölgeleme perdesi çelik yönlendirme kelepçesi (tel form).",
+  "en": "Size Ø19. Ø19 shading screen steel guide clamp (wire form).",
+  "ru": "Размер Ø19. Стальной проволочный направляющий хомут затеняющего экрана.",
+  "ar": "المقاس Ø19. مشبك توجيه فولاذي سلكي لستارة التظليل."
+ },
+ "vars": [
+  {
+   "code": "ISI034",
+   "size": {
+    "en": "Size Ø19",
+    "ru": "Размер Ø19",
+    "ar": "المقاس Ø19",
+    "tr": "Ölçü Ø19"
+   },
+   "rest": {
+    "tr": "Ø19 gölgeleme perdesi çelik yönlendirme kelepçesi (tel form).",
+    "en": "Ø19 shading screen steel guide clamp (wire form)."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

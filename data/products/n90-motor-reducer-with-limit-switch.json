@@ -1,0 +1,56 @@
+{
+ "slug": "n90-motor-reducer-with-limit-switch",
+ "order": 95,
+ "id": 92,
+ "cat": "mot",
+ "img": "f10deb5b71ab.webp",
+ "codes": [
+  "RED001"
+ ],
+ "name": {
+  "tr": "N90 Limit Switchli Motoredüktör",
+  "en": "N90 Motor Reducer with Limit Switch",
+  "ru": "Мотор-редуктор N90 с концевым выключателем",
+  "ar": "محرك مخفض N90 مع مفتاح حدّ"
+ },
+ "desc": {
+  "tr": "Ø25 mile uyar. Sera havalandırması, hayvan barınakları ve ürün depolama tesisi havalandırma sistemlerinde kullanılır. 3.6 RPM, 0.55-0.6kW, 380V, mil Ø25, ağırlık 23kg.",
+  "en": "Fits Ø25 shaft. Used in greenhouse ventilation, livestock buildings and product storage facility ventilation systems. 3.6 RPM, 0.55-0.6kW, 380V, shaft Ø25, weight 23kg.",
+  "ru": "Для вала Ø25. Проветривание теплиц, животноводческих помещений и складов. 3,6 об/мин, 0,55–0,6 кВт, 380 В, вес 23 кг.",
+  "ar": "يناسب عمود Ø25. لتهوية البيوت المحمية وحظائر المواشي والمستودعات. 3.6 دورة/دقيقة، 0.55–0.6 كيلوواط، 380 فولت، الوزن 23 كغ."
+ },
+ "vars": [
+  {
+   "code": "RED001",
+   "size": {
+    "en": "Fits Ø25 shaft",
+    "ru": "Для вала Ø25",
+    "ar": "يناسب عمود Ø25",
+    "tr": "Ø25 mile uyar"
+   },
+   "rest": {
+    "tr": "Sera havalandırması, hayvan barınakları ve ürün depolama tesisi havalandırma sistemlerinde kullanılır. 3.6 RPM, 0.55-0.6kW, 380V, mil Ø25, ağırlık 23kg.",
+    "en": "Used in greenhouse ventilation, livestock buildings and product storage facility ventilation systems. 3.6 RPM, 0.55-0.6kW, 380V, shaft Ø25, weight 23kg."
+   },
+   "net": "22"
+  }
+ ],
+ "hs": [
+  "8483.40.51.9022"
+ ],
+ "thick": "",
+ "net": "22",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

@@ -1,0 +1,47 @@
+<div>
+<section style="max-width: 1280px; margin: 0 auto; padding: 56px 24px 0">
+<span class="up" style="display: inline-block; font-size: 13px; font-weight: 700; color: #1F7A47; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 12px">{{t.dl.tag}}</span>
+<h1 class="fh" style="margin: 0 0 12px; font-size: 44px; line-height: 1.12; letter-spacing: -0.02em">{{t.dl.title}}</h1>
+<p style="margin: 0; font-size: 18px; line-height: 1.7; color: #3F4D42; max-width: 760px">{{t.dl.lead}}</p>
+</section>
+
+<section style="max-width: 1280px; margin: 0 auto; padding: 48px 24px 0">
+<h2 class="fh" style="margin: 0 0 20px; font-size: 26px">{{t.dl.catTitle}}</h2>
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 16px">
+{% for c in dlCatalogs %}
+<a href="{{c.href}}" target="{{c.target}}" rel="noopener" style="display: flex; gap: 16px; align-items: center; background: #FFFFFF; border: 1px solid #E3E8E4; border-radius: 2px; padding: 18px; text-decoration: none; color: #11261C">
+<span style="flex: none; width: 56px; height: 72px; border-radius: 2px; background: #0F3B2A; color: #9FD9A9; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 15px">{{c.code}}</span>
+<span style="display: flex; flex-direction: column; gap: 4px"><strong>{{c.title}}</strong><span style="font-size: 13px; color: #5B6660">{{c.meta}}</span></span>
+</a>
+{% endfor %}
+</div>
+</section>
+
+<section style="max-width: 1280px; margin: 0 auto; padding: 48px 24px 0">
+<h2 class="fh" style="margin: 0 0 6px; font-size: 26px">{{t.dl.groupTitle}}</h2>
+<p style="margin: 0 0 20px; color: #5B6660">{{t.dl.groupText}}</p>
+<div style="background: #FFFFFF; border: 1px solid #E3E8E4; border-radius: 2px; overflow: hidden">
+{% for g in dlGroups %}
+<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-content: space-between; padding: 14px 20px; border-top: 1px solid #ECEFE8">
+<span style="display: flex; flex-direction: column"><strong>{{g.name}}</strong><span style="font-size: 13px; color: #5B6660">{{g.count}}</span></span>
+<span style="display: flex; gap: 8px; flex-wrap: wrap">
+<a href="{{ g.pdf }}" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; height: 40px; padding: 0 14px; border-radius: 2px; border: 1.5px solid #C7D3CC; color: #11261C; font-weight: 600; font-size: 14px; text-decoration: none">{{t.dl.pdf}}</a>
+<a href="{{ g.url }}" style="display: inline-flex; align-items: center; height: 40px; padding: 0 14px; border-radius: 2px; border: 1.5px solid #C7D3CC; color: #11261C; font-weight: 600; font-size: 14px; text-decoration: none">{{t.nav.products}}</a>
+<a href="#iletisim" data-product="{{ t.reqCad }}: {{ g.name }}" style="display: inline-flex; align-items: center; height: 40px; padding: 0 14px; border-radius: 2px; border: 1.5px solid #C7D3CC; color: #11261C; font-weight: 600; font-size: 14px; text-decoration: none">{{t.dl.cad}}</a>
+</span>
+</div>
+{% endfor %}
+</div>
+</section>
+
+<section style="max-width: 1280px; margin: 0 auto; padding: 48px 24px 0">
+<h2 class="fh" style="margin: 0 0 20px; font-size: 26px">{{t.dl.docsTitle}}</h2>
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 16px">
+{% for c in t.dl.docs %}
+<a href="#iletisim" data-product="{{ c.t }}" style="display: flex; flex-direction: column; gap: 6px; background: #FFFFFF; border: 1px solid #E3E8E4; border-radius: 2px; padding: 20px; text-decoration: none; color: #11261C">
+<strong>{{c.t}}</strong><span style="font-size: 14px; color: #5B6660">{{c.d}}</span>
+</a>
+{% endfor %}
+</div>
+</section>
+</div>

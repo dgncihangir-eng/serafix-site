@@ -1,0 +1,56 @@
+{
+ "slug": "19-shading-screen-aluminum-pipe-clamp",
+ "order": 28,
+ "id": 26,
+ "cat": "gol",
+ "img": "612a85582c7b.webp",
+ "codes": [
+  "ISI025"
+ ],
+ "name": {
+  "tr": "Ø19 Gölgeleme Perdesi Alüminyum Boru Kelepçesi",
+  "en": "Ø19 Shading Screen Aluminum Pipe Clamp",
+  "ru": "Алюминиевый трубный хомут затеняющего экрана Ø19",
+  "ar": "مشبك أنبوب ألومنيوم Ø19 لستارة التظليل"
+ },
+ "desc": {
+  "tr": "Ölçü Ø19. Ø19 gölgeleme perdesi alüminyum boru kelepçesi.",
+  "en": "Size Ø19. Ø19 shading screen aluminum pipe clamp.",
+  "ru": "Размер Ø19. Алюминиевый трубный хомут затеняющего экрана.",
+  "ar": "المقاس Ø19. مشبك أنبوب ألومنيوم لستارة التظليل."
+ },
+ "vars": [
+  {
+   "code": "ISI025",
+   "size": {
+    "en": "Size Ø19",
+    "ru": "Размер Ø19",
+    "ar": "المقاس Ø19",
+    "tr": "Ölçü Ø19"
+   },
+   "rest": {
+    "tr": "Ø19 gölgeleme perdesi alüminyum boru kelepçesi.",
+    "en": "Ø19 shading screen aluminum pipe clamp."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

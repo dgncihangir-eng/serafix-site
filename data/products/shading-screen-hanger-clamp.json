@@ -1,0 +1,56 @@
+{
+ "slug": "shading-screen-hanger-clamp",
+ "order": 14,
+ "id": 67,
+ "cat": "gol",
+ "img": "5866f28611cd.webp",
+ "codes": [
+  "KLP135"
+ ],
+ "name": {
+  "tr": "Gölgeleme Perdesi Askı Kelepçesi",
+  "en": "Shading Screen Hanger Clamp",
+  "ru": "Подвесной хомут затеняющего экрана",
+  "ar": "مشبك تعليق ستارة التظليل"
+ },
+ "desc": {
+  "tr": "Gölgeleme perdesi askı sistemi için kelepçe. Kalınlık 2mm.",
+  "en": "Clamp for the shading screen hanger system. Thickness 2mm.",
+  "ru": "Хомут для подвесной системы затеняющего экрана. Толщина 2 мм.",
+  "ar": "مشبك لنظام تعليق ستارة التظليل. السماكة 2 مم."
+ },
+ "vars": [
+  {
+   "code": "KLP135",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "Gölgeleme perdesi askı sistemi için kelepçe. Kalınlık 2mm.",
+    "en": "Clamp for the shading screen hanger system. Thickness 2mm."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

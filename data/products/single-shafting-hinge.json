@@ -1,0 +1,101 @@
+{
+ "slug": "single-shafting-hinge",
+ "order": 74,
+ "id": 52,
+ "cat": "men",
+ "img": "fc9e940aaf0c.webp",
+ "codes": [
+  "KLP100",
+  "KLP101",
+  "KLP102",
+  "KLP103"
+ ],
+ "name": {
+  "tr": "Tek Şaftlı Menteşe",
+  "en": "Single Shafting Hinge",
+  "ru": "Одинарная петля с валом",
+  "ar": "مفصلة مفردة بعمود"
+ },
+ "desc": {
+  "tr": "Şaftlı tek kanatlı üst havalandırma penceresi profillerini bağlamak için kullanılır. Kalınlık 2mm. Birden fazla ölçü seçeneği: Ø27/32, 30x30, 30x40.",
+  "en": "Used for connecting single-wing overhead ventilation window profiles with shafting. Thickness 2mm. Multiple size variants: Ø27/32, 30x30, 30x40.",
+  "ru": "Для соединения профилей одностворчатой форточки с валом. Толщина 2 мм. Размеры Ø27/32, 30x30, 30x40.",
+  "ar": "لوصل بروفيلات نافذة الجناح الواحد مع العمود الدوار. السماكة 2 مم. المقاسات Ø27/32، 30x30، 30x40."
+ },
+ "vars": [
+  {
+   "code": "KLP100",
+   "size": {
+    "en": "Size Ø27",
+    "ru": "Размер Ø27",
+    "ar": "المقاس Ø27",
+    "tr": "Ölçü Ø27"
+   },
+   "rest": {
+    "tr": "Şaftlı tek kanatlı üst havalandırma penceresi profillerini bağlamak için kullanılır. Kalınlık 2mm. Birden fazla ölçü seçeneği: Ø27/32, 30x30, 30x40.",
+    "en": "Used for connecting single-wing overhead ventilation window profiles with shafting. Thickness 2mm. Multiple size variants: Ø27/32, 30x30, 30x40."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP101",
+   "size": {
+    "en": "Fits Ø32 shaft",
+    "ru": "Для вала Ø32",
+    "ar": "يناسب عمود Ø32",
+    "tr": "Ø32 mile uyar"
+   },
+   "rest": {
+    "tr": "Tek şaftlı menteşe. Kalınlık 2mm, A Ø 32.",
+    "en": "Single shafting hinge. Thickness 2mm, A Ø 32."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP102",
+   "size": {
+    "en": "Fits 30x30mm profile",
+    "ru": "Для профиля 30x30mm",
+    "ar": "يناسب بروفيل 30x30mm",
+    "tr": "30x30mm profil uyar"
+   },
+   "rest": {
+    "tr": "Tek şaftlı menteşe. Kalınlık 2mm, A 30 X 30.",
+    "en": "Single shafting hinge. Thickness 2mm, A 30 X 30."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP103",
+   "size": {
+    "en": "Fits 30x40mm profile",
+    "ru": "Для профиля 30x40mm",
+    "ar": "يناسب بروفيل 30x40mm",
+    "tr": "30x40mm profil uyar"
+   },
+   "rest": {
+    "tr": "Tek şaftlı menteşe. Kalınlık 2mm, A 30 X 40.",
+    "en": "Single shafting hinge. Thickness 2mm, A 30 X 40."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

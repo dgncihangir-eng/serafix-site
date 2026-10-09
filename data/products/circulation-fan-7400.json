@@ -1,0 +1,56 @@
+{
+ "slug": "circulation-fan-7400",
+ "order": 102,
+ "id": 2,
+ "cat": "fan",
+ "img": "5dd9f3931150.webp",
+ "codes": [
+  "FAN002"
+ ],
+ "name": {
+  "tr": "Sirkülasyon Fanı 7400",
+  "en": "Circulation Fan 7400",
+  "ru": "Циркуляционный вентилятор 7400",
+  "ar": "مروحة تدوير الهواء 7400"
+ },
+ "desc": {
+  "tr": "Sera iklim kontrolü için sirkülasyon fanı, 380V, 0.37kW, 1400 RPM, debi 7.400 m3/h.",
+  "en": "Circulation fan for greenhouse climate control, 380V, 0.37kW, 1400 RPM, flow 7.400 m3/h.",
+  "ru": "Циркуляционный вентилятор для климат-контроля теплиц, 380 В, 0,37 кВт, 1400 об/мин, 7400 м³/ч.",
+  "ar": "مروحة تدوير للتحكم في مناخ البيت المحمي، 380 فولت، 0.37 كيلوواط، 1400 دورة/دقيقة، 7400 م³/ساعة."
+ },
+ "vars": [
+  {
+   "code": "FAN002",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "Sera iklim kontrolü için sirkülasyon fanı, 380V, 0.37kW, 1400 RPM, debi 7.400 m3/h.",
+    "en": "Circulation fan for greenhouse climate control, 380V, 0.37kW, 1400 RPM, flow 7.400 m3/h."
+   },
+   "net": "14.2"
+  }
+ ],
+ "hs": [
+  "8414.51.00.9000"
+ ],
+ "thick": "",
+ "net": "14.2",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

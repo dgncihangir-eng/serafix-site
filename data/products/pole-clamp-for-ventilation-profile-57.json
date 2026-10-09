@@ -1,0 +1,56 @@
+{
+ "slug": "pole-clamp-for-ventilation-profile-57",
+ "order": 65,
+ "id": 57,
+ "cat": "pro",
+ "img": "c2ef5b650e43.webp",
+ "codes": [
+  "KLP117"
+ ],
+ "name": {
+  "tr": "Havalandırma Profili için Direk Kelepçesi",
+  "en": "Pole Clamp for Ventilation Profile",
+  "ru": "Стоечный хомут для профиля проветривания",
+  "ar": "مشبك عمود لبروفيل التهوية"
+ },
+ "desc": {
+  "tr": "Ø34 boruya uyar. Üst havalandırma pencerelerinde, borularda ve profillerde uç kelepçesi olarak kullanılır. Kalınlık 2mm, A24mm, B20mm, bağlantı Ø 34.",
+  "en": "Fits Ø34 pipe. Used as end clamp in over-head ventilation windows, pipes and profiles. Thickness 2mm, A24mm, B20mm, connection Ø 34.",
+  "ru": "Для трубы Ø34. Концевой хомут для верхних форточек, труб и профилей. Толщина 2 мм.",
+  "ar": "يناسب أنبوب Ø34. مشبك طرفي لنوافذ التهوية العلوية والأنابيب والبروفيلات. السماكة 2 مم."
+ },
+ "vars": [
+  {
+   "code": "KLP117",
+   "size": {
+    "en": "Fits Ø34 pipe",
+    "ru": "Для трубы Ø34",
+    "ar": "يناسب أنبوب Ø34",
+    "tr": "Ø34 boruya uyar"
+   },
+   "rest": {
+    "tr": "Üst havalandırma pencerelerinde, borularda ve profillerde uç kelepçesi olarak kullanılır. Kalınlık 2mm, A24mm, B20mm, bağlantı Ø 34.",
+    "en": "Used as end clamp in over-head ventilation windows, pipes and profiles. Thickness 2mm, A24mm, B20mm, connection Ø 34."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

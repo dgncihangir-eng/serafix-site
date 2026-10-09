@@ -1,0 +1,71 @@
+{
+ "slug": "ec-series-eco-double-rack",
+ "order": 8,
+ "id": 10,
+ "cat": "hav",
+ "img": "2cb1329e3e3c.webp",
+ "codes": [
+  "HAV009",
+  "HAV010"
+ ],
+ "name": {
+  "tr": "EC Serisi Ekonomik Çift Kremayer",
+  "en": "EC Series Eco Double Rack",
+  "ru": "Двойная рейка EC Eco",
+  "ar": "جريدة مسننة مزدوجة EC Eco"
+ },
+ "desc": {
+  "tr": "Daha küçük/ekonomik seralar için yeniden tasarlanmış ekonomik çift kremayer. Kalınlık 2mm. Uzunluk: 1115mm.",
+  "en": "Economical double rack, redesigned for smaller/economical greenhouses. Thickness 2mm. Length: 1115mm.",
+  "ru": "Экономичная двойная рейка для небольших и экономичных теплиц. Толщина 2 мм. Длина 1115 мм.",
+  "ar": "جريدة مسننة مزدوجة اقتصادية مصممة للبيوت المحمية الصغيرة والاقتصادية. السماكة 2 مم. الطول 1115 مم."
+ },
+ "vars": [
+  {
+   "code": "HAV009",
+   "size": {
+    "en": "Length 1115mm",
+    "ru": "Длина 1115mm",
+    "ar": "الطول 1115mm",
+    "tr": "Uzunluk 1115mm"
+   },
+   "rest": {
+    "tr": "Daha küçük/ekonomik seralar için yeniden tasarlanmış ekonomik çift kremayer. Kalınlık 2mm. Uzunluk: 1115mm.",
+    "en": "Economical double rack, redesigned for smaller/economical greenhouses. Thickness 2mm. Length: 1115mm."
+   },
+   "net": ""
+  },
+  {
+   "code": "HAV010",
+   "size": {
+    "en": "Length 1375mm",
+    "ru": "Длина 1375mm",
+    "ar": "الطول 1375mm",
+    "tr": "Uzunluk 1375mm"
+   },
+   "rest": {
+    "tr": "Motorlu veya motorsuz redüktörlerle birlikte kullanılan, daha küçük ve daha ekonomik seralar için yeniden tasarlanmış ekonomik çift kremayer-pinyon. Kalınlık 2mm.…",
+    "en": "Economical double rack and pinion, used together with motorized or non-motorized reducers, redesigned for smaller and more economical greenhouses. Thickness 2mm.…"
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

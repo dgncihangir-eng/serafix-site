@@ -1,0 +1,56 @@
+{
+ "slug": "gutter-drain-cover-plastic-85",
+ "order": 81,
+ "id": 85,
+ "cat": "olu",
+ "img": "33f79f71467f.webp",
+ "codes": [
+  "KLP195"
+ ],
+ "name": {
+  "tr": "Gutter Gider Kapağı (Plastik)",
+  "en": "Growing Gutter Drain Cover (Plastic)",
+  "ru": "Заглушка-слив лотка выращивания (пластик)",
+  "ar": "غطاء تصريف قناة الزراعة (بلاستيك)"
+ },
+ "desc": {
+  "tr": "Topraksız tarımda kullanılan yetiştirme gutter'ları için plastik gider kapağı. Gutter ucunu kapatır ve drenaj suyunun tahliyesini sağlar.",
+  "en": "Plastic drain cover for growing gutters used in soilless cultivation. Closes the gutter end and lets drain water out.",
+  "ru": "Пластиковая торцевая заглушка со сливом для лотков выращивания в беспочвенной культуре. Закрывает торец лотка и отводит дренажный раствор.",
+  "ar": "غطاء تصريف بلاستيكي لقنوات الزراعة المستخدمة في الزراعة بدون تربة. يغلق نهاية القناة ويسمح بتصريف مياه الصرف."
+ },
+ "vars": [
+  {
+   "code": "KLP195",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "",
+    "en": ""
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "3926.90.37.9029"
+ ],
+ "thick": "",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

@@ -1,0 +1,56 @@
+{
+ "slug": "pvc-clip-for-mosquito-net",
+ "order": 86,
+ "id": 31,
+ "cat": "nay",
+ "img": "b05aeaf996ff.webp",
+ "codes": [
+  "KLIPS004"
+ ],
+ "name": {
+  "tr": "Sineklik Filesi için PVC Klips",
+  "en": "PVC Clip for Mosquito Net",
+  "ru": "ПВХ-клипса для москитной сетки",
+  "ar": "مشبك PVC لشبك الحشرات"
+ },
+ "desc": {
+  "tr": "Sineklik filesini sera boru/profil yapısına tutturmak için kullanılan çift halkalı PVC klips. Plastik (PVC) malzeme.",
+  "en": "Double-ring PVC clip used to fasten mosquito net to the greenhouse pipe/profile structure. Plastic (PVC) material.",
+  "ru": "Двухкольцевая ПВХ-клипса для крепления москитной сетки к трубам и профилям теплицы.",
+  "ar": "مشبك PVC بحلقتين لتثبيت شبك الحشرات على أنابيب وبروفيلات البيت المحمي."
+ },
+ "vars": [
+  {
+   "code": "KLIPS004",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "Sineklik filesini sera boru/profil yapısına tutturmak için kullanılan çift halkalı PVC klips. Plastik (PVC) malzeme.",
+    "en": "Double-ring PVC clip used to fasten mosquito net to the greenhouse pipe/profile structure. Plastic (PVC) material."
+   },
+   "net": "0.020"
+  }
+ ],
+ "hs": [
+  "3926.90.37.9029"
+ ],
+ "thick": "",
+ "net": "0.02",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

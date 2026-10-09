@@ -1,0 +1,71 @@
+{
+ "slug": "d-profile-clamp",
+ "order": 63,
+ "id": 77,
+ "cat": "pro",
+ "img": "7d430591fe61.webp",
+ "codes": [
+  "KLP181",
+  "KLP182"
+ ],
+ "name": {
+  "tr": "D Profil Kelepçesi",
+  "en": "D Profile Clamp",
+  "ru": "Хомут D-профиля",
+  "ar": "مشبك بروفيل D"
+ },
+ "desc": {
+  "tr": "Genel amaçlı çelik konstrüksiyon bağlantı kelepçesi. Kalınlık 2mm. Ölçüler 35x35/80x80.",
+  "en": "General steel construction connection clamp. Thickness 2mm. Sizes 35x35/80x80.",
+  "ru": "Универсальный стальной соединительный хомут. Толщина 2 мм. Размеры 35x35/80x80.",
+  "ar": "مشبك وصل فولاذي عام. السماكة 2 مم. المقاسات 35x35/80x80."
+ },
+ "vars": [
+  {
+   "code": "KLP181",
+   "size": {
+    "en": "Fits 35x35 profile",
+    "ru": "Для профиля 35x35",
+    "ar": "يناسب بروفيل 35x35",
+    "tr": "35x35 profil uyar"
+   },
+   "rest": {
+    "tr": "Genel amaçlı çelik konstrüksiyon bağlantı kelepçesi. Kalınlık 2mm. Ölçüler 35x35/80x80.",
+    "en": "General steel construction connection clamp. Thickness 2mm. Sizes 35x35/80x80."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP182",
+   "size": {
+    "en": "Fits 80x80mm profile",
+    "ru": "Для профиля 80x80mm",
+    "ar": "يناسب بروفيل 80x80mm",
+    "tr": "80x80mm profil uyar"
+   },
+   "rest": {
+    "tr": "Seralarda kullanılan çelik konstrüksiyon bağlantı kelepçesi. Kalınlık 2mm, A80mm, B80mm.",
+    "en": "Steel construction connection clamp used in greenhouses. Thickness 2mm, A80mm, B80mm."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

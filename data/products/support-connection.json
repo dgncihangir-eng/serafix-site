@@ -1,0 +1,56 @@
+{
+ "slug": "support-connection",
+ "order": 35,
+ "id": 41,
+ "cat": "kel",
+ "img": "3356923aef15.webp",
+ "codes": [
+  "KLP054"
+ ],
+ "name": {
+  "tr": "Destek Bağlantısı",
+  "en": "Support Connection",
+  "ru": "Опорное соединение",
+  "ar": "وصلة دعم"
+ },
+ "desc": {
+  "tr": "145x145mm profil uyar. İki oluk altı halka mafsalıyla birlikte set halinde kullanılan destek bağlantı elemanı. Kalınlık 3mm, A145mm, B145mm, bağlantı 60x60-80x80.",
+  "en": "Fits 145x145mm profile. Support connection element used together with two under-gutter ring joints as a set. Thickness 3mm, A145mm, B145mm, connection 60x60-80x80.",
+  "ru": "Для профиля 145x145 мм. Опорный элемент, используется в комплекте с двумя кольцевыми шарнирами под желобом. Толщина 3 мм.",
+  "ar": "يناسب بروفيل 145x145 مم. عنصر دعم يُستخدم مع مفصلين حلقيين تحت المزراب كطقم. السماكة 3 مم."
+ },
+ "vars": [
+  {
+   "code": "KLP054",
+   "size": {
+    "en": "Fits 145x145mm profile",
+    "ru": "Для профиля 145x145mm",
+    "ar": "يناسب بروفيل 145x145mm",
+    "tr": "145x145mm profil uyar"
+   },
+   "rest": {
+    "tr": "İki oluk altı halka mafsalıyla birlikte set halinde kullanılan destek bağlantı elemanı. Kalınlık 3mm, A145mm, B145mm, bağlantı 60x60-80x80.",
+    "en": "Support connection element used together with two under-gutter ring joints as a set. Thickness 3mm, A145mm, B145mm, connection 60x60-80x80."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "3",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

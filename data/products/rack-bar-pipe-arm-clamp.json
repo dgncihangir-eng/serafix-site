@@ -1,0 +1,86 @@
+{
+ "slug": "rack-bar-pipe-arm-clamp",
+ "order": 43,
+ "id": 55,
+ "cat": "kel",
+ "img": "15b60e790992.webp",
+ "codes": [
+  "KLP111",
+  "KLP112",
+  "KLP113"
+ ],
+ "name": {
+  "tr": "Kremayer Boru Kol Kelepçesi",
+  "en": "Rack Bar Pipe Arm Clamp",
+  "ru": "Трубный хомут тяги рейки",
+  "ar": "مشبك أنبوب ذراع الجريدة المسننة"
+ },
+ "desc": {
+  "tr": "Havalandırma kremayer kolunu borulara bağlamak için kullanılır. Kalınlık 2mm. Connection Ø27/34/42.",
+  "en": "Used for connecting the ventilation rack arm to pipes. Thickness 2mm. Connection Ø27/34/42.",
+  "ru": "Для соединения тяги рейки проветривания с трубами. Толщина 2 мм. Соединение Ø27/34/42.",
+  "ar": "لوصل ذراع الجريدة المسننة للتهوية بالأنابيب. السماكة 2 مم. الوصل Ø27/34/42."
+ },
+ "vars": [
+  {
+   "code": "KLP111",
+   "size": {
+    "en": "Size Ø27",
+    "ru": "Размер Ø27",
+    "ar": "المقاس Ø27",
+    "tr": "Ölçü Ø27"
+   },
+   "rest": {
+    "tr": "Havalandırma kremayer kolunu borulara bağlamak için kullanılır. Kalınlık 2mm. Connection Ø27/34/42.",
+    "en": "Used for connecting the ventilation rack arm to pipes. Thickness 2mm. Connection Ø27/34/42."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP112",
+   "size": {
+    "en": "Fits Ø34 pipe",
+    "ru": "Для трубы Ø34",
+    "ar": "يناسب أنبوب Ø34",
+    "tr": "Ø34 boruya uyar"
+   },
+   "rest": {
+    "tr": "Sera üst pencere havalandırma kremayer kolunu borulara veya profillere bağlamak için kullanılır. Kalınlık 2mm, bağlantı Ø 34.",
+    "en": "Used for connecting the greenhouse overhead window ventilation rack arm to pipes or profiles. Thickness 2mm, connection Ø 34."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP113",
+   "size": {
+    "en": "Fits Ø42 pipe",
+    "ru": "Для трубы Ø42",
+    "ar": "يناسب أنبوب Ø42",
+    "tr": "Ø42 boruya uyar"
+   },
+   "rest": {
+    "tr": "Sera üst pencere havalandırma kremayer kolunu borulara veya profillere bağlamak için kullanılır. Kalınlık 2mm, bağlantı Ø 42.",
+    "en": "Used for connecting the greenhouse overhead window ventilation rack arm to pipes or profiles. Thickness 2mm, connection Ø 42."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

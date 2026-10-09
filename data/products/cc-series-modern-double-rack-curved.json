@@ -1,0 +1,56 @@
+{
+ "slug": "cc-series-modern-double-rack-curved",
+ "order": 6,
+ "id": 15,
+ "cat": "hav",
+ "img": "6edbdcbba37c.webp",
+ "codes": [
+  "HAV028"
+ ],
+ "name": {
+  "tr": "CC Serisi Modern Çift Kremayer (Kavisli)",
+  "en": "CC Series Modern Double Rack (Curved)",
+  "ru": "Двойная рейка CC Modern (изогнутая)",
+  "ar": "جريدة مسننة مزدوجة CC Modern (منحنية)"
+ },
+ "desc": {
+  "tr": "Uzunluk 1200mm. Modern çift kremayerin kavisli versiyonu. Kalınlık 2.5mm, length 1200mm.",
+  "en": "Length 1200mm. Curved version of the modern double rack. Thickness 2.5mm, length 1200mm.",
+  "ru": "Изогнутая версия современной двойной рейки. Толщина 2,5 мм, длина 1200 мм.",
+  "ar": "نسخة منحنية من الجريدة المسننة المزدوجة الحديثة. السماكة 2.5 مم، الطول 1200 مم."
+ },
+ "vars": [
+  {
+   "code": "HAV028",
+   "size": {
+    "en": "Length 1200mm",
+    "ru": "Длина 1200mm",
+    "ar": "الطول 1200mm",
+    "tr": "Uzunluk 1200mm"
+   },
+   "rest": {
+    "tr": "Modern çift kremayerin kavisli versiyonu. Kalınlık 2.5mm, length 1200mm.",
+    "en": "Curved version of the modern double rack. Thickness 2.5mm, length 1200mm."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2.5",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

@@ -1,0 +1,71 @@
+{
+ "slug": "greenhouse-shading-screen-rack",
+ "order": 27,
+ "id": 18,
+ "cat": "gol",
+ "img": "a167fded3ce6.webp",
+ "codes": [
+  "ISI002",
+  "ISI003"
+ ],
+ "name": {
+  "tr": "Sera Gölgeleme Perdesi Kremayeri",
+  "en": "Greenhouse Shading Screen Rack",
+  "ru": "Рейка затеняющего экрана для теплиц",
+  "ar": "جريدة مسننة لستارة التظليل"
+ },
+ "desc": {
+  "tr": "IPM serisi gölgeleme perdesi pinyon mekanizmasıyla kullanılan sera gölgeleme perdesi kremayeri (kremayer çubuğu). Uzunluk: 4997mm.",
+  "en": "Greenhouse shading screen rack (rack bar) used with the IPM series shading screen pinion mechanism. Length: 4997mm.",
+  "ru": "Рейка затеняющего экрана для механизма шестерни серии IPM. Длина 4997 мм.",
+  "ar": "جريدة مسننة لستارة التظليل تُستخدم مع آلية الترس من سلسلة IPM. الطول 4997 مم."
+ },
+ "vars": [
+  {
+   "code": "ISI002",
+   "size": {
+    "en": "Length 4997mm",
+    "ru": "Длина 4997mm",
+    "ar": "الطول 4997mm",
+    "tr": "Uzunluk 4997mm"
+   },
+   "rest": {
+    "tr": "IPM serisi gölgeleme perdesi pinyon mekanizmasıyla kullanılan sera gölgeleme perdesi kremayeri (kremayer çubuğu). Uzunluk: 4997mm.",
+    "en": "Greenhouse shading screen rack (rack bar) used with the IPM series shading screen pinion mechanism. Length: 4997mm."
+   },
+   "net": ""
+  },
+  {
+   "code": "ISI003",
+   "size": {
+    "en": "Length 3000mm",
+    "ru": "Длина 3000mm",
+    "ar": "الطول 3000mm",
+    "tr": "Uzunluk 3000mm"
+   },
+   "rest": {
+    "tr": "IPM serisi gölgeleme perdesi pinyon mekanizmasıyla kullanılan sera gölgeleme perdesi kremayeri (kremayer çubuğu). Uzunluk: 3000mm.",
+    "en": "Greenhouse shading screen rack (rack bar) used with the IPM series shading screen pinion mechanism. Length: 3000mm."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

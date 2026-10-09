@@ -1,0 +1,56 @@
+{
+ "slug": "shading-screen-pulley-bearing",
+ "order": 19,
+ "id": 66,
+ "cat": "gol",
+ "img": "f9a36f820dd6.webp",
+ "codes": [
+  "KLP134"
+ ],
+ "name": {
+  "tr": "Gölgeleme Perdesi Makara Rulmanı",
+  "en": "Shading Screen Pulley Bearing",
+  "ru": "Подшипник шкива затеняющего экрана",
+  "ar": "محمل بكرة ستارة التظليل"
+ },
+ "desc": {
+  "tr": "Gölgeleme perdesi askı makara sistemi için rulman. Kalınlık 2mm.",
+  "en": "Bearing for the shading screen hanger pulley system. Thickness 2mm.",
+  "ru": "Подшипник для роликовой подвесной системы затеняющего экрана. Толщина 2 мм.",
+  "ar": "محمل لنظام بكرات تعليق ستارة التظليل. السماكة 2 مم."
+ },
+ "vars": [
+  {
+   "code": "KLP134",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "Gölgeleme perdesi askı makara sistemi için rulman. Kalınlık 2mm.",
+    "en": "Bearing for the shading screen hanger pulley system. Thickness 2mm."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

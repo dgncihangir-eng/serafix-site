@@ -1,0 +1,56 @@
+{
+ "slug": "pipe-rail-support-spot-foot",
+ "order": 34,
+ "id": 79,
+ "cat": "kel",
+ "img": "9f07c50b2a56.webp",
+ "codes": [
+  "KLP187"
+ ],
+ "name": {
+  "tr": "Boru Ray Ayağı (Nokta Ayak)",
+  "en": "Pipe Rail Support (Spot Foot)",
+  "ru": "Опора трубного рельса (точечная)",
+  "ar": "قاعدة سكة الأنابيب (قدم نقطية)"
+ },
+ "desc": {
+  "tr": "Ölçü Ø52. Seralarda ısıtma boruları altında ayak olarak kullanılır. İki kule ve bir tablandan oluşur; aksi belirtilmedikçe demonte satılır. Kalınlık 1.5mm, boru Ø52.",
+  "en": "Size Ø52. Used as a stand under the heating pipes in greenhouses. Consists of two towers and a table, sold unassembled unless stated otherwise. Thickness 1.5mm, pipe Ø52.",
+  "ru": "Размер Ø52. Опора под трубы отопления в теплицах. Поставляется в разобранном виде. Толщина 1,5 мм.",
+  "ar": "المقاس Ø52. قاعدة لأنابيب التدفئة في البيوت المحمية، تُورَّد مفككة. السماكة 1.5 مم."
+ },
+ "vars": [
+  {
+   "code": "KLP187",
+   "size": {
+    "en": "Size Ø52",
+    "ru": "Размер Ø52",
+    "ar": "المقاس Ø52",
+    "tr": "Ölçü Ø52"
+   },
+   "rest": {
+    "tr": "Seralarda ısıtma boruları altında ayak olarak kullanılır. İki kule ve bir tablandan oluşur; aksi belirtilmedikçe demonte satılır. Kalınlık 1.5mm, boru Ø52.",
+    "en": "Used as a stand under the heating pipes in greenhouses. Consists of two towers and a table, sold unassembled unless stated otherwise. Thickness 1.5mm, pipe Ø52."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "1.5",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

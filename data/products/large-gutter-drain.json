@@ -1,0 +1,56 @@
+{
+ "slug": "large-gutter-drain",
+ "order": 76,
+ "id": 84,
+ "cat": "olu",
+ "img": "6d03e7e78902.webp",
+ "codes": [
+  "KLP193"
+ ],
+ "name": {
+  "tr": "Büyük Gutter Gideri",
+  "en": "Large Growing Gutter Drain",
+  "ru": "Большой слив лотка выращивания",
+  "ar": "مصرف كبير لقناة الزراعة"
+ },
+ "desc": {
+  "tr": "Yetiştirme gutter'ları için plastik büyük gider. Topraksız tarımda drenaj suyunu gutter'dan toplama hattına aktarır.",
+  "en": "Large plastic drain for growing gutters. Carries drain water from the gutter to the collection line in soilless cultivation.",
+  "ru": "Большой пластиковый слив для лотков выращивания. Отводит дренажный раствор из лотка в сборную линию при беспочвенном выращивании.",
+  "ar": "مصرف بلاستيكي كبير لقنوات الزراعة. ينقل مياه الصرف من القناة إلى خط التجميع في الزراعة بدون تربة."
+ },
+ "vars": [
+  {
+   "code": "KLP193",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "",
+    "en": ""
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "3926.90.37.9029"
+ ],
+ "thick": "",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

@@ -1,0 +1,56 @@
+{
+ "slug": "cm-series-modern-double-pinion",
+ "order": 7,
+ "id": 6,
+ "cat": "hav",
+ "img": "7efdccf26652.webp",
+ "codes": [
+  "HAV001"
+ ],
+ "name": {
+  "tr": "CM Serisi Modern Çift Pinyon",
+  "en": "CM Series Modern Double Pinion",
+  "ru": "Двойная шестерня CM Modern",
+  "ar": "ترس مزدوج CM Modern"
+ },
+ "desc": {
+  "tr": "Ø34 boruya uyar. Motorlu veya motorsuz redüktörlerle birlikte sera havalandırmasında kullanılan modern çift kremayer-pinyon mekanizması. Kalınlık 1.5mm, bağlantı boru Ø34.",
+  "en": "Fits Ø34 pipe. Modern double rack and pinion mechanism used together with motorized or non-motorized reducers for greenhouse ventilation. Thickness 1.5mm, connection…",
+  "ru": "Для трубы Ø34. Современный механизм двойной рейки и шестерни для проветривания теплиц, с моторными или ручными редукторами. Толщина 1,5 мм.",
+  "ar": "يناسب أنبوب Ø34. آلية جريدة مسننة وترس مزدوجة حديثة لتهوية البيوت المحمية مع مخفضات يدوية أو آلية. السماكة 1.5 مم."
+ },
+ "vars": [
+  {
+   "code": "HAV001",
+   "size": {
+    "en": "Fits Ø34 pipe",
+    "ru": "Для трубы Ø34",
+    "ar": "يناسب أنبوب Ø34",
+    "tr": "Ø34 boruya uyar"
+   },
+   "rest": {
+    "tr": "Motorlu veya motorsuz redüktörlerle birlikte sera havalandırmasında kullanılan modern çift kremayer-pinyon mekanizması. Kalınlık 1.5mm, bağlantı boru Ø34.",
+    "en": "Modern double rack and pinion mechanism used together with motorized or non-motorized reducers for greenhouse ventilation. Thickness 1.5mm, connection pipe Ø34."
+   },
+   "net": "0.45"
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "1.5",
+ "net": "0.45",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

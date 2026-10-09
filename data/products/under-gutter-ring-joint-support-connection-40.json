@@ -1,0 +1,56 @@
+{
+ "slug": "under-gutter-ring-joint-support-connection-40",
+ "order": 62,
+ "id": 40,
+ "cat": "kel",
+ "img": "1f31e29da7cd.webp",
+ "codes": [
+  "KLP051"
+ ],
+ "name": {
+  "tr": "Oluk Altı Halka Mafsalı & Destek Bağlantısı",
+  "en": "Under-Gutter Ring Joint & Support Connection",
+  "ru": "Кольцевой шарнир под желобом и опорное соединение",
+  "ar": "مفصل حلقي تحت المزراب ووصلة دعم"
+ },
+ "desc": {
+  "tr": "117x100mm profil uyar. Kolon bağlantı borularını/profillerini mahya bağlantı borusuyla birleştiren ve oluğu taşıyan kelepçeler. İki oluk altı halka mafsalı bir oluklu destek…",
+  "en": "Fits 117x100mm profile. Clamps that connect the column connection pipes or profiles with the arch connection pipe and bear the gutter. Two under-groove ring joints…",
+  "ru": "Для профиля 117x100 мм. Соединяют колонны с арочной трубой и несут желоб.",
+  "ar": "يناسب بروفيل 117x100 مم. تربط الأعمدة بأنبوب القوس وتحمل المزراب."
+ },
+ "vars": [
+  {
+   "code": "KLP051",
+   "size": {
+    "en": "Fits 117x100mm profile",
+    "ru": "Для профиля 117x100mm",
+    "ar": "يناسب بروفيل 117x100mm",
+    "tr": "117x100mm profil uyar"
+   },
+   "rest": {
+    "tr": "Kolon bağlantı borularını/profillerini mahya bağlantı borusuyla birleştiren ve oluğu taşıyan kelepçeler. İki oluk altı halka mafsalı bir oluklu destek bağlantı…",
+    "en": "Clamps that connect the column connection pipes or profiles with the arch connection pipe and bear the gutter. Two under-groove ring joints combine with one groove…"
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "3",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

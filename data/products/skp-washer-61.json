@@ -1,0 +1,71 @@
+{
+ "slug": "skp-washer-61",
+ "order": 52,
+ "id": 61,
+ "cat": "kel",
+ "img": "856a99b7fb22.webp",
+ "codes": [
+  "KLP127",
+  "KLP128"
+ ],
+ "name": {
+  "tr": "SKP Pul",
+  "en": "SKP Washer",
+  "ru": "Шайба SKP",
+  "ar": "حلقة SKP"
+ },
+ "desc": {
+  "tr": "SKP pul (uzun). Kalınlık 2mm, A28mm, B28mm.",
+  "en": "SKP washer (long). Thickness 2mm, A28mm, B28mm.",
+  "ru": "Шайба SKP (длинная). Толщина 2 мм, A28 мм, B28 мм.",
+  "ar": "حلقة SKP (طويلة). السماكة 2 مم، A28 مم، B28 مم."
+ },
+ "vars": [
+  {
+   "code": "KLP127",
+   "size": {
+    "en": "Fits 28x28mm profile",
+    "ru": "Для профиля 28x28mm",
+    "ar": "يناسب بروفيل 28x28mm",
+    "tr": "28x28mm profil uyar"
+   },
+   "rest": {
+    "tr": "SKP pul (uzun). Kalınlık 2mm, A28mm, B28mm.",
+    "en": "SKP washer (long). Thickness 2mm, A28mm, B28mm."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP128",
+   "size": {
+    "en": "Fits 30x30mm profile",
+    "ru": "Для профиля 30x30mm",
+    "ar": "يناسب بروفيل 30x30mm",
+    "tr": "30x30mm profil uyar"
+   },
+   "rest": {
+    "tr": "SKP pul (uzun). Kalınlık 2mm, A30mm, B30mm.",
+    "en": "SKP washer (long). Thickness 2mm, A30mm, B30mm."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

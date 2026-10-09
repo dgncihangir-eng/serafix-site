@@ -1,0 +1,56 @@
+{
+ "slug": "ipm-series-greenhouse-shading-screen-pinion",
+ "order": 25,
+ "id": 17,
+ "cat": "gol",
+ "img": "4eecbe644f74.webp",
+ "codes": [
+  "ISI001"
+ ],
+ "name": {
+  "tr": "IPM Serisi Sera Gölgeleme Perdesi Pinyonu",
+  "en": "IPM Series Greenhouse Shading Screen Pinion",
+  "ru": "Шестерня затеняющего экрана IPM",
+  "ar": "ترس ستارة التظليل للبيوت المحمية IPM"
+ },
+ "desc": {
+  "tr": "Gölgeleme perdesi mekanizması için, yazın gölgeleme ve kışın enerji tasarrufu sağlar. 1.8 RPM.",
+  "en": "Used for the shading screen mechanism, for shading in summer and energy saving in winter. 1.8 RPM.",
+  "ru": "Для механизма затеняющего экрана: затенение летом и энергосбережение зимой. 1,8 об/мин.",
+  "ar": "لآلية ستارة التظليل: تظليل في الصيف وتوفير للطاقة في الشتاء. 1.8 دورة/دقيقة."
+ },
+ "vars": [
+  {
+   "code": "ISI001",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "Gölgeleme perdesi mekanizması için, yazın gölgeleme ve kışın enerji tasarrufu sağlar. 1.8 RPM.",
+    "en": "Used for the shading screen mechanism, for shading in summer and energy saving in winter. 1.8 RPM."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

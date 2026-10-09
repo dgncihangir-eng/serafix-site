@@ -1,0 +1,56 @@
+{
+ "slug": "shading-screen-routing-clamps-large-small",
+ "order": 24,
+ "id": 23,
+ "cat": "gol",
+ "img": "1a7e799e1e02.webp",
+ "codes": [
+  "ISI011"
+ ],
+ "name": {
+  "tr": "Gölgeleme Perdesi Yönlendirme Kelepçeleri (Büyük/Küçük)",
+  "en": "Shading Screen Routing Clamps (Large/Small)",
+  "ru": "Направляющие хомуты затеняющего экрана (большой/малый)",
+  "ar": "مشابك توجيه ستارة التظليل (كبير/صغير)"
+ },
+ "desc": {
+  "tr": "Gölgeleme perdesi sistemi için büyük ve küçük yönlendirme kelepçeleri.",
+  "en": "Large and small routing clamps for the shading screen system.",
+  "ru": "Большие и малые направляющие хомуты для системы затеняющего экрана.",
+  "ar": "مشابك توجيه كبيرة وصغيرة لنظام ستارة التظليل."
+ },
+ "vars": [
+  {
+   "code": "ISI011",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "Gölgeleme perdesi sistemi için büyük ve küçük yönlendirme kelepçeleri.",
+    "en": "Large and small routing clamps for the shading screen system."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "3926.90.37.9029"
+ ],
+ "thick": "",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

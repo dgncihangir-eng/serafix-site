@@ -1,0 +1,161 @@
+{
+ "slug": "economic-left-y-clamp",
+ "order": 38,
+ "id": 37,
+ "cat": "kel",
+ "img": "3f36ad41e4b1.webp",
+ "codes": [
+  "KLP041",
+  "KLP042",
+  "KLP043",
+  "KLP044",
+  "KLP045",
+  "KLP046",
+  "KLP047",
+  "KLP048"
+ ],
+ "name": {
+  "tr": "Ekonomik Sol Y Kelepçe",
+  "en": "Economic Left Y Clamp",
+  "ru": "Левый Y-хомут Economic",
+  "ar": "مشبك Y أيسر Economic"
+ },
+ "desc": {
+  "tr": "Birden fazla kolon/mahya borusu ölçüsü mevcuttur - ölçü varyantlarına bakınız. Ekonomik seralarda kolon bağlantı borularını/profillerini mahya bağlantı borusuyla birleştirir,…",
+  "en": "Available in multiple column/arch pipe sizes - see size variants. Connects column connection pipes/profiles with the arch connection pipe in economic greenhouses,…",
+  "ru": "Разные размеры колонн и арок — см. варианты. Соединяет трубы/профили колонн с арочной трубой в экономичных теплицах.",
+  "ar": "مقاسات متعددة للأعمدة والأقواس — راجع الخيارات. يربط أنابيب الأعمدة بأنبوب القوس في البيوت المحمية الاقتصادية."
+ },
+ "vars": [
+  {
+   "code": "KLP041",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "Birden fazla kolon/mahya borusu ölçüsü mevcuttur - ölçü varyantlarına bakınız. Ekonomik seralarda kolon bağlantı borularını/profillerini mahya bağlantı borusuyla…",
+    "en": "Available in multiple column/arch pipe sizes - see size variants. Connects column connection pipes/profiles with the arch connection pipe in economic greenhouses,…"
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP042",
+   "size": {
+    "en": "Column 60x60, arch Ø27",
+    "ru": "Колонна 60x60, арка Ø27",
+    "ar": "عمود 60x60، قوس Ø27",
+    "tr": "Kolon 60x60, mahya Ø27 ile uyumludur"
+   },
+   "rest": {
+    "tr": "Ekonomik seralarda kolon bağlantı borularını/profillerini mahya bağlantı borusuyla birleştirir ve oluğu taşır. Genellikle kelepçelerle set halinde satılır. Kalınlık…",
+    "en": "Connects the column connection pipes or profiles with the arch connection pipe in economic greenhouses and bears the gutter. Usually sold as a set with clamps.…"
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP043",
+   "size": {
+    "en": "Column 60x60, arch Ø34",
+    "ru": "Колонна 60x60, арка Ø34",
+    "ar": "عمود 60x60، قوس Ø34",
+    "tr": "Kolon 60x60, mahya Ø34 ile uyumludur"
+   },
+   "rest": {
+    "tr": "Ekonomik seralarda kolon bağlantı borularını/profillerini mahya bağlantı borusuyla birleştirir ve oluğu taşır. Genellikle kelepçelerle set halinde satılır. Kalınlık…",
+    "en": "Connects the column connection pipes or profiles with the arch connection pipe in economic greenhouses and bears the gutter. Usually sold as a set with clamps.…"
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP044",
+   "size": {
+    "en": "Column 80x80, arch Ø42",
+    "ru": "Колонна 80x80, арка Ø42",
+    "ar": "عمود 80x80، قوس Ø42",
+    "tr": "Kolon 80x80, mahya Ø42 ile uyumludur"
+   },
+   "rest": {
+    "tr": "Ekonomik seralarda kolon bağlantı borularını/profillerini mahya bağlantı borusuyla birleştirir ve oluğu taşır. Genellikle kelepçelerle set halinde satılır. Kalınlık…",
+    "en": "Connects the column connection pipes or profiles with the arch connection pipe in economic greenhouses and bears the gutter. Usually sold as a set with clamps.…"
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP045",
+   "size": {
+    "en": "Column 80x80, arch Ø48",
+    "ru": "Колонна 80x80, арка Ø48",
+    "ar": "عمود 80x80، قوس Ø48",
+    "tr": "Kolon 80x80, mahya Ø48 ile uyumludur"
+   },
+   "rest": {
+    "tr": "Ekonomik seralarda kolon bağlantı borularını/profillerini mahya bağlantı borusuyla birleştirir ve oluğu taşır. Genellikle kelepçelerle set halinde satılır. Kalınlık…",
+    "en": "Connects the column connection pipes or profiles with the arch connection pipe in economic greenhouses and bears the gutter. Usually sold as a set with clamps.…"
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP046",
+   "size": {
+    "en": "Column 80x80, arch Ø42",
+    "ru": "Колонна 80x80, арка Ø42",
+    "ar": "عمود 80x80، قوس Ø42",
+    "tr": "Kolon 80x80, mahya Ø42 ile uyumludur"
+   },
+   "rest": {
+    "tr": "Ekonomik seralarda kolon bağlantı borularını/profillerini mahya bağlantı borusuyla birleştirir ve oluğu taşır. Genellikle kelepçelerle set halinde satılır. Kalınlık…",
+    "en": "Connects the column connection pipes or profiles with the arch connection pipe in economic greenhouses and bears the gutter. Usually sold as a set with clamps.…"
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP047",
+   "size": {
+    "en": "Column 80x80, arch Ø48",
+    "ru": "Колонна 80x80, арка Ø48",
+    "ar": "عمود 80x80، قوس Ø48",
+    "tr": "Kolon 80x80, mahya Ø48 ile uyumludur"
+   },
+   "rest": {
+    "tr": "Ekonomik seralarda kolon bağlantı borularını/profillerini mahya bağlantı borusuyla birleştirir ve oluğu taşır. Genellikle kelepçelerle set halinde satılır. Kalınlık…",
+    "en": "Connects the column connection pipes or profiles with the arch connection pipe in economic greenhouses and bears the gutter. Usually sold as a set with clamps.…"
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP048",
+   "size": {
+    "en": "Column Ø76, arch Ø42",
+    "ru": "Колонна Ø76, арка Ø42",
+    "ar": "عمود Ø76، قوس Ø42",
+    "tr": "Kolon Ø76, mahya Ø42 ile uyumludur"
+   },
+   "rest": {
+    "tr": "Ekonomik seralarda kolon bağlantı borularını/profillerini mahya bağlantı borusuyla birleştirir ve oluğu taşır. Genellikle kelepçelerle set halinde satılır. Kalınlık…",
+    "en": "Connects the column connection pipes or profiles with the arch connection pipe in economic greenhouses and bears the gutter. Usually sold as a set with clamps.…"
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

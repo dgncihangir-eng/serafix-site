@@ -1,0 +1,56 @@
+{
+ "slug": "greenhouse-nylon-inflator",
+ "order": 85,
+ "id": 90,
+ "cat": "nay",
+ "img": "00c7c0e9bc59.webp",
+ "codes": [
+  "KLP203"
+ ],
+ "name": {
+  "tr": "Sera Naylon Şişirme Aparatı",
+  "en": "Greenhouse Nylon Inflator",
+  "ru": "Устройство для надува тепличной плёнки",
+  "ar": "جهاز نفخ نايلون البيوت المحمية"
+ },
+ "desc": {
+  "tr": "Sera naylonunu şişirmek için kullanılan plastik aparat. Kalınlık 2mm.",
+  "en": "Plastic apparatus used for inflating greenhouse nylon. Thickness 2mm.",
+  "ru": "Пластиковое устройство для надува тепличной плёнки. Толщина 2 мм.",
+  "ar": "جهاز بلاستيكي لنفخ نايلون البيوت المحمية. السماكة 2 مم."
+ },
+ "vars": [
+  {
+   "code": "KLP203",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "Sera naylonunu şişirmek için kullanılan plastik aparat. Kalınlık 2mm.",
+    "en": "Plastic apparatus used for inflating greenhouse nylon. Thickness 2mm."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "3926.90.37.9029"
+ ],
+ "thick": "2",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

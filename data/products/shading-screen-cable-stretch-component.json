@@ -1,0 +1,56 @@
+{
+ "slug": "shading-screen-cable-stretch-component",
+ "order": 16,
+ "id": 63,
+ "cat": "gol",
+ "img": "4cd8e42c53c3.webp",
+ "codes": [
+  "KLP130"
+ ],
+ "name": {
+  "tr": "Gölgeleme Perdesi Halat Gerdirme Parçası",
+  "en": "Shading Screen Cable Stretch Component",
+  "ru": "Натяжитель троса затеняющего экрана",
+  "ar": "قطعة شدّ كابل ستارة التظليل"
+ },
+ "desc": {
+  "tr": "Sera gölgeleme perdesi sisteminde ve çelik halat germe gerektiren tarımsal uygulamalarda kullanılır. Kalınlık 2mm.",
+  "en": "Used in the greenhouse shading screen system and agricultural applications requiring steel rope tensioning. Thickness 2mm.",
+  "ru": "Для систем затеняющего экрана и сельскохозяйственных задач, требующих натяжения стального троса. Толщина 2 мм.",
+  "ar": "لأنظمة ستائر التظليل والتطبيقات الزراعية التي تتطلب شدّ الحبال الفولاذية. السماكة 2 مم."
+ },
+ "vars": [
+  {
+   "code": "KLP130",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "Sera gölgeleme perdesi sisteminde ve çelik halat germe gerektiren tarımsal uygulamalarda kullanılır. Kalınlık 2mm.",
+    "en": "Used in the greenhouse shading screen system and agricultural applications requiring steel rope tensioning. Thickness 2mm."
+   },
+   "net": "0.120"
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "0.12",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

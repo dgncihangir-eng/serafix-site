@@ -1,0 +1,86 @@
+{
+ "slug": "peak-connection-clamp",
+ "order": 45,
+ "id": 45,
+ "cat": "kel",
+ "img": "39b5c0b2fc0d.webp",
+ "codes": [
+  "KLP066",
+  "KLP067",
+  "KLP068"
+ ],
+ "name": {
+  "tr": "Mahya Bağlantı Kelepçesi",
+  "en": "Peak Connection Clamp",
+  "ru": "Хомут конькового соединения",
+  "ar": "مشبك وصلة القمة"
+ },
+ "desc": {
+  "tr": "Mahya borularını taşımak için kullanılan kelepçeler. Kalınlık 2mm. Connection Ø34/42/48.",
+  "en": "Clamps used for bearing the arch pipes. Thickness 2mm. Connection Ø34/42/48.",
+  "ru": "Хомуты для удержания арочных труб. Толщина 2 мм. Соединение Ø34/42/48.",
+  "ar": "مشابك لحمل أنابيب الأقواس. السماكة 2 مم. الوصل Ø34/42/48."
+ },
+ "vars": [
+  {
+   "code": "KLP066",
+   "size": {
+    "en": "Size Ø34",
+    "ru": "Размер Ø34",
+    "ar": "المقاس Ø34",
+    "tr": "Ölçü Ø34"
+   },
+   "rest": {
+    "tr": "Mahya borularını taşımak için kullanılan kelepçeler. Kalınlık 2mm. Connection Ø34/42/48.",
+    "en": "Clamps used for bearing the arch pipes. Thickness 2mm. Connection Ø34/42/48."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP067",
+   "size": {
+    "en": "Fits Ø42 pipe",
+    "ru": "Для трубы Ø42",
+    "ar": "يناسب أنبوب Ø42",
+    "tr": "Ø42 boruya uyar"
+   },
+   "rest": {
+    "tr": "Mahya noktasında kemer bağlantı borularını birleştirmek için kullanılan kelepçe. Kalınlık 2mm, bağlantı çapı Ø 42.",
+    "en": "Clamp used to join arch connection pipes at the peak. Thickness 2mm, connection diameter Ø 42."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP068",
+   "size": {
+    "en": "Fits Ø48 pipe",
+    "ru": "Для трубы Ø48",
+    "ar": "يناسب أنبوب Ø48",
+    "tr": "Ø48 boruya uyar"
+   },
+   "rest": {
+    "tr": "Mahya noktasında kemer bağlantı borularını birleştirmek için kullanılan kelepçe. Kalınlık 2mm, bağlantı çapı Ø 48.",
+    "en": "Clamp used to join arch connection pipes at the peak. Thickness 2mm, connection diameter Ø 48."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

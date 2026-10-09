@@ -1,0 +1,71 @@
+{
+ "slug": "shading-screen-weight-washer",
+ "order": 15,
+ "id": 64,
+ "cat": "gol",
+ "img": "79f3cd61d644.webp",
+ "codes": [
+  "KLP131",
+  "KLP132"
+ ],
+ "name": {
+  "tr": "Gölgeleme Perdesi Ağırlık Pulu",
+  "en": "Shading Screen Weight Washer",
+  "ru": "Грузовая шайба затеняющего экрана",
+  "ar": "حلقة ثقل ستارة التظليل"
+ },
+ "desc": {
+  "tr": "Gölgeleme perdesi sisteminde perde uçlarında ağırlık amacıyla kullanılır. Kalınlık 2.5/3mm, Ø55/6mm.",
+  "en": "Used for weight purposes at the ends of the curtain in the shading screen system. Thickness 2.5/3mm, Ø55/6mm.",
+  "ru": "Утяжелитель для концов полотна в системе затеняющего экрана. Толщина 2,5/3 мм, Ø55/6 мм.",
+  "ar": "يُستخدم كثقل في أطراف الستارة ضمن نظام التظليل. السماكة 2.5/3 مم، Ø55/6 مم."
+ },
+ "vars": [
+  {
+   "code": "KLP131",
+   "size": {
+    "en": "Size Ø55",
+    "ru": "Размер Ø55",
+    "ar": "المقاس Ø55",
+    "tr": "Ölçü Ø55"
+   },
+   "rest": {
+    "tr": "Gölgeleme perdesi sisteminde perde uçlarında ağırlık amacıyla kullanılır. Kalınlık 2.5/3mm, Ø55/6mm.",
+    "en": "Used for weight purposes at the ends of the curtain in the shading screen system. Thickness 2.5/3mm, Ø55/6mm."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP132",
+   "size": {
+    "en": "Size Ø55",
+    "ru": "Размер Ø55",
+    "ar": "المقاس Ø55",
+    "tr": "Ölçü Ø55"
+   },
+   "rest": {
+    "tr": "Gölgeleme perdesi uçlarında kullanılan ağırlık pulu. Kalınlık 3mm, Ø1 55mm, Ø2 6mm.",
+    "en": "Weight washer used at the ends of the shading screen curtain. Thickness 3mm, Ø1 55mm, Ø2 6mm."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2.5–3",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

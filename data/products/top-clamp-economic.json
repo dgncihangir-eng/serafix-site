@@ -1,0 +1,71 @@
+{
+ "slug": "top-clamp-economic",
+ "order": 57,
+ "id": 44,
+ "cat": "kel",
+ "img": "691467a3a0e0.webp",
+ "codes": [
+  "KLP064",
+  "KLP065"
+ ],
+ "name": {
+  "tr": "Üst Kelepçe Ekonomik",
+  "en": "Top Clamp Economic",
+  "ru": "Верхний хомут Economic",
+  "ar": "مشبك علوي Economic"
+ },
+ "desc": {
+  "tr": "Mahya borularını tepe noktasında birleştiren kelepçeler. Kalınlık 2mm. Connection Ø42/48.",
+  "en": "Clamps that connect the arch pipes at the top. Thickness 2mm. Connection Ø42/48.",
+  "ru": "Хомуты, соединяющие арочные трубы сверху. Толщина 2 мм. Соединение Ø42/48.",
+  "ar": "مشابك تربط أنابيب الأقواس من الأعلى. السماكة 2 مم. الوصل Ø42/48."
+ },
+ "vars": [
+  {
+   "code": "KLP064",
+   "size": {
+    "en": "Size Ø42",
+    "ru": "Размер Ø42",
+    "ar": "المقاس Ø42",
+    "tr": "Ölçü Ø42"
+   },
+   "rest": {
+    "tr": "Mahya borularını tepe noktasında birleştiren kelepçeler. Kalınlık 2mm. Connection Ø42/48.",
+    "en": "Clamps that connect the arch pipes at the top. Thickness 2mm. Connection Ø42/48."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP065",
+   "size": {
+    "en": "Fits Ø48 pipe",
+    "ru": "Для трубы Ø48",
+    "ar": "يناسب أنبوب Ø48",
+    "tr": "Ø48 boruya uyar"
+   },
+   "rest": {
+    "tr": "Mahya noktasında kemer bağlantı borularını birleştirmek için kullanılan ekonomik üst kelepçe. Kalınlık 2mm, A92mm, B130mm, bağlantı Ø48.",
+    "en": "Economic top clamp used to join arch connection pipes at the peak. Thickness 2mm, A92mm, B130mm, connection Ø48."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

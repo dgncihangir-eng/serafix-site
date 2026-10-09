@@ -1,0 +1,56 @@
+{
+ "slug": "m90-motor-reducer-with-limit-switch",
+ "order": 88,
+ "id": 93,
+ "cat": "mot",
+ "img": "8e696ceb9cad.webp",
+ "codes": [
+  "RED002"
+ ],
+ "name": {
+  "tr": "M90 Limit Switchli Motoredüktör",
+  "en": "M90 Motor Reducer with Limit Switch",
+  "ru": "Мотор-редуктор M90 с концевым выключателем",
+  "ar": "محرك مخفض M90 مع مفتاح حدّ"
+ },
+ "desc": {
+  "tr": "Ø25 mile uyar. Sera havalandırması, sera gölgeleme sistemleri ve hayvan barınağı havalandırmasında kullanılır. 3.6 RPM, 0.75kW, 380V, mil Ø25, ağırlık 28kg.",
+  "en": "Fits Ø25 shaft. Used in greenhouse ventilation, greenhouse shading systems, livestock buildings ventilation. 3.6 RPM, 0.75kW, 380V, shaft Ø25, weight 28kg.",
+  "ru": "Для вала Ø25. Проветривание и затенение теплиц, проветривание животноводческих помещений. 3,6 об/мин, 0,75 кВт, 380 В, вес 28 кг.",
+  "ar": "يناسب عمود Ø25. لتهوية وتظليل البيوت المحمية وتهوية حظائر المواشي. 3.6 دورة/دقيقة، 0.75 كيلوواط، 380 فولت، الوزن 28 كغ."
+ },
+ "vars": [
+  {
+   "code": "RED002",
+   "size": {
+    "en": "Fits Ø25 shaft",
+    "ru": "Для вала Ø25",
+    "ar": "يناسب عمود Ø25",
+    "tr": "Ø25 mile uyar"
+   },
+   "rest": {
+    "tr": "Sera havalandırması, sera gölgeleme sistemleri ve hayvan barınağı havalandırmasında kullanılır. 3.6 RPM, 0.75kW, 380V, mil Ø25, ağırlık 28kg.",
+    "en": "Used in greenhouse ventilation, greenhouse shading systems, livestock buildings ventilation. 3.6 RPM, 0.75kW, 380V, shaft Ø25, weight 28kg."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "8483.40.51.9022"
+ ],
+ "thick": "",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

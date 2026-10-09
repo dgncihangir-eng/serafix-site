@@ -1,0 +1,584 @@
+backend:
+  name: github
+  repo: __REPO__
+  branch: main
+site_url: __SITE__
+display_url: __SITE__
+locale: tr
+media_folder: data/img
+public_folder: /assets/img
+collections:
+- name: products
+  label: Ürünler
+  label_singular: Ürün
+  folder: data/products
+  extension: json
+  format: json
+  create: true
+  delete: true
+  slug: '{{fields.slug}}'
+  identifier_field: slug
+  summary: '{{order}} · {{cat}} · {{slug}}'
+  sortable_fields:
+  - order
+  - slug
+  - cat
+  view_filters:
+  - label: Havalandırma Sistemleri
+    field: cat
+    pattern: hav
+  - label: Gölgeleme Sistemleri
+    field: cat
+    pattern: gol
+  - label: Sera Kelepçeleri
+    field: cat
+    pattern: kel
+  - label: Profil Kelepçeleri
+    field: cat
+    pattern: pro
+  - label: Menteşeler
+    field: cat
+    pattern: men
+  - label: Gutter Aksesuarları (topraksız tarım)
+    field: cat
+    pattern: olu
+  - label: Oluk ve Sera Profilleri
+    field: cat
+    pattern: prf
+  - label: Naylon & Klips
+    field: cat
+    pattern: nay
+  - label: Motor & Redüktörler
+    field: cat
+    pattern: mot
+  - label: Fanlar
+    field: cat
+    pattern: fan
+  fields:
+  - name: slug
+    label: Adres (URL) adı — küçük harf, tire ile (ör. omega-clamp-32)
+    widget: string
+    pattern:
+    - ^[a-z0-9-]+$
+    - Sadece küçük harf, rakam ve tire
+  - name: order
+    label: Sıra
+    widget: number
+    value_type: int
+    default: 999
+  - name: cat
+    label: Kategori
+    widget: select
+    options:
+    - label: Havalandırma Sistemleri
+      value: hav
+    - label: Gölgeleme Sistemleri
+      value: gol
+    - label: Sera Kelepçeleri
+      value: kel
+    - label: Profil Kelepçeleri
+      value: pro
+    - label: Menteşeler
+      value: men
+    - label: Gutter Aksesuarları (topraksız tarım)
+      value: olu
+    - label: Oluk ve Sera Profilleri
+      value: prf
+    - label: Naylon & Klips
+      value: nay
+    - label: Motor & Redüktörler
+      value: mot
+    - label: Fanlar
+      value: fan
+  - name: img
+    label: Ürün görseli (beyaz/şeffaf zemin, en az 1200 px)
+    widget: image
+    choose_url: false
+  - name: codes
+    label: Ürün kodları
+    widget: list
+    field:
+      name: code
+      label: Kod
+      widget: string
+  - name: name
+    label: Ürün adı
+    widget: object
+    collapsed: false
+    fields:
+    - name: tr
+      label: TR
+      widget: string
+      required: true
+    - name: en
+      label: EN
+      widget: string
+      required: true
+    - name: ru
+      label: RU
+      widget: string
+      required: false
+    - name: ar
+      label: AR
+      widget: string
+      required: false
+  - name: desc
+    label: Açıklama
+    widget: object
+    collapsed: false
+    fields:
+    - name: tr
+      label: TR
+      widget: text
+      required: true
+    - name: en
+      label: EN
+      widget: text
+      required: true
+    - name: ru
+      label: RU
+      widget: text
+      required: false
+    - name: ar
+      label: AR
+      widget: text
+      required: false
+  - name: vars
+    label: Ölçüler / varyantlar
+    widget: list
+    summary: '{{fields.code}}'
+    fields:
+    - name: code
+      label: Kod
+      widget: string
+    - name: size
+      label: Ölçü
+      widget: object
+      collapsed: false
+      fields:
+      - name: tr
+        label: TR
+        widget: string
+        required: false
+      - name: en
+        label: EN
+        widget: string
+        required: false
+      - name: ru
+        label: RU
+        widget: string
+        required: false
+      - name: ar
+        label: AR
+        widget: string
+        required: false
+    - name: rest
+      label: Ek açıklama (isteğe bağlı)
+      widget: object
+      collapsed: true
+      fields:
+      - name: tr
+        label: TR
+        widget: string
+        required: false
+      - name: en
+        label: EN
+        widget: string
+        required: false
+    - name: net
+      label: Net ağırlık (kg)
+      widget: string
+      required: false
+  - name: hs
+    label: GTİP / HS kodları
+    widget: list
+    required: false
+    field:
+      name: hs
+      label: HS
+      widget: string
+  - name: thick
+    label: Sac kalınlığı (mm)
+    widget: string
+    required: false
+  - name: net
+    label: Net ağırlık (kg)
+    widget: string
+    required: false
+  - name: material
+    label: Malzeme / kaplama
+    widget: object
+    collapsed: false
+    fields:
+    - name: tr
+      label: TR
+      widget: string
+      required: false
+    - name: en
+      label: EN
+      widget: string
+      required: false
+    - name: ru
+      label: RU
+      widget: string
+      required: false
+    - name: ar
+      label: AR
+      widget: string
+      required: false
+  - name: pack
+    label: Paketleme
+    widget: object
+    collapsed: false
+    fields:
+    - name: tr
+      label: TR
+      widget: string
+      required: false
+    - name: en
+      label: EN
+      widget: string
+      required: false
+    - name: ru
+      label: RU
+      widget: string
+      required: false
+    - name: ar
+      label: AR
+      widget: string
+      required: false
+  - name: moq
+    label: Minimum sipariş
+    widget: string
+    required: false
+  - name: id
+    label: Eski sistem no (değiştirmeyin)
+    widget: hidden
+    required: false
+- name: guides
+  label: Rehber yazıları
+  label_singular: Yazı
+  folder: data/guides
+  extension: json
+  format: json
+  create: true
+  delete: true
+  slug: '{{fields.slug}}'
+  identifier_field: slug
+  summary: '{{order}} · {{slug}}'
+  fields:
+  - name: slug
+    label: Adres (URL) adı
+    widget: string
+    pattern:
+    - ^[a-z0-9-]+$
+    - Sadece küçük harf, rakam ve tire
+  - name: order
+    label: Sıra
+    widget: number
+    value_type: int
+  - name: date
+    label: Tarih
+    widget: datetime
+    format: YYYY-MM-DD
+    time_format: false
+  - name: cats
+    label: İlgili kategoriler
+    widget: select
+    multiple: true
+    options:
+    - label: Havalandırma Sistemleri
+      value: hav
+    - label: Gölgeleme Sistemleri
+      value: gol
+    - label: Sera Kelepçeleri
+      value: kel
+    - label: Profil Kelepçeleri
+      value: pro
+    - label: Menteşeler
+      value: men
+    - label: Gutter Aksesuarları (topraksız tarım)
+      value: olu
+    - label: Oluk ve Sera Profilleri
+      value: prf
+    - label: Naylon & Klips
+      value: nay
+    - label: Motor & Redüktörler
+      value: mot
+    - label: Fanlar
+      value: fan
+  - name: title
+    label: Başlık (en fazla 65 karakter)
+    widget: object
+    collapsed: false
+    fields:
+    - name: tr
+      label: TR
+      widget: string
+      required: true
+    - name: en
+      label: EN
+      widget: string
+      required: true
+    - name: ru
+      label: RU
+      widget: string
+      required: false
+    - name: ar
+      label: AR
+      widget: string
+      required: false
+  - name: desc
+    label: Google açıklaması (140–158 karakter)
+    widget: object
+    collapsed: false
+    fields:
+    - name: tr
+      label: TR
+      widget: text
+      required: true
+    - name: en
+      label: EN
+      widget: text
+      required: true
+    - name: ru
+      label: RU
+      widget: text
+      required: false
+    - name: ar
+      label: AR
+      widget: text
+      required: false
+  - name: summary
+    label: Kısa özet
+    widget: object
+    collapsed: false
+    fields:
+    - name: tr
+      label: TR
+      widget: text
+      required: true
+    - name: en
+      label: EN
+      widget: text
+      required: true
+    - name: ru
+      label: RU
+      widget: text
+      required: false
+    - name: ar
+      label: AR
+      widget: text
+      required: false
+  - name: tag
+    label: Etiket
+    widget: object
+    collapsed: false
+    fields:
+    - name: tr
+      label: TR
+      widget: string
+      required: false
+    - name: en
+      label: EN
+      widget: string
+      required: false
+    - name: ru
+      label: RU
+      widget: string
+      required: false
+    - name: ar
+      label: AR
+      widget: string
+      required: false
+  - name: body
+    label: Yazı (HTML)
+    widget: object
+    collapsed: false
+    fields:
+    - name: tr
+      label: TR
+      widget: text
+      required: true
+    - name: en
+      label: EN
+      widget: text
+      required: true
+    - name: ru
+      label: RU
+      widget: text
+      required: false
+    - name: ar
+      label: AR
+      widget: text
+      required: false
+- name: tooling
+  label: OEM kalıp örnekleri
+  files:
+  - name: tooling
+    label: Kalıp görselleri (OEM sayfası)
+    file: data/tooling.json
+    format: json
+    fields:
+    - name: items
+      label: Kalıplar
+      widget: list
+      root: true
+      summary: '{{fields.title.tr}}'
+      fields:
+      - name: order
+        label: Sıra
+        widget: number
+        value_type: int
+      - name: img
+        label: Görsel
+        widget: image
+        media_folder: /data/img/tooling
+        public_folder: tooling
+      - name: process
+        label: İşlemler
+        widget: select
+        multiple: true
+        options:
+        - label: Progresif kalıp
+          value: progressive
+        - label: Delme
+          value: pierce
+        - label: Kesme
+          value: cut
+        - label: Büküm
+          value: bend
+        - label: Şekillendirme
+          value: form
+        - label: Boru ezme
+          value: flatten
+      - name: title
+        label: Başlık
+        widget: object
+        fields:
+        - name: tr
+          label: TR
+          widget: string
+        - name: en
+          label: EN
+          widget: string
+        - name: ru
+          label: RU
+          widget: string
+        - name: ar
+          label: AR
+          widget: string
+  - name: caps
+    label: Üretim yetkinlikleri fotoğrafları (OEM sayfası, 4 kart sırasıyla)
+    file: data/oem_caps.json
+    format: json
+    fields:
+    - name: images
+      label: Fotoğraflar
+      widget: list
+      field:
+        name: img
+        label: Görsel
+        widget: image
+        media_folder: /data/img/tooling
+        public_folder: tooling
+- name: settings
+  label: Site ayarları
+  files:
+  - name: site
+    label: İletişim, sosyal medya, firma bilgileri
+    file: site.json
+    format: json
+    fields:
+    - name: site_url
+      label: Site adresi
+      widget: string
+    - name: brand
+      label: Marka
+      widget: hidden
+    - name: default_lang
+      label: Varsayılan dil
+      widget: hidden
+    - name: github_repo
+      label: GitHub deposu
+      widget: hidden
+    - name: form_action
+      label: Form adresi (Formspree vb.)
+      widget: string
+      required: false
+    - name: analytics_id
+      label: Google Analytics ölçüm kimliği (G-XXXX)
+      widget: string
+      required: false
+    - name: contact
+      label: İletişim
+      widget: object
+      fields:
+      - name: phone
+        label: Telefon
+        widget: string
+        required: false
+      - name: whatsapp
+        label: WhatsApp (ülke koduyla, ör. +90 5xx)
+        widget: string
+        required: false
+      - name: email
+        label: E-posta
+        widget: string
+        required: false
+      - name: address
+        label: Adres
+        widget: string
+        required: false
+      - name: hours
+        label: Çalışma saatleri
+        widget: string
+        required: false
+    - name: social
+      label: Sosyal medya
+      widget: object
+      fields:
+      - name: linkedin
+        label: Linkedin
+        widget: string
+        required: false
+      - name: youtube
+        label: Youtube
+        widget: string
+        required: false
+      - name: instagram
+        label: Instagram
+        widget: string
+        required: false
+    - name: legal
+      label: Firma (yasal) bilgileri
+      widget: object
+      fields:
+      - name: company
+        label: Ticari unvan
+        widget: string
+        required: false
+      - name: address
+        label: Yasal adres
+        widget: string
+        required: false
+      - name: tax_office
+        label: Vergi dairesi
+        widget: string
+        required: false
+      - name: tax_no
+        label: Vergi no
+        widget: string
+        required: false
+      - name: mersis
+        label: MERSİS no
+        widget: string
+        required: false
+      - name: registry
+        label: Ticaret sicil no
+        widget: string
+        required: false
+      - name: responsible
+        label: Sorumlu kişi
+        widget: string
+        required: false

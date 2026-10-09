@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SERAFIX | Greenhouse Fittings, Clamps &amp; Ventilation Parts</title>
+<meta name="description" content="SERAFIX manufactures greenhouse ventilation, shading, clamp and structure parts in Türkiye. Choose your language: English, Türkçe, Русский, العربية.">
+<link rel="canonical" href="{{SITE}}/">
+<link rel="alternate" hreflang="tr" href="{{SITE}}/tr/">
+<link rel="alternate" hreflang="en" href="{{SITE}}/en/">
+<link rel="alternate" hreflang="ru" href="{{SITE}}/ru/">
+<link rel="alternate" hreflang="ar" href="{{SITE}}/ar/">
+<link rel="alternate" hreflang="x-default" href="{{SITE}}/">
+<link rel="icon" href="/favicon.ico" sizes="48x48">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<meta name="theme-color" content="#0F3B2A">
+<script>
+(function () {
+  var pick = null;
+  try { pick = localStorage.getItem('sf_lang'); } catch (e) {}
+  if (!pick) {
+    var n = (navigator.languages && navigator.languages[0] || navigator.language || 'en').slice(0, 2).toLowerCase();
+    pick = ['tr', 'en', 'ru', 'ar'].indexOf(n) !== -1 ? n : 'en';
+  }
+  location.replace('/' + pick + '/');
+})();
+</script>
+<style>
+body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;background:#0F3B2A;color:#fff;font-family:system-ui,sans-serif}
+main{text-align:center;padding:24px}
+nav{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;margin-top:32px}
+a{color:#fff;border:1.5px solid #7BCB6E;border-radius:999px;padding:12px 22px;text-decoration:none;font-weight:600}
+img{width:300px;max-width:80vw;height:auto}
+</style>
+</head>
+<body>
+<main>
+<img src="/assets/logo/serafix-horizontal-white.svg" alt="SERAFIX" width="300" height="50">
+<p>Greenhouse fittings &amp; accessories · Made in Türkiye</p>
+<nav aria-label="Language">
+<a href="/en/" hreflang="en">English</a>
+<a href="/tr/" hreflang="tr" lang="tr">Türkçe</a>
+<a href="/ru/" hreflang="ru" lang="ru">Русский</a>
+<a href="/ar/" hreflang="ar" lang="ar">العربية</a>
+</nav>
+</main>
+</body>
+</html>

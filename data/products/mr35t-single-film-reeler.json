@@ -1,0 +1,56 @@
+{
+ "slug": "mr35t-single-film-reeler",
+ "order": 91,
+ "id": 100,
+ "cat": "mot",
+ "img": "2140b4159237.webp",
+ "codes": [
+  "RED011"
+ ],
+ "name": {
+  "tr": "MR35T Tekli Naylon Sarma Aparatı",
+  "en": "MR35T Single Film Reeler",
+  "ru": "Одинарный плёнкосворачиватель MR35T",
+  "ar": "لفّافة نايلون مفردة MR35T"
+ },
+ "desc": {
+  "tr": "Ø25 mile uyar. Seralarda yan naylonların açılıp kapanması için manuel redüktör. Çıkış 1/8 RPM, tork 150, mil Ø25, ağırlık 1.4kg.",
+  "en": "Fits Ø25 shaft. Manual gearbox for opening/closing of side nylons in greenhouses. Output 1/8 RPM, torque 150, shaft Ø25, weight 1.4kg.",
+  "ru": "Для вала Ø25. Ручной редуктор для открытия и закрытия боковой плёнки теплицы. Выход 1/8, момент 150, вес 1,4 кг.",
+  "ar": "يناسب عمود Ø25. علبة تروس يدوية لفتح وإغلاق النايلون الجانبي. الخرج 1/8، العزم 150، الوزن 1.4 كغ."
+ },
+ "vars": [
+  {
+   "code": "RED011",
+   "size": {
+    "en": "Fits Ø25 shaft",
+    "ru": "Для вала Ø25",
+    "ar": "يناسب عمود Ø25",
+    "tr": "Ø25 mile uyar"
+   },
+   "rest": {
+    "tr": "Seralarda yan naylonların açılıp kapanması için manuel redüktör. Çıkış 1/8 RPM, tork 150, mil Ø25, ağırlık 1.4kg.",
+    "en": "Manual gearbox for opening/closing of side nylons in greenhouses. Output 1/8 RPM, torque 150, shaft Ø25, weight 1.4kg."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "8483.40.51.9022"
+ ],
+ "thick": "",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

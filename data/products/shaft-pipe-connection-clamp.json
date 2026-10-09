@@ -1,0 +1,71 @@
+{
+ "slug": "shaft-pipe-connection-clamp",
+ "order": 60,
+ "id": 46,
+ "cat": "kel",
+ "img": "94fe646f1ac5.webp",
+ "codes": [
+  "KLP070",
+  "KLP071"
+ ],
+ "name": {
+  "tr": "Şaft Borusu Bağlantı Kelepçesi",
+  "en": "Shaft Pipe Connection Clamp",
+  "ru": "Хомут соединения вала",
+  "ar": "مشبك وصلة أنبوب العمود الدوار"
+ },
+ "desc": {
+  "tr": "34' galvanizli şaft borularını birleştirmek için kullanılır. Kalınlık 2.5/3mm.",
+  "en": "Used for joining 34' galvanized shaft pipes. Thickness 2.5/3mm.",
+  "ru": "Для соединения оцинкованных валов 34'. Толщина 2,5/3 мм.",
+  "ar": "لوصل أنابيب الأعمدة الدوارة المجلفنة 34'. السماكة 2.5/3 مم."
+ },
+ "vars": [
+  {
+   "code": "KLP070",
+   "size": {
+    "en": "Fits Ø34 shaft pipe",
+    "ru": "Для трубы Ø34 shaft",
+    "ar": "يناسب أنبوب Ø34 shaft",
+    "tr": "Ø34 mil borusuna uyar"
+   },
+   "rest": {
+    "tr": "34' galvanizli şaft borularını birleştirmek için kullanılır. Kalınlık 2.5/3mm.",
+    "en": "Used for joining 34' galvanized shaft pipes. Thickness 2.5/3mm."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP071",
+   "size": {
+    "en": "Fits Ø34 pipe",
+    "ru": "Для трубы Ø34",
+    "ar": "يناسب أنبوب Ø34",
+    "tr": "Ø34 boruya uyar"
+   },
+   "rest": {
+    "tr": "34' galvanizli şaft borularını birleştirmek için kullanılır. Kalınlık 2.5mm, A34mm, B150mm, bağlantı Ø34.",
+    "en": "Used for joining 34' galvanized shaft pipes. Thickness 2.5mm, A34mm, B150mm, connection Ø34."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2.5–3",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

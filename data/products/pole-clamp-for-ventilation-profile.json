@@ -1,0 +1,86 @@
+{
+ "slug": "pole-clamp-for-ventilation-profile",
+ "order": 64,
+ "id": 56,
+ "cat": "pro",
+ "img": "6b12a2cb61ef.webp",
+ "codes": [
+  "KLP114",
+  "KLP115",
+  "KLP116"
+ ],
+ "name": {
+  "tr": "Havalandırma Profili için Direk Kelepçesi",
+  "en": "Pole Clamp for Ventilation Profile",
+  "ru": "Стоечный хомут для профиля проветривания",
+  "ar": "مشبك عمود لبروفيل التهوية"
+ },
+ "desc": {
+  "tr": "Üst havalandırma pencerelerinde uç kelepçesi olarak kullanılır,30X40 borular and profiller. Kalınlık 2mm.",
+  "en": "Used as end clamp in overhead ventilation windows,30X40 pipes and profiles. Thickness 2mm.",
+  "ru": "Концевой хомут для верхних форточек, трубы и профили 30x40. Толщина 2 мм.",
+  "ar": "مشبك طرفي لنوافذ التهوية العلوية، أنابيب وبروفيلات 30x40. السماكة 2 مم."
+ },
+ "vars": [
+  {
+   "code": "KLP114",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "Üst havalandırma pencerelerinde uç kelepçesi olarak kullanılır,30X40 borular and profiller. Kalınlık 2mm.",
+    "en": "Used as end clamp in overhead ventilation windows,30X40 pipes and profiles. Thickness 2mm."
+   },
+   "net": "0.125"
+  },
+  {
+   "code": "KLP115",
+   "size": {
+    "en": "Fits 30x50 profile",
+    "ru": "Для профиля 30x50",
+    "ar": "يناسب بروفيل 30x50",
+    "tr": "30x50 profil uyar"
+   },
+   "rest": {
+    "tr": "Üst havalandırma pencerelerinde, borularda ve profillerde uç kelepçesi olarak kullanılır. Kalınlık 2mm, A24mm, B20mm, bağlantı 30x50.",
+    "en": "Used as end clamp in over-head ventilation windows, pipes and profiles. Thickness 2mm, A24mm, B20mm, connection 30x50."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP116",
+   "size": {
+    "en": "Fits 35x35 profile",
+    "ru": "Для профиля 35x35",
+    "ar": "يناسب بروفيل 35x35",
+    "tr": "35x35 profil uyar"
+   },
+   "rest": {
+    "tr": "Üst havalandırma pencerelerinde, borularda ve profillerde uç kelepçesi olarak kullanılır. Kalınlık 2mm, A24mm, B20mm, bağlantı 35x35.",
+    "en": "Used as end clamp in over-head ventilation windows, pipes and profiles. Thickness 2mm, A24mm, B20mm, connection 35x35."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "0.125",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

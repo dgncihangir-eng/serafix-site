@@ -1,0 +1,56 @@
+{
+ "slug": "shading-screen-pulley",
+ "order": 20,
+ "id": 68,
+ "cat": "gol",
+ "img": "a68514d21e52.webp",
+ "codes": [
+  "KLP136"
+ ],
+ "name": {
+  "tr": "Gölgeleme Perdesi Makarası",
+  "en": "Shading Screen Pulley",
+  "ru": "Шкив затеняющего экрана",
+  "ar": "بكرة ستارة التظليل"
+ },
+ "desc": {
+  "tr": "Gölgeleme perdesi askı kelepçesi sisteminde kullanılan makara.",
+  "en": "Pulley used in the shading screen hanger clamp system.",
+  "ru": "Шкив для системы подвесных хомутов затеняющего экрана.",
+  "ar": "بكرة تُستخدم في نظام مشابك تعليق ستارة التظليل."
+ },
+ "vars": [
+  {
+   "code": "KLP136",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "Gölgeleme perdesi askı kelepçesi sisteminde kullanılan makara.",
+    "en": "Pulley used in the shading screen hanger clamp system."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "3926.90.37.9029"
+ ],
+ "thick": "",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

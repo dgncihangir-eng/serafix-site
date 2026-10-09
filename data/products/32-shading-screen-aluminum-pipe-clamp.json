@@ -1,0 +1,56 @@
+{
+ "slug": "32-shading-screen-aluminum-pipe-clamp",
+ "order": 31,
+ "id": 25,
+ "cat": "gol",
+ "img": "8aabc4feb8d5.webp",
+ "codes": [
+  "ISI024"
+ ],
+ "name": {
+  "tr": "Ø32 Gölgeleme Perdesi Alüminyum Boru Kelepçesi",
+  "en": "Ø32 Shading Screen Aluminum Pipe Clamp",
+  "ru": "Алюминиевый трубный хомут затеняющего экрана Ø32",
+  "ar": "مشبك أنبوب ألومنيوم Ø32 لستارة التظليل"
+ },
+ "desc": {
+  "tr": "Gölgeleme perdesi sistemi için alüminyum boru kelepçesi/aparatı.",
+  "en": "Aluminum pipe clamp/attachment for the shading screen system.",
+  "ru": "Алюминиевый трубный хомут для системы затеняющего экрана.",
+  "ar": "مشبك أنبوب ألومنيوم لنظام ستارة التظليل."
+ },
+ "vars": [
+  {
+   "code": "ISI024",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "Gölgeleme perdesi sistemi için alüminyum boru kelepçesi/aparatı.",
+    "en": "Aluminum pipe clamp/attachment for the shading screen system."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

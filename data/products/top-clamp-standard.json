@@ -1,0 +1,116 @@
+{
+ "slug": "top-clamp-standard",
+ "order": 58,
+ "id": 43,
+ "cat": "kel",
+ "img": "d4df0e9b7e13.webp",
+ "codes": [
+  "KLP059",
+  "KLP060",
+  "KLP061",
+  "KLP062",
+  "KLP063"
+ ],
+ "name": {
+  "tr": "Üst Kelepçe Standart",
+  "en": "Top Clamp Standard",
+  "ru": "Верхний хомут Standard",
+  "ar": "مشبك علوي Standard"
+ },
+ "desc": {
+  "tr": "Mahya borularını tepe noktasında birleştiren kelepçeler. Kalınlık 2mm. Birden fazla ölçü seçeneği: Ø34/42/48/60/50-60.",
+  "en": "Clamps that connect the arch pipes at the top. Thickness 2mm. Multiple size variants: Ø34/42/48/60/50-60.",
+  "ru": "Хомуты, соединяющие арочные трубы сверху. Толщина 2 мм. Размеры Ø34/42/48/60/50-60.",
+  "ar": "مشابك تربط أنابيب الأقواس من الأعلى. السماكة 2 مم. المقاسات Ø34/42/48/60/50-60."
+ },
+ "vars": [
+  {
+   "code": "KLP059",
+   "size": {
+    "en": "Size Ø34",
+    "ru": "Размер Ø34",
+    "ar": "المقاس Ø34",
+    "tr": "Ölçü Ø34"
+   },
+   "rest": {
+    "tr": "Mahya borularını tepe noktasında birleştiren kelepçeler. Kalınlık 2mm. Birden fazla ölçü seçeneği: Ø34/42/48/60/50-60.",
+    "en": "Clamps that connect the arch pipes at the top. Thickness 2mm. Multiple size variants: Ø34/42/48/60/50-60."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP060",
+   "size": {
+    "en": "Fits Ø42 pipe",
+    "ru": "Для трубы Ø42",
+    "ar": "يناسب أنبوب Ø42",
+    "tr": "Ø42 boruya uyar"
+   },
+   "rest": {
+    "tr": "Mahya noktasında kemer bağlantı borularını birleştirmek için kullanılan standart üst kelepçe. Kalınlık 2mm, A111mm, B183mm, bağlantı Ø 42.",
+    "en": "Standard top clamp used to join arch connection pipes at the peak. Thickness 2mm, A111mm, B183mm, connection Ø 42."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP061",
+   "size": {
+    "en": "Fits Ø48 pipe",
+    "ru": "Для трубы Ø48",
+    "ar": "يناسب أنبوب Ø48",
+    "tr": "Ø48 boruya uyar"
+   },
+   "rest": {
+    "tr": "Mahya noktasında kemer bağlantı borularını birleştirmek için kullanılan standart üst kelepçe. Kalınlık 2mm, A111mm, B183mm, bağlantı Ø 48.",
+    "en": "Standard top clamp used to join arch connection pipes at the peak. Thickness 2mm, A111mm, B183mm, connection Ø 48."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP062",
+   "size": {
+    "en": "Fits Ø60 pipe",
+    "ru": "Для трубы Ø60",
+    "ar": "يناسب أنبوب Ø60",
+    "tr": "Ø60 boruya uyar"
+   },
+   "rest": {
+    "tr": "Mahya noktasında kemer bağlantı borularını birleştirmek için kullanılan standart üst kelepçe. Kalınlık 2mm, A111mm, B183mm, bağlantı Ø 60.",
+    "en": "Standard top clamp used to join arch connection pipes at the peak. Thickness 2mm, A111mm, B183mm, connection Ø 60."
+   },
+   "net": "0.70"
+  },
+  {
+   "code": "KLP063",
+   "size": {
+    "en": "Fits Ø50-60 pipe",
+    "ru": "Для трубы Ø50-60",
+    "ar": "يناسب أنبوب Ø50-60",
+    "tr": "Ø50-60 boruya uyar"
+   },
+   "rest": {
+    "tr": "Mahya noktasında kemer bağlantı borularını birleştirmek için kullanılan standart üst kelepçe. Kalınlık 2mm, A111mm, B183mm, bağlantı Ø 50-60.",
+    "en": "Standard top clamp used to join arch connection pipes at the peak. Thickness 2mm, A111mm, B183mm, connection Ø 50-60."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "0.7",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

@@ -1,0 +1,30 @@
+{
+  "site_url": "https://dgncihangir-eng.github.io/serafix-site",
+  "brand": "SERAFIX",
+  "default_lang": "en",
+  "form_action": "",
+  "contact": {
+    "phone": "",
+    "whatsapp": "",
+    "email": "",
+    "address": "",
+    "hours": ""
+  },
+  "social": {
+    "linkedin": "",
+    "youtube": "",
+    "instagram": ""
+  },
+  "analytics_id": "",
+  "legal": {
+    "company": "",
+    "address": "",
+    "tax_office": "",
+    "tax_no": "",
+    "mersis": "",
+    "registry": "",
+    "responsible": ""
+  },
+  "github_repo": "dgncihangir-eng/serafix-site",
+  "indexing": false
+}

@@ -1,0 +1,131 @@
+{
+ "slug": "half-round-clamp",
+ "order": 56,
+ "id": 47,
+ "cat": "kel",
+ "img": "5f28c625b852.webp",
+ "codes": [
+  "KLP072",
+  "KLP073",
+  "KLP074",
+  "KLP075",
+  "KLP076",
+  "KLP077"
+ ],
+ "name": {
+  "tr": "Yarım Yuvarlak Kelepçe",
+  "en": "Half Round Clamp",
+  "ru": "Полукруглый хомут",
+  "ar": "مشبك نصف دائري"
+ },
+ "desc": {
+  "tr": "Seralar için çelik konstrüksiyon bağlantı kelepçesi. Kalınlık 2mm. Birden fazla ölçü seçeneği: Ø27/34/42/48/60/76.",
+  "en": "Steel construction connection clamp for greenhouses. Thickness 2mm. Multiple size variants: Ø27/34/42/48/60/76.",
+  "ru": "Стальной соединительный хомут для теплиц. Толщина 2 мм. Размеры Ø27/34/42/48/60/76.",
+  "ar": "مشبك وصل فولاذي للبيوت المحمية. السماكة 2 مم. المقاسات Ø27/34/42/48/60/76."
+ },
+ "vars": [
+  {
+   "code": "KLP072",
+   "size": {
+    "en": "Size Ø27",
+    "ru": "Размер Ø27",
+    "ar": "المقاس Ø27",
+    "tr": "Ölçü Ø27"
+   },
+   "rest": {
+    "tr": "Seralar için çelik konstrüksiyon bağlantı kelepçesi. Kalınlık 2mm. Birden fazla ölçü seçeneği: Ø27/34/42/48/60/76.",
+    "en": "Steel construction connection clamp for greenhouses. Thickness 2mm. Multiple size variants: Ø27/34/42/48/60/76."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP073",
+   "size": {
+    "en": "Fits Ø34 pipe",
+    "ru": "Для трубы Ø34",
+    "ar": "يناسب أنبوب Ø34",
+    "tr": "Ø34 boruya uyar"
+   },
+   "rest": {
+    "tr": "Seralarda çelik konstrüksiyon bağlantı kelepçesi olarak kullanılan yarım yuvarlak kelepçe. Kalınlık 2mm, A15mm, bağlantı Ø 34.",
+    "en": "Half round clamp used as steel construction connection clamp in greenhouses. Thickness 2mm, A15mm, connection Ø 34."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP074",
+   "size": {
+    "en": "Fits Ø42 pipe",
+    "ru": "Для трубы Ø42",
+    "ar": "يناسب أنبوب Ø42",
+    "tr": "Ø42 boruya uyar"
+   },
+   "rest": {
+    "tr": "Seralarda çelik konstrüksiyon bağlantı kelepçesi olarak kullanılan yarım yuvarlak kelepçe. Kalınlık 2mm, A20mm, bağlantı Ø 42.",
+    "en": "Half round clamp used as steel construction connection clamp in greenhouses. Thickness 2mm, A20mm, connection Ø 42."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP075",
+   "size": {
+    "en": "Fits Ø48 pipe",
+    "ru": "Для трубы Ø48",
+    "ar": "يناسب أنبوب Ø48",
+    "tr": "Ø48 boruya uyar"
+   },
+   "rest": {
+    "tr": "Seralarda çelik konstrüksiyon bağlantı kelepçesi olarak kullanılan yarım yuvarlak kelepçe. Kalınlık 2mm, A23mm, bağlantı Ø 48.",
+    "en": "Half round clamp used as steel construction connection clamp in greenhouses. Thickness 2mm, A23mm, connection Ø 48."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP076",
+   "size": {
+    "en": "Fits Ø60 pipe",
+    "ru": "Для трубы Ø60",
+    "ar": "يناسب أنبوب Ø60",
+    "tr": "Ø60 boruya uyar"
+   },
+   "rest": {
+    "tr": "Seralarda çelik konstrüksiyon bağlantı kelepçesi olarak kullanılan yarım yuvarlak kelepçe. Kalınlık 2mm, A29mm, bağlantı Ø 60.",
+    "en": "Half round clamp used as steel construction connection clamp in greenhouses. Thickness 2mm, A29mm, connection Ø 60."
+   },
+   "net": ""
+  },
+  {
+   "code": "KLP077",
+   "size": {
+    "en": "Fits Ø76 pipe",
+    "ru": "Для трубы Ø76",
+    "ar": "يناسب أنبوب Ø76",
+    "tr": "Ø76 boruya uyar"
+   },
+   "rest": {
+    "tr": "Seralarda çelik konstrüksiyon bağlantı kelepçesi olarak kullanılan yarım yuvarlak kelepçe. Kalınlık 2mm, A36mm, bağlantı Ø 76.",
+    "en": "Half round clamp used as steel construction connection clamp in greenhouses. Thickness 2mm, A36mm, connection Ø 76."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

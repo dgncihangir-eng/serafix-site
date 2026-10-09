@@ -1,0 +1,56 @@
+{
+ "slug": "ysr02-motor-gearbox-for-roll-up-side",
+ "order": 97,
+ "id": 96,
+ "cat": "mot",
+ "img": "fc538e8756ba.webp",
+ "codes": [
+  "RED007"
+ ],
+ "name": {
+  "tr": "YSR02 Yan Sarma Motor Redüktörü",
+  "en": "YSR02 Motor Gearbox for Roll-up Side",
+  "ru": "Мотор-редуктор YSR02 для бокового сворачивания",
+  "ar": "محرك مخفض YSR02 للّف الجانبي"
+ },
+ "desc": {
+  "tr": "Seralarda, hayvan barınaklarında ve ürün depolama tesisi yan havalandırmasında kullanılan limitli kontrol motoredüktörü. 18-23-28-33-35 RPM, 0.37kW, 380V.",
+  "en": "Control limited motor reducer used in greenhouses, livestock buildings and product storage facility side ventilation. 18-23-28-33-35 RPM, 0.37kW, 380V.",
+  "ru": "Мотор-редуктор с ограничением хода для бокового проветривания теплиц, ферм и складов. 18–35 об/мин, 0,37 кВт, 380 В.",
+  "ar": "محرك مخفض بتحكم في الحدود للتهوية الجانبية في البيوت المحمية والحظائر والمستودعات. 18–35 دورة/دقيقة، 0.37 كيلوواط، 380 فولت."
+ },
+ "vars": [
+  {
+   "code": "RED007",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "Seralarda, hayvan barınaklarında ve ürün depolama tesisi yan havalandırmasında kullanılan limitli kontrol motoredüktörü. 18-23-28-33-35 RPM, 0.37kW, 380V.",
+    "en": "Control limited motor reducer used in greenhouses, livestock buildings and product storage facility side ventilation. 18-23-28-33-35 RPM, 0.37kW, 380V."
+   },
+   "net": "15.5"
+  }
+ ],
+ "hs": [
+  "8483.40.51.9022"
+ ],
+ "thick": "",
+ "net": "15.5",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

@@ -1,0 +1,116 @@
+{
+ "slug": "cc-series-modern-double-rack",
+ "order": 5,
+ "id": 8,
+ "cat": "hav",
+ "img": "341df754948b.webp",
+ "codes": [
+  "HAV002",
+  "HAV003",
+  "HAV004",
+  "HAV005",
+  "HAV006"
+ ],
+ "name": {
+  "tr": "CC Serisi Modern Çift Kremayer",
+  "en": "CC Series Modern Double Rack",
+  "ru": "Двойная рейка CC Modern",
+  "ar": "جريدة مسننة مزدوجة CC Modern"
+ },
+ "desc": {
+  "tr": "Motorlu veya motorsuz redüktörlerle birlikte sera havalandırmasında kullanılan modern çift kremayer. Kalınlık 2.5mm. Uzunluk: 1000mm.",
+  "en": "Modern double rack, used together with motorized or non-motorized reducers for greenhouse ventilation. Thickness 2.5mm. Length: 1000mm.",
+  "ru": "Современная двойная рейка для проветривания теплиц, используется с моторными или ручными редукторами. Толщина 2,5 мм. Длина 1000 мм.",
+  "ar": "جريدة مسننة مزدوجة حديثة لتهوية البيوت المحمية، تُستخدم مع مخفضات يدوية أو آلية. السماكة 2.5 مم. الطول 1000 مم."
+ },
+ "vars": [
+  {
+   "code": "HAV002",
+   "size": {
+    "en": "Length 1000mm",
+    "ru": "Длина 1000mm",
+    "ar": "الطول 1000mm",
+    "tr": "Uzunluk 1000mm"
+   },
+   "rest": {
+    "tr": "Motorlu veya motorsuz redüktörlerle birlikte sera havalandırmasında kullanılan modern çift kremayer. Kalınlık 2.5mm. Uzunluk: 1000mm.",
+    "en": "Modern double rack, used together with motorized or non-motorized reducers for greenhouse ventilation. Thickness 2.5mm. Length: 1000mm."
+   },
+   "net": ""
+  },
+  {
+   "code": "HAV003",
+   "size": {
+    "en": "Length 1200mm",
+    "ru": "Длина 1200mm",
+    "ar": "الطول 1200mm",
+    "tr": "Uzunluk 1200mm"
+   },
+   "rest": {
+    "tr": "Motorlu veya motorsuz redüktörlerle birlikte sera havalandırmasında kullanılan modern çift kremayer. Kalınlık 2.5mm. Uzunluk: 1200mm.",
+    "en": "Modern double rack, used together with motorized or non-motorized reducers for greenhouse ventilation. Thickness 2.5mm. Length: 1200mm."
+   },
+   "net": "1.55"
+  },
+  {
+   "code": "HAV004",
+   "size": {
+    "en": "Length 1500mm",
+    "ru": "Длина 1500mm",
+    "ar": "الطول 1500mm",
+    "tr": "Uzunluk 1500mm"
+   },
+   "rest": {
+    "tr": "Motorlu veya motorsuz redüktörlerle birlikte sera havalandırmasında kullanılan modern çift kremayer. Kalınlık 2.5mm. Uzunluk: 1500mm.",
+    "en": "Modern double rack, used together with motorized or non-motorized reducers for greenhouse ventilation. Thickness 2.5mm. Length: 1500mm."
+   },
+   "net": "1.85"
+  },
+  {
+   "code": "HAV005",
+   "size": {
+    "en": "Length 1800mm",
+    "ru": "Длина 1800mm",
+    "ar": "الطول 1800mm",
+    "tr": "Uzunluk 1800mm"
+   },
+   "rest": {
+    "tr": "Motorlu veya motorsuz redüktörlerle birlikte sera havalandırmasında kullanılan modern çift kremayer. Kalınlık 2.5mm. Uzunluk: 1800mm.",
+    "en": "Modern double rack, used together with motorized or non-motorized reducers for greenhouse ventilation. Thickness 2.5mm. Length: 1800mm."
+   },
+   "net": ""
+  },
+  {
+   "code": "HAV006",
+   "size": {
+    "en": "Length 2000mm",
+    "ru": "Длина 2000mm",
+    "ar": "الطول 2000mm",
+    "tr": "Uzunluk 2000mm"
+   },
+   "rest": {
+    "tr": "Motorlu veya motorsuz redüktörlerle birlikte sera havalandırmasında kullanılan modern çift kremayer. Kalınlık 2.5mm. Uzunluk: 2000mm.",
+    "en": "Modern double rack, used together with motorized or non-motorized reducers for greenhouse ventilation. Thickness 2.5mm. Length: 2000mm."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "2.5",
+ "net": "1.55–1.85",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

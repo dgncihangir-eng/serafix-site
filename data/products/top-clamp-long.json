@@ -1,0 +1,71 @@
+{
+ "slug": "top-clamp-long",
+ "order": 59,
+ "id": 42,
+ "cat": "kel",
+ "img": "78d3a25184e5.webp",
+ "codes": [
+  "KLP057",
+  "KLP058"
+ ],
+ "name": {
+  "tr": "Üst Kelepçe Uzun",
+  "en": "Top Clamp Long",
+  "ru": "Верхний хомут длинный",
+  "ar": "مشبك علوي طويل"
+ },
+ "desc": {
+  "tr": "Mahya borularını tepe noktasında birleştiren kelepçeler. Kalınlık 3mm. Connection Ø60 / Ø50-60.",
+  "en": "Clamps that connect the arch pipes at the top. Thickness 3mm. Connection Ø60 / Ø50-60.",
+  "ru": "Хомуты, соединяющие арочные трубы сверху. Толщина 3 мм. Соединение Ø60 / Ø50-60.",
+  "ar": "مشابك تربط أنابيب الأقواس من الأعلى. السماكة 3 مم. الوصل Ø60 / Ø50-60."
+ },
+ "vars": [
+  {
+   "code": "KLP057",
+   "size": {
+    "en": "Size Ø60",
+    "ru": "Размер Ø60",
+    "ar": "المقاس Ø60",
+    "tr": "Ölçü Ø60"
+   },
+   "rest": {
+    "tr": "Mahya borularını tepe noktasında birleştiren kelepçeler. Kalınlık 3mm. Connection Ø60 / Ø50-60.",
+    "en": "Clamps that connect the arch pipes at the top. Thickness 3mm. Connection Ø60 / Ø50-60."
+   },
+   "net": "1.20"
+  },
+  {
+   "code": "KLP058",
+   "size": {
+    "en": "Fits Ø50-60 pipe",
+    "ru": "Для трубы Ø50-60",
+    "ar": "يناسب أنبوب Ø50-60",
+    "tr": "Ø50-60 boruya uyar"
+   },
+   "rest": {
+    "tr": "Mahya noktasında kemer bağlantı borularını birleştirmek için kullanılan uzun üst kelepçe, ekonomik versiyon. Kalınlık 3mm, A265mm, B115mm, bağlantı Ø50-60.",
+    "en": "Long top clamp used to join arch connection pipes at the peak, economic version. Thickness 3mm, A265mm, B115mm, connection Ø50-60."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "7308.90.98.0018"
+ ],
+ "thick": "3",
+ "net": "1.2",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

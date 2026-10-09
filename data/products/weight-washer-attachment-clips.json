@@ -1,0 +1,56 @@
+{
+ "slug": "weight-washer-attachment-clips",
+ "order": 12,
+ "id": 27,
+ "cat": "gol",
+ "img": "3957f3e3f518.webp",
+ "codes": [
+  "ISI031"
+ ],
+ "name": {
+  "tr": "Ağırlık Pulu Bağlantı Klipsi",
+  "en": "Weight Washer Attachment Clips",
+  "ru": "Клипсы для крепления грузовой шайбы",
+  "ar": "مشابك تثبيت حلقة الثقل"
+ },
+ "desc": {
+  "tr": "Ağırlık pulunu gölgeleme perdesine tutturmak için kullanılan klipsler.",
+  "en": "Clips used to attach the weight washer to the shading screen curtain.",
+  "ru": "Клипсы для крепления грузовой шайбы к полотну затеняющего экрана.",
+  "ar": "مشابك لتثبيت حلقة الثقل على قماش ستارة التظليل."
+ },
+ "vars": [
+  {
+   "code": "ISI031",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "Ağırlık pulunu gölgeleme perdesine tutturmak için kullanılan klipsler.",
+    "en": "Clips used to attach the weight washer to the shading screen curtain."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "3926.90.37.9029"
+ ],
+ "thick": "",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}

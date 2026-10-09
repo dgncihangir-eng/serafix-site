@@ -1,0 +1,56 @@
+{
+ "slug": "shading-screen-end-retaining-ring",
+ "order": 23,
+ "id": 30,
+ "cat": "gol",
+ "img": "75c378d0fa26.webp",
+ "codes": [
+  "ISI035"
+ ],
+ "name": {
+  "tr": "Gölgeleme Perdesi Uç Tutma Halkası",
+  "en": "Shading Screen End Retaining Ring",
+  "ru": "Концевое фиксирующее кольцо затеняющего экрана",
+  "ar": "حلقة تثبيت طرفية لستارة التظليل"
+ },
+ "desc": {
+  "tr": "Termal perde uç tutma halkası.",
+  "en": "Thermal curtain end retaining ring.",
+  "ru": "Концевое фиксирующее кольцо термоэкрана.",
+  "ar": "حلقة تثبيت طرفية للستارة الحرارية."
+ },
+ "vars": [
+  {
+   "code": "ISI035",
+   "size": {
+    "tr": "",
+    "en": "",
+    "ru": "",
+    "ar": ""
+   },
+   "rest": {
+    "tr": "Termal perde uç tutma halkası.",
+    "en": "Thermal curtain end retaining ring."
+   },
+   "net": ""
+  }
+ ],
+ "hs": [
+  "3926.90.37.9029"
+ ],
+ "thick": "",
+ "net": "",
+ "material": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "pack": {
+  "tr": "",
+  "en": "",
+  "ru": "",
+  "ar": ""
+ },
+ "moq": ""
+}
