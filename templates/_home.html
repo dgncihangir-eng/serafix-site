@@ -15,7 +15,7 @@
 <div class="hs" data-hs aria-roledescription="carousel" aria-label="{{ t.ourProducts }}" style="position: relative; width: 86%; max-width: 480px; display: flex; flex-direction: column; gap: 14px">
 <div style="position: relative; aspect-ratio: 1 / 1; background: #F3F7F4; border-radius: 4px; overflow: hidden">
 {% for p in heroSlides %}<a href="{{ p.url }}" class="bl hs-slide" data-i="{{ loop.index0 }}"{% if not loop.first %} hidden{% endif %} aria-label="{{ p.name }}" style="position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; padding: 34px">
-<img src="{{ p.img }}" alt="{{ p.alt }}" width="420" height="420" {% if loop.first %}fetchpriority="high"{% else %}loading="lazy"{% endif %} decoding="async" style="max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain">
+<img src="{{ p.img }}" class="pimg" alt="{{ p.alt }}" width="420" height="420" {% if loop.first %}fetchpriority="high"{% else %}loading="lazy"{% endif %} decoding="async" style="max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain">
 </a>{% endfor %}
 </div>
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px; color: #FFFFFF">
