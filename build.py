@@ -435,7 +435,7 @@ def main():
     # admin panel config
     os.makedirs(os.path.join(DIST, "admin"), exist_ok=True)
     adm = open(os.path.join(ROOT, "templates", "admin_config.yml"), encoding="utf-8").read()
-    adm = adm.replace("__REPO__", CFG.get("github_repo", "OWNER/serafix-site")).replace("__SITE__", SITE).replace("public_folder: /assets/img", f"public_folder: {BASE}/assets/img")
+    adm = adm.replace("__REPO__", CFG.get("github_repo", "OWNER/serafix-site")).replace("__SITE__", SITE)
     open(os.path.join(DIST, "admin", "config.yml"), "w", encoding="utf-8").write(adm)
     # root language chooser (x-default)
     root = open(os.path.join(ROOT, "templates", "root.html"), encoding="utf-8").read().replace("{{SITE}}", SITE)
