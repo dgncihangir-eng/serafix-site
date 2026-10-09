@@ -36,6 +36,7 @@ CSS = """
 body{margin:0;font-family:Inter,'Noto Sans Arabic','Noto Naskh Arabic','DejaVu Sans',sans-serif;color:#11261C;font-size:10pt;-webkit-print-color-adjust:exact;print-color-adjust:exact}
 .page{width:210mm;min-height:297mm;padding:16mm 15mm 22mm;position:relative;page-break-after:always}
 .page:last-child{page-break-after:auto}
+.cp{height:297mm;overflow:hidden}
 .hd{display:flex;justify-content:space-between;align-items:center;border-bottom:2px solid #0F3B2A;padding-bottom:5mm;margin-bottom:7mm}
 .hd svg{width:46mm;height:auto}
 .hd .k{font-size:8.5pt;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#1F7A47}
@@ -63,7 +64,7 @@ h2{font-size:12pt;margin:7mm 0 3mm;color:#0F3B2A}
 .sect{background:#F3F7F4;border-inline-start:4px solid #1F7A47;padding:5mm 6mm;margin:0 0 6mm}
 .sect h2{margin:0 0 1mm;font-size:16pt}.sect p{margin:0;color:#5B6660;font-size:9.5pt;line-height:1.5}
 .grid{display:grid;grid-template-columns:1fr 1fr;gap:5mm}
-.card{border:1px solid #E3E8E4;padding:4mm;display:flex;gap:4mm;height:52mm;overflow:hidden}
+.card{border:1px solid #E3E8E4;padding:4mm;display:flex;gap:4mm;height:47mm;overflow:hidden}
 .card .ci{flex:0 0 30mm;height:30mm;display:flex;align-items:center;justify-content:center}
 .card .ci img{max-width:100%;max-height:100%;object-fit:contain}
 .card b{display:block;font-size:9.5pt;line-height:1.3;margin-bottom:1.5mm}
@@ -134,12 +135,12 @@ def catalogue(products, L, t, cats, cat_slug, cfg, site, intro, only_cat=None):
     sel = [c for c in cats if only_cat in (None, c) and any(p["cat"] == c for p in products)]
     pages = []
     title = T[L]["cat"] if not only_cat else t["cat"][only_cat]
-    cover = f'''<div class="page cover"><div>{LOGO_W}</div><div><h1>{esc(title)}</h1><p>{esc(T[L]["edition"])} · {esc(T[L]["made"])}</p>
-<div class="dr">{esc(T[L]["draft"])}</div></div><p dir="ltr">{esc(site.replace("https://", ""))}</p></div>'''
+    cover = f'''<div class="page cp cover"><div>{LOGO_W}</div><div><h1>{esc(title)}</h1><p>{esc(T[L]["edition"])} · {esc(T[L]["made"])}</p>
+</div><p dir="ltr">{esc(site.replace("https://", ""))}</p></div>'''
     pages.append(cover)
     if not only_cat:
         toc = "".join(f'<div><span>{esc(t["cat"][c])}</span><span>{sum(1 for p in products if p["cat"] == c)} {esc(T[L]["products"])}</span></div>' for c in sel)
-        pages.append(f'<div class="page"><div class="hd">{LOGO}<span class="k">{esc(T[L]["cat"])}</span></div><h1 style="margin-bottom:6mm">{esc(T[L]["contents"])}</h1><div class="toc">{toc}</div>{footer(L, cfg, site, "/" + L + "/products/")}</div>')
+        pages.append(f'<div class="page cp"><div class="hd">{LOGO}<span class="k">{esc(T[L]["cat"])}</span></div><h1 style="margin-bottom:6mm">{esc(T[L]["contents"])}</h1><div class="toc">{toc}</div>{footer(L, cfg, site, "/" + L + "/products/")}</div>')
     for c in sel:
         items = [p for p in products if p["cat"] == c]
         chunks, i, first = [], 0, True
@@ -150,7 +151,7 @@ def catalogue(products, L, t, cats, cat_slug, cfg, site, intro, only_cat=None):
             cards = "".join(f'''<div class="card"><div class="ci"><img src="{img_src(p)}"></div><div style="min-width:0"><b>{esc(p["name"][L])}</b>
 <span class="cc">{esc(", ".join(p["codes"][:6]) + (" …" if len(p["codes"]) > 6 else ""))}</span><small>{esc(p["desc"][L][:150])}</small></div></div>''' for p in chunk)
             sect = f'<div class="sect"><h2>{esc(t["cat"][c])}</h2><p>{esc(intro[c])}</p></div>' if k == 0 else f'<div class="sect" style="padding:3mm 6mm"><h2 style="font-size:12pt;margin:0">{esc(t["cat"][c])}</h2></div>'
-            pages.append(f'''<div class="page"><div class="hd">{LOGO}<span class="k">{esc(T[L]["cat"])}</span></div>
+            pages.append(f'''<div class="page cp"><div class="hd">{LOGO}<span class="k">{esc(T[L]["cat"])}</span></div>
 {sect}<div class="grid">{cards}</div>{footer(L, cfg, site, "/" + L + "/products/" + cat_slug[c] + "/")}</div>''')
     return doc(L, "".join(pages), title)
 
@@ -187,7 +188,7 @@ def generate(products, i18n, extra, langs, cats, cat_slug, cfg, dist, pdf_url, p
                 page.pdf(path=cached, format="A4", print_background=True, prefer_css_page_size=True)
                 try:
                     import subprocess
-                    subprocess.run(["qpdf", "--object-streams=generate", "--compress-streams=y", "--recompress-flate", "--compression-level=9", "--replace-input", cached], check=False, capture_output=True)
+                    subprocess.run(["qpdf", "--object-streams=generate", "--compress-streams=y", "--recompress-flate", "--compression-level=9", "--linearize", "--replace-input", cached], check=False, capture_output=True)
                 except FileNotFoundError:
                     pass
                 made += 1
