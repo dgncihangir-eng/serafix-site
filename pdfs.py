@@ -90,7 +90,9 @@ def footer(L, cfg, site, url_path):
 
 def img_src(p):
     """JPEG copy on white for PDFs (Chromium passes JPEG through; PNG/WebP would be stored losslessly)."""
-    src = os.path.join(ROOT, "data", "img", p["img"])
+    src = os.path.join(ROOT, "dist", "assets", "img", p["img"])  # normalized copy made by build.py
+    if not os.path.exists(src):
+        src = os.path.join(ROOT, "data", "img", p["img"])
     if not os.path.exists(src):
         return ""
     d = os.path.join(CACHE, "img"); os.makedirs(d, exist_ok=True)

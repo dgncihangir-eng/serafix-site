@@ -105,6 +105,58 @@ def clip(s, n=158):
     return s if len(s) <= n else s[: n - 1].rsplit(" ", 1)[0].rstrip(",.;:") + "…"
 
 
+IMG_OK = (".webp", ".svg")
+
+
+def safe_name(name):
+    stem = os.path.splitext(name)[0]
+    stem = unicodedata.normalize("NFKD", stem.replace("ı", "i").replace("İ", "I")).encode("ascii", "ignore").decode()
+    return (re.sub(r"[^a-z0-9]+", "-", stem.lower()).strip("-") or "img") + ".webp"
+
+
+def normalize_images(folder):
+    """Panel uploads may be JPG/PNG/TIF, huge, CMYK or have spaces/Turkish letters in the name.
+    Convert every such file in dist to a web-safe .webp (max 1600 px) and return {old: new} names."""
+    from PIL import Image
+    renamed = {}
+    for root, _, files in os.walk(folder):
+        for f in files:
+            src = os.path.join(root, f)
+            ext = os.path.splitext(f)[1].lower()
+            if ext == ".svg":
+                continue
+            try:
+                im = Image.open(src)
+                big = max(im.size) > 1600
+            except Exception:
+                continue
+            if ext in IMG_OK and not big and safe_name(f) == f:
+                continue
+            if im.mode == "CMYK":
+                im = im.convert("RGB")
+            im = im.convert("RGBA") if ("A" in im.getbands() or im.mode == "P") else im.convert("RGB")
+            im.thumbnail((1600, 1600))
+            new = safe_name(f)
+            im.save(os.path.join(root, new), "WEBP", quality=86, method=6)
+            if new != f:
+                os.remove(src)
+            rel_old = os.path.relpath(src, folder).replace(os.sep, "/")
+            renamed[rel_old] = os.path.relpath(os.path.join(root, new), folder).replace(os.sep, "/")
+    return renamed
+
+
+IMG_MAP = {}
+
+
+def img_ref(v):
+    """Panel may store '/assets/img/x.jpg', '/data/img/tooling/x.jpg' or 'x.jpg'; return the mapped path under assets/img."""
+    v = (v or "").strip()
+    if "img/" in v:
+        v = v.split("img/", 1)[1]
+    v = v.lstrip("/")
+    return IMG_MAP.get(v, v)
+
+
 def img_url(p):
     return "/assets/img/" + p["img"]
 
@@ -308,7 +360,7 @@ def render(L, key, cat=None, p=None):
         body = f"_{key}.html"
         meta.update(title=S[f"{key}_title"], desc=S[f"{key}_desc"])
         if key == "oem":
-            ctx["capImgs"] = json.load(open(os.path.join(ROOT, "data", "oem_caps.json"), encoding="utf-8")).get("images", [])
+            ctx["capImgs"] = [img_ref(i) for i in json.load(open(os.path.join(ROOT, "data", "oem_caps.json"), encoding="utf-8")).get("images", [])]
             ctx["tooling"] = [{"img": "/assets/img/" + x["img"], "title": x["title"][L], "proc": [t["toolProc"].get(k, k) for k in x.get("process", [])]} for x in TOOLING]
         if key == "downloads":
             ctx["dlCatalogs"] = [{"code": lb, "title": t["dl"]["general"] + " — " + ti, "meta": fmt(t["dl"]["meta"].replace("103", "{n}"), len(PRODUCTS)),
@@ -353,6 +405,11 @@ def main():
     if os.path.isdir(DIST): shutil.rmtree(DIST)
     shutil.copytree(os.path.join(ROOT, "static"), DIST)
     shutil.copytree(os.path.join(ROOT, "data", "img"), os.path.join(DIST, "assets", "img"))
+    IMG_MAP.update(normalize_images(os.path.join(DIST, "assets", "img")))
+    for p in PRODUCTS:
+        p["img"] = IMG_MAP.get(p["img"], p["img"])
+    for x in TOOLING:
+        x["img"] = img_ref(x.get("img"))
     jobs = [("home", None, None), ("products", None, None)] + [("cat", c, None) for c in CATS] + [("product", None, p) for p in PRODUCTS] + \
            [("oem", None, None), ("quality", None, None), ("downloads", None, None), ("guide", None, None)] + \
            [("article", None, g) for g in GUIDES] + [("privacy", None, None), ("cookies", None, None), ("imprint", None, None)]
